@@ -8,4 +8,6 @@ If we choose the recently sold house data, we can have the date sold, and we can
 
 There are also two attributes added by ourselves. They are 'Distance to the university' and 'My university'. I came up with the idea that we can analyze the cost of housing at different universities from different cities in the U.S. In the example code, users are allowed to type the name of their universities to check the distances from their university to the house address. We could make a comparison among various universities. Also, we can analyze these attributes of different cities by changing the location parameter. This is just a brief idea, you can think of your methodology based on it or you can find your own way.
 
-To sum up, we can do simple analysis on the comparison of housing price among different cities and universities. We can also analyze the housing price for one city. We can even simply analyze cost-effective ratio of a university by adding functions to get the universities tuition and expected salaries after graduation.
+To sum up, we can do a simple analysis of the comparison of housing prices among different cities and universities. We can also analyze the housing prices for one city. We can even simply analyze the cost-effective ratio of a university by adding functions to get the university's tuition and expected salaries after graduation.
+
+See example codes in the template.ipynb file.

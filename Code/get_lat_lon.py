@@ -1,7 +1,11 @@
 import requests
+import dotenv
+import os
 
-def get_lat_long_by_university_name(university_name, api_key):
-    # Define your Google Places API key
+dotenv.load_dotenv()
+APIKEY = os.environ["GOOGLE_APIKEY"]
+
+def get_lat_long_by_university_name(university_name):
 
     # Construct the API request URL
     base_url = "https://maps.googleapis.com/maps/api/place/findplacefromtext/json"
@@ -9,7 +13,7 @@ def get_lat_long_by_university_name(university_name, api_key):
         "input": university_name,
         "inputtype": "textquery",
         "fields": "geometry/location",
-        "key": api_key
+        "key": APIKEY
     }
 
     try:
@@ -28,4 +32,3 @@ def get_lat_long_by_university_name(university_name, api_key):
     except requests.exceptions.RequestException as e:
         print(f"Error: {e}")
 
-# api_key = "AIzaSyANhM8geF0XaRYeqUu6aWhWZB4QMu1R5fA"

@@ -79,7 +79,7 @@ def sum_vars(data):
     # return
 
 
-'Adding distance to uni variable'
+'Adding distance to uni variable.  All involving the google API was coded out by Zixuan'
 
 def get_lat_long_by_university_name(university_name):
     
@@ -132,23 +132,33 @@ def compute_distance(la1, la2, lo1, lo2):
 
 
 def return_df_relevant_vars(data):
-    for e in data:
-        _vars = list(e.keys())
+    for info in data:
+        _vars = list(info.keys())
+        
+        la2 = info['latitude']
+        lo2 = info['longitude']
+
+        if info['address'][-5:].isdigit():
+            _zip = info['address'][-5:]
+        _zip = None
+
         if _vars.__contains__('price'):
-            la2 = info['latitude']
-            lo2 = info['longitude']
+            price = info['price']
+        price = info['units'][0]['price']
             
-            info_dict = {
-                'Bathrooms': 2,
-                'Bedrooms': 2,
-                'LivingArea': info['livingArea'],
-                'Price': info['price'],
-                'Rent_estimate': info['rentZestimate'],
-                'Address': info['address'],
-                'My university': university_name,
-                'Distance to the university': compute_distance(la1, la2, lo1, lo2),
-                'Image': info['imgSrc']
-            }
+        info_dict = {
+            'DetailURL': info['detailUrl'] 
+            'Bathrooms': BEDS,
+            'Bedrooms': BATHS,
+            'LivingArea': info['livingArea'],
+            'Price': price,
+            'Rent_estimate': info['rentZestimate'],
+            'Address': info['address'],
+            'Zip': _zip
+            'My university': university_name,
+            'Distance to the university': compute_distance(la1, la2, lo1, lo2),
+            'Image': info['imgSrc']
+        }
 
 
 

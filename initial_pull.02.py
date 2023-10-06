@@ -2,13 +2,7 @@ import requests
 import os
 import csv
 import dotenv
-import haversine as hs   
-from haversine import Unit
 
-'''
-Majority of this code not inlcuding recent commits was written out by Zixuan. I [Joe] transcribed the logic into this .py.
-See 'template.ipynb' for initial design.
-'''
 
 SOURCE_URL = "https://zillow-com1.p.rapidapi.com/propertyExtendedSearch"
 

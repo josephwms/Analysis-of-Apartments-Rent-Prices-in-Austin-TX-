@@ -1,13 +1,18 @@
 import requests
+import dotenv
+import os
 
-def get_zipcode(address, api_key):
+dotenv.load_dotenv()
+APIKEY = os.environ["GOOGLE_APIKEY"]
+
+def get_zipcode(address):
     # Define the base URL for the Google Maps Geocoding API
     base_url = "https://maps.googleapis.com/maps/api/geocode/json"
 
     # Parameters for the API request
     params = {
         "address": address,
-        "key": api_key,
+        "key": APIKEY,
     }
 
     try:

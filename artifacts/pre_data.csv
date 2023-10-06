@@ -1,4 +1,4 @@
-printed 2023-10-06 10:58:46.378859 +
+printed 2023-10-06 17:11:06.196753 +
 there are [2] pages and 82 listings provided in this output + 
  +
 {'units': [{'beds': '2', 'price': '$2,699+'}], 'listingStatus': 'FOR_RENT', 'zpid': '30.255554--97.761955', 'longitude': -97.761955, 'buildingName': 'Lamar Union', 'address': '1100 S Lamar Blvd, Austin, TX', 'detailUrl': '/apartments/austin-tx/lamar-union/5fSxLV/', 'isBuilding': True, 'hasImage': True, 'lotId': 1034598911, 'imgSrc': 'https://photos.zillowstatic.com/fp/a6fb88f0c9479a5afb087ee1b7a7d03b-p_e.jpg', 'latitude': 30.255554} + 

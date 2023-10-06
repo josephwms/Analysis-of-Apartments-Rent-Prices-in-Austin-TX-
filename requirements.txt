@@ -1,2 +1,2 @@
 requests==2.27.1
-dotenv==1.0.0
+haversine==2.8.0

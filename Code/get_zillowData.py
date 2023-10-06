@@ -3,7 +3,8 @@ import os
 import csv
 import dotenv
 import datetime
-import haversine as hs   
+import haversine as hs
+import time
 #from haversine import Unit
 
 from get_lat_lon import get_lat_long_by_university_name
@@ -19,8 +20,6 @@ APIKEY = os.environ["APIKEY"]
 #define constraints
 BEDS = 2
 BATHS = 2
-
-PAGES = 3
 '''
 API only returns 20 pages max 41 results per page.  I've kept PAGES=3 to avoid reaching the 2/second constraint
 '''
@@ -29,7 +28,7 @@ API only returns 20 pages max 41 results per page.  I've kept PAGES=3 to avoid r
 def initial_pull():
     data = []
 
-    for i in range(1, PAGES):
+    for i in range(1, 21):
         
         querystring = {"location":"Austin, TX","page":str(i),"status_type":"ForRent","home_type":"Apartments","bathsMin":str(BATHS),
                     "bathsMax":str(BEDS),"bedsMin":str(BATHS),"bedsMax":str(BEDS)}
@@ -41,6 +40,8 @@ def initial_pull():
         }
 
         response = requests.get(SOURCE_URL, headers=headers, params=querystring)
+
+        time.sleep(.25)
 
         json_ = response.json()
 
@@ -78,16 +79,20 @@ la1, lo1 = get_lat_long_by_university_name(university_name)
 
 
 def compute_distance(la1, la2, lo1, lo2):
+    if type(la2) == float and type(lo2) == float:
 
-    loc1 = (la1, lo1)
-    loc2 = (la2, lo2)
- 
-    distance = round(hs.haversine(loc1, loc2, unit='mi'), 2)
+        loc1 = (la1, lo1)
+        loc2 = (la2, lo2)
+    
+        distance = round(hs.haversine(loc1, loc2, unit='mi'), 2)
 
-    result = str(distance) + ' miles'
+        result = str(distance) + ' miles'
 
-    return result
+        return result
 
+    else: 
+        
+        return None
 
 
 def return_df_relevant_vars(pre_data):

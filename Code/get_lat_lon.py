@@ -24,11 +24,9 @@ def get_lat_long_by_university_name(university_name):
             location = data["candidates"][0]["geometry"]["location"]
             latitude = location["lat"]
             longitude = location["lng"]
-            # print(f"Latitude: {latitude}, Longitude: {longitude}")
             return latitude, longitude
         else:
             print(f"Failed to retrieve coordinates. Status: {data['status']}")
 
     except requests.exceptions.RequestException as e:
         print(f"Error: {e}")
-

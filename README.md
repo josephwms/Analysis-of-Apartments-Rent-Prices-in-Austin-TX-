@@ -10,4 +10,9 @@ There are also two attributes added by ourselves. They are 'Distance to the univ
 
 To sum up, we can do a simple analysis of the comparison of housing prices among different cities and universities. We can also analyze the housing prices for one city. We can even simply analyze the cost-effective ratio of a university by adding functions to get the university's tuition and expected salaries after graduation.
 
-See example codes in the template.ipynb file.
+See codes in the folder named code in the cleanData branch.
+
+Run pip install -r requirements.txt. first, and then run python3 code/main_clean_data.py
+
+Right now, there's a error for APIKEY of RAPIDAPI, you can help to fix that error.
+

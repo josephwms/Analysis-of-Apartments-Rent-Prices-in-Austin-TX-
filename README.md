@@ -4,7 +4,7 @@ Here is the link to the API (https://rapidapi.com/apimaker/api/zillow-com1).
 
 We chose 'Location' == 'Austin, TX', 'bathsMin/Max' == 2, 'bedsMin/Max' == 2, 'status' == 'ForRent', 'home_type' == 'Apartments'. For a query conducted around 6:00 pm Fri Oct 6, 2023, this yielded approximately 785 unique listings, conveniently within our query limit of 820 [20 pages of 41 observations each]. 
 
-To execute the code, you should run the following codes from terminal: 
+To execute the code, you should run the following codes from the terminal in order: 
 
 >> git clone [github SSH]
 >> cd eco395m-project1-midterm

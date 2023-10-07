@@ -5,7 +5,6 @@ import dotenv
 import datetime
 import haversine as hs
 import time
-#from haversine import Unit
 
 from get_lat_lon import get_lat_long_by_university_name
 from get_zipcode import get_zipcode
@@ -20,9 +19,6 @@ APIKEY = os.environ["APIKEY"]
 #define constraints
 BEDS = 2
 BATHS = 2
-'''
-API only returns 20 pages max 41 results per page.  I've kept PAGES=3 to avoid reaching the 2/second constraint
-'''
 
 
 def initial_pull():
@@ -127,8 +123,6 @@ def return_df_relevant_vars(pre_data):
         }
 
         data.append(info_dict)
-    
-    #print(data)
 
     return data
 

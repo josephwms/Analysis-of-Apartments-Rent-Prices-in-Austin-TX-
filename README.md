@@ -5,10 +5,14 @@ Here is the link to the API (https://rapidapi.com/apimaker/api/zillow-com1).
 We chose 'Location' == 'Austin, TX', 'bathsMin/Max' == 2, 'bedsMin/Max' == 2, 'status' == 'ForRent', 'home_type' == 'Apartments'. For a query conducted around 6:00pm Fri Oct 6, 2023 this yielded approximately 785 unique listings, conveniently within our query limit of 820 [20 pages of 41 observations each]. 
 
 To execute the code:
-(i)   run 'git clone [github SSH]' from terminal
-(ii)  run 'cd Code'
-(iii) run 'pip install -r requirements.txt' from terminal
-(iv)  run 'python3 get_zillowData.py'
+(i)   run 'git clone [github SSH]' from terminal  
+
+(ii)  run 'cd Code'  
+
+(iii) run 'pip install -r requirements.txt' from terminal  
+
+(iv)  run 'python3 get_zillowData.py'  
+
 
 There is a hidden .env file in the root directory and the /code directory with API keys for both the Google Maps and Zillow API. If you are receiving errors please reach out to me at joewlimms1221@gmail.com and I will share the API keys with you as they are under a paywall.
 

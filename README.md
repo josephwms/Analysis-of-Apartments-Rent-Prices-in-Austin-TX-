@@ -6,8 +6,9 @@ We chose 'Location' == 'Austin, TX', 'bathsMin/Max' == 2, 'bedsMin/Max' == 2, 's
 
 To execute the code:
 (i)   run 'git clone [github SSH]' from terminal
-(ii)  run 'Code/pip install -r requirements.txt' from terminal
-(iii) run 'python3 Code/get_zillowData.py'
+(ii)  run 'cd Code'
+(iii) run 'pip install -r requirements.txt' from terminal
+(iv)  run 'python3 get_zillowData.py'
 
 There is a hidden .env file in the root directory and the /code directory with API keys for both the Google Maps and Zillow API. If you are receiving errors please reach out to me at joewlimms1221@gmail.com and I will share the API keys with you as they are under a paywall.
 

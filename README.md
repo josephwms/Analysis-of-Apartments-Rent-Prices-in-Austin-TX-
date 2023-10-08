@@ -7,6 +7,7 @@ We chose 'Location' == 'Austin, TX', 'bathsMin/Max' == 2, 'bedsMin/Max' == 2, 's
 To execute the code, you should run the following codes from the terminal in order: 
 
 >> git clone [github SSH]
+
 >> cd eco395m-project1-midterm
 
 >> cd Code  

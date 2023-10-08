@@ -63,21 +63,39 @@ df['Distance to the university'] = df['Distance to the university'].str.extract(
 X1 = df[['Distance to the university', 'Bedrooms']]
 y1 = df['Price']
 
-# Create and fit a multiple linear regression model
 model = LinearRegression()
 model.fit(X1, y1)
 
-# Print the coefficients
 print(f'Intercept: {model.intercept_}')
 print(f'Coefficient for Distance to the university: {model.coef_[0]}')
 print(f'Coefficient for Bedrooms: {model.coef_[1]}')
 
-# Predict rental rates
 y_pred = model.predict(X1)
 
-# Evaluate the model
 r2_ = r2_score(y1, y_pred)
 
 print(f'R-squared: {r2_}')
 
 #Now taking both the variables into account gives a relatively bigger r2 which means a lot more variance in rent is explained by these two factors/variables. The relationship is negative with distance and positive with number of bedrooms as expected.
+
+#Lets see which zipcodes have the highest rents
+
+# Group data by zip code and calculate the average price for each zip code
+zipcode_rents = df.groupby('Zip')['Price'].mean().reset_index()
+
+# Sort zip codes by average price in descending order
+zipcode_rents = zipcode_rents.sort_values(by='Price', ascending=False)
+
+# Plot the top N most expensive zip codes (i.e. top 10)
+top_n = 10
+top_zipcodes = zipcode_rents['Zip'][:top_n].astype(str)
+top_rents = zipcode_rents['Price'][:top_n]
+
+plt.figure(figsize=(12, 6))
+plt.bar(top_zipcodes, top_rents)
+plt.xlabel('Zip Code')
+plt.ylabel('Average Price')
+plt.title(f'Top {top_n} Most Expensive Zip Codes')
+plt.xticks(top_zipcodes, rotation=45)
+plt.show()
+

@@ -14,7 +14,10 @@ To execute the code, you should run the following codes from the terminal in ord
 
 >> pip install -r requirements.txt
 
->> python3 get_zillowData.py 
+>> python3 get_zillowData.py
+>> cd ..
+
+>> python3 Code/RF_train.py
 
 
 There is a hidden .env file in the root directory and the /code directory with API keys for both the Google Maps and Zillow API. If you are receiving errors please reach out to me at joewlimms1221@gmail.com and I will share the API keys with you as they are under a paywall.

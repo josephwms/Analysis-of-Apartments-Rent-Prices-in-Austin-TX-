@@ -15,6 +15,7 @@ To execute the code, you should run the following codes from the terminal in ord
 >> pip install -r requirements.txt
 
 >> python3 get_zillowData.py
+
 >> cd ..
 
 >> python3 Code/RF_train.py

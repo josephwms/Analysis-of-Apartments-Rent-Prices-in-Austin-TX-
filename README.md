@@ -49,7 +49,7 @@
 
 * ***Variables:*** We chose 'Zip', 'LivingArea', 'Bathrooms', 'Bedrooms', and 'Distance to the University' as X, and chose 'Price' as Y for our regression models.
 
-* ***Model Selection*** We tried several regression models, which are Random Forest, Decision Tree,.............
+* ***Model Selection:*** We tried several regression models, which are Random Forest, Decision Tree,.............
 
 
 

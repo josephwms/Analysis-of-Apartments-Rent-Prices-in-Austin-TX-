@@ -28,7 +28,9 @@ The attributes that we have added are distance to university and zip_code, for i
 
 You will get a CSV file for each type of home, and also a final result.csv containing the data of all types of home.
 
-To see data pre-cleaning and added attributes see 'pre_data.csv' in the 'artifacts' dir..  There are also page counts and observation counts from the APU query.  If you are wondering why attributes such as LivingArea and RentEstimate are missing, check that file to verify it is not included.  It may be possible to hard code some of those values using the provided link to the Zillow listing.  In the case that Zip is missing, it may be a failure from the get_zipcode.py file. However, the success rate for that query is relatively high.
+To see data pre-cleaning and added attributes see 'pre_data.csv' in the 'artifacts' dir..  There are also page counts and observation counts from the APU query.  If you are wondering why attributes such as LivingArea and RentEstimate are missing, check that file to verify it is not included.  It may be possible to hard code some of those values using the provided link to the Zillow listing.  In the case that Zip is missing, it may be a failure from the get_zipcode.py file. However, the success rate for that query is relatively high.   
+
+<iframe src="images/LA_P_scatter_plot.html" width="800" height="600"></iframe>
 
 
 

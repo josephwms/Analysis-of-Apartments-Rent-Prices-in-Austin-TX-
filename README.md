@@ -33,7 +33,7 @@
  
    
 * **Something to Mention:**
-* 
+ 
 * A successful execution of the code will last about 5 minutes since we set up a sleep function for each loop to avoid reaching the request limit of the API. 
 
 

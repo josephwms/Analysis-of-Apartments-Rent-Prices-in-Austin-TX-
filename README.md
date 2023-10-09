@@ -1,8 +1,8 @@
-<big>**Welcome to our project!**<big>
+<span style="font-size: larger;">**Welcome to our project!**
 
 Here is the link to the API (https://rapidapi.com/apimaker/api/zillow-com1). 
 
-For a query conducted around 17:02 Mon Oct 9, 2023, this yielded approximately 2800 unique listings for home types we listed in the 'Code/get_zillowData.py'. The home type is apartments for rent in Austin, TX. See detailed setting of the parameters in the code mentioned above. 
+For a query conducted around 17:02 Mon Oct 9, 2023, this yielded approximately 2800 unique listings for home types we listed in the 'Code/get_zillowData.py'. The home type is apartments for rent in Austin, TX. See the detailed setting of the parameters in the code mentioned above. 
 
 To execute the code and get the cleaned result.csv file (the data file that you can use for further analysis), you should run the following codes from the terminal in order: 
 

@@ -23,7 +23,7 @@ To execute the code and get the cleaned result.csv file (the data file that you 
 
 You will get 6 CSV files named 'data_0, ..., data_5' that contain data for the first/second/.../sixth home type respectively. Also, you will get a CSV file named 'pre_result.csv', which combines the 6 CSV files above. Finally, you will get a CSV file named 'result.csv', which is the final result of our data collection and cleaning.  
 
-*Caution! An error called 'KeyError: 'props'' may happen when you execute 'get_zillowData.py'. This is because of the unstableness of the API. You can run the code again until you can find a 'result.csv' file in your artifacts folder. We are really sorry for this, but sometimes the unstableness may occur for some API, hope you can understand, thanks! 
+**Caution! An error called 'KeyError: 'props'' may happen when you execute 'get_zillowData.py'. This is because of the unstableness of the API. You can run the code again until you can find a 'result.csv' file in your artifacts folder. We are really sorry for this, but sometimes the unstableness may occur for some API, hope you can understand, thanks!** 
 
    
 A successful execution of the code will last about 4 minutes since we set up a sleep function for each loop to avoid reaching the request limit of the API. 

@@ -1,4 +1,4 @@
-<font size="7">**Welcome to our project!**</font>
+<font size="5">**Welcome to our project!**</font>
 
 Here is the link to the API (https://rapidapi.com/apimaker/api/zillow-com1). 
 

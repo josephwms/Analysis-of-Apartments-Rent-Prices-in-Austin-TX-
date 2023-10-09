@@ -25,7 +25,7 @@
 >> python3 get_zillowData.py
 
 * **Results you will get:**
-* Six CSV files named 'data_0, ..., data_5' that contain data for the first/second/.../sixth home type respectively.
+* 6 CSV files named 'data_0, ... , data_5' that contain data for the first/second/.../sixth home type respectively.
 * A CSV file named 'pre_result.csv', which combines the 6 CSV files above but contains some empty values in it.
 * A CSV file named **'result.csv'**, which is the **final result** of our data collection and cleaning.  
 

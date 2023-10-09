@@ -4,7 +4,7 @@
 ## a. Data Collection and Cleaning
  
 
-* Here is the link to the API we used to retrieve price data(https://rapidapi.com/apimaker/api/zillow-com1). 
+* **Source:** here is the link to the API we used to retrieve price data (https://rapidapi.com/apimaker/api/zillow-com1). 
 
 * For a query conducted around 17:08 Mon Oct 9, 2023, this yielded approximately 2800 unique listings with no empty values in the column of important features we listed in the 'Code/get_zillowData.py'. The home type we chose is apartments for rent in Austin, TX. See the detailed setting of the parameters in the code mentioned above. 
 
@@ -20,7 +20,9 @@
 
 >> python3 get_zillowData.py
 
-You will get 6 CSV files named 'data_0, ..., data_5' that contain data for the first/second/.../sixth home type respectively. Also, you will get a CSV file named 'pre_result.csv', which combines the 6 CSV files above. Finally, you will get a CSV file named 'result.csv', which is the final result of our data collection and cleaning.  
+* You will get 6 CSV files named 'data_0, ..., data_5' that contain data for the first/second/.../sixth home type respectively.
+* Also, you will get a CSV file named 'pre_result.csv', which combines the 6 CSV files above.
+* Finally, you will get a CSV file named 'result.csv', which is the final result of our data collection and cleaning.  
 
 **Caution! An error called 'KeyError: 'props'' may happen when you execute 'get_zillowData.py'. This is because of the unstableness of the API. You can run the code again until you can find a 'result.csv' file in your artifacts folder. We are really sorry for this, but sometimes the unstableness may occur for some API, hope you can understand, thanks!** 
 

@@ -51,7 +51,7 @@
 
 * ***Model Selection:*** We tried several regression models, which are Random Forest, Decision Tree,.............
   
-* ***Execution Method***
+* ***Execution Method:***
 
 >> cd ..
 

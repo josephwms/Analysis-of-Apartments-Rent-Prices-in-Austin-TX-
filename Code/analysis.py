@@ -147,3 +147,92 @@ correlation_coefficient = correlation_matrix.loc['LivingArea', 'Price']
 print(f"Correlation Coefficient: {correlation_coefficient}")
 
 '''There is a moderately strong positive relationship between living area and rent which means as living area increases then so does rent. Also, about 50% variability in rent is explained by living area'''
+
+# Please Set the base path for images. Here is mine as an example
+image_path = r"C:\users\rayna\downloads\repos\eco395m-project1-midterm\images"
+
+# Extract the relevant columns
+price = df["Price"]
+living_area = df["LivingArea"]
+distance = df["Distance to the university (in miles)"]
+bathroom = df["Bathrooms"]
+bedroom = df["Bedrooms"]
+zip_code = df["Zip"]
+
+# Set the style and context for the plot
+sns.set(style="whitegrid")
+sns.set_context("talk")
+
+# Creating Box Plot for Price and Distance
+bins_distance = [0, 1, 2, 3, 6, 11, 20]
+labels_distance = ["0-1", "1-2", "2-3", "3-6", "6-11", "11-20"]
+data["Binned_Distance"] = pd.cut(
+    data["Distance to the university (in miles)"],
+    bins=bins_distance,
+    labels=labels_distance,
+    right=False,
+)
+
+# Get default palette color
+default_color = sns.color_palette()[0]
+
+# Define properties for box and outlier
+boxprops = {"facecolor": default_color, "color": default_color}
+flierprops = {
+    "markerfacecolor": default_color,
+    "markeredgecolor": default_color,
+    "markersize": 5,
+}
+
+plt.figure(figsize=(12, 8))
+sns.boxplot(
+    x="Binned_Distance",
+    y="Price",
+    data=data,
+    boxprops=boxprops,
+    flierprops=flierprops,
+    color=default_color,
+)
+plt.title("Price vs. Binned Distance to the University")
+plt.xlabel("Binned Distance to UT Austin (miles)")
+plt.ylabel("Price")
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.savefig(f"{image_path}\\Price_Distance_Box.png")
+
+# Creting a box plot that only graphs specific zip codes
+
+min_listings = 50
+zip_counts = data["Zip"].value_counts()
+zip_to_include = zip_counts[zip_counts > min_listings].index
+
+filtered_data = data[data["Zip"].isin(zip_to_include)]
+
+# Box Plot for Price and Filtered Zip Codes
+
+# Get default palette color
+default_color = sns.color_palette()[0]
+
+# Define properties for box and outlier
+boxprops_zip = {"facecolor": default_color, "color": default_color}
+flierprops_zip = {
+    "markerfacecolor": default_color,
+    "markeredgecolor": default_color,
+    "markersize": 5,
+}
+
+plt.figure(figsize=(15, 8))
+sns.boxplot(
+    x="Zip",
+    y="Price",
+    data=filtered_data,
+    boxprops=boxprops_zip,
+    flierprops=flierprops_zip,
+    color=default_color,
+)
+plt.title("Price vs. Zip Code (with at least {} listings)".format(min_listings))
+plt.xlabel("Zip Code")
+plt.ylabel("Price")
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.savefig(f"{image_path}\\Price_Zip_Box.png")

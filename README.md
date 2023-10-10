@@ -71,6 +71,16 @@
 
 ## C. Analysis
 
+* ***Relation between prices and other attributes***
+
+* We use Python to visualize the relationship, see the figures below.
+
+![LA_P_scatter_plot](images/Price_Area.png)
+![LA_P_scatter_plot](images/Price_Distance.png)
+![LA_P_scatter_plot](images/Price_Bathrooms.png)
+![LA_P_scatter_plot](images/Price_Bedrooms.png)
+![LA_P_scatter_plot](images/Price_Zip.png)
+
 You can view the interactive Plotly plot for the following figures by downloading the .html file in the 'images' folder, for example, [here](images/LA_P_scatter_plot.html).
 
   

@@ -52,8 +52,15 @@ Also, there are some attributes that we computed and added to the dataset, which
 
 ***Model Selection:*** We tried several regression models, which are Random Forest, Decision Tree, and linear regression.
 
-***Model Comparison:*** We computed the R-Square score of each model as the evaluation metric. After comparison, we found that the Random Forest model gives us the best result, and we will use it to conduct further prediction analysis.
-  
+***Model Comparison:*** We computed the R-Square score of each model as the evaluation metric. After comparison, we found that the Random Forest model gives us the best result, and we will use it to conduct further prediction analysis.  
+
+|  Model   | R Square  |
+|  ----  | ----  |
+| Random Forest  | 0.954 |
+| Decision Tree  | 0.914 |
+| Linear Regression  | 0.651 |
+
+    
   
 ***Execution Method:***
 

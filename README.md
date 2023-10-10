@@ -1,7 +1,7 @@
 # Analysis of Apartments' Rent Prices in Austin, TX! (Especially for UT Students)
 
 
-## a. Data Collection and Cleaning
+## A. Data Collection and Cleaning
  
 * ***Source:*** Here is the link to the API we used to retrieve data (https://rapidapi.com/apimaker/api/zillow-com1). 
 
@@ -43,7 +43,7 @@
 * If you are wondering why an attribute such as LivingArea is missing for some rows, the reason is that not every house for rent provides such an attribute publicly. Therefore, we may not get some attributes and will receive a CSV file with some missing values. That's why we need to clean the data. In the case that Zip is missing, it may be a failure from the get_zipcode.py file. However, the success rate for that query is relatively high. We will get the final CSV file under several trials.
 
 
-## b. Price Regression Modelling
+## B. Price Regression Modelling
 
 * ***Goals:*** To build a regression model to predict a house rent for apartments in Austin, TX given several attributes such as 'Zip Code', 'Living Area', 'Bathrooms', etc.
 
@@ -69,12 +69,30 @@
 
 
 
-## c. Statistical Analysis
+## C. Statistical Analysis
 
 You can view the interactive Plotly plot for the following figures by downloading the .html file in the 'images' folder, for example, [here](images/LA_P_scatter_plot.html).
 
   
 ![LA_P_scatter_plot](images/LA_P_scatter_plot.png)
+
+  
+
+## D. Results  
+
+
+## E. Limitations  
+
+* ***Data:***
+
+* ***Model:***
+
+* ***Analysis:***
+
+  
+
+
+## F. Further Improvement
 
 
 

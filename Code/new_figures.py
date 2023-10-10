@@ -74,3 +74,42 @@ plt.xlabel('Zip Code')
 plt.ylabel('Price')
 plt.tight_layout()
 plt.savefig(f'{image_path}\\Price_Zip.png')
+
+#Creating Box Plot for Price and Distance
+bins_distance = [0, 1, 2, 3, 6, 11, 20]  
+labels_distance = ['0-1', '1-2', '2-3', '3-6', '6-11', '11-20']
+data['Binned_Distance'] = pd.cut(data['Distance to the university (in miles)'], bins=bins_distance, labels=labels_distance, right=False)
+
+# Get default palette color
+default_color = sns.color_palette()[0]
+
+# Define properties for box and outlier
+boxprops = {'facecolor': default_color, 'color': default_color}
+flierprops = {'markerfacecolor': default_color, 'markeredgecolor': default_color, 'markersize': 5}
+
+plt.figure(figsize=(12, 8))
+sns.boxplot(x='Binned_Distance', y='Price', data=data, boxprops=boxprops, flierprops=flierprops, color=default_color)
+plt.title('Price vs. Binned Distance to the University')
+plt.xlabel('Binned Distance to UT Austin (miles)')
+plt.ylabel('Price')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.savefig(f'{image_path}\\Price_Distance_Box.png')
+
+# Box Plot for Price and Zip Codes
+
+# Get default palette color
+default_color = sns.color_palette()[0]
+
+# Define properties for box and outlier
+boxprops_zip = {'facecolor': default_color, 'color': default_color}
+flierprops_zip = {'markerfacecolor': default_color, 'markeredgecolor': default_color, 'markersize': 5}
+
+plt.figure(figsize=(15, 8))
+sns.boxplot(x='Zip', y='Price', data=data, boxprops=boxprops_zip, flierprops=flierprops_zip, color=default_color)
+plt.title('Price vs. Zip Code')
+plt.xlabel('Zip Code')
+plt.ylabel('Price')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.savefig(f'{image_path}\\Price_Zip_Box.png')

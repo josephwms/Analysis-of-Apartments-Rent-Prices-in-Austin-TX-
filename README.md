@@ -80,7 +80,7 @@
 
 * ***Relation between prices and other attributes***
 
-* We use Python to visualize the relationship, see the execution method and figures below.
+* We use Python to visualize the relationship, try to use the execution method below and you will get the following figures.
 
   
 >> python3 Code/draw_figures.py

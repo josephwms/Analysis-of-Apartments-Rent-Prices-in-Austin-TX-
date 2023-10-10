@@ -71,7 +71,9 @@ Also, there are some attributes that we computed and added to the dataset, which
 * After you run this code in your terminal, you will get a new CSV file named 'artifacts/result_with_predict.csv', which is added a column of our estimated price for the given data computed by our regression model. Also, you will see an R-Square Score of the test set we separated from the whole dataset printed in the terminal. The R-Square Score is around 0.954 for our Random Forest Model, which is really accurate.
 
 ***User Interactions:***
-Our codes have a section for user interactions, after you see the printed R-Square score, you will find that your expected values of the attributes we used are required by our code in the terminal, please follow the instructions given in the 'Code/RT_train.py' to input your expected Zip, Living Area, number of bathrooms, etc. If you follow the instructions correctly, you will get a printed result that contains the estimated rent of your expected apartment.
+Our codes have a section for user interactions, after you see the printed R-Square score, you will find that your expected values of the attributes we used are required by our code in the terminal, please follow the instructions given in the 'Code/RT_train.py' to input your expected Zip, Living Area, number of bathrooms, etc. If you follow the instructions correctly, you will get a printed result that contains the estimated rent of your expected apartment.  
+
+![RF_result](images/RF_result.png)
 
 
 
@@ -93,11 +95,11 @@ Our codes have a section for user interactions, after you see the printed R-Squa
   
 >> python3 Code/draw_figures.py
 
-![LA_P_scatter_plot](images/Price_Area.png)
-![LA_P_scatter_plot](images/Price_Distance.png)
-![LA_P_scatter_plot](images/Price_Bathrooms.png)
-![LA_P_scatter_plot](images/Price_Bedrooms.png)
-![LA_P_scatter_plot](images/Price_Zip.png)
+![Price_Area](images/Price_Area.png)
+![Price_Distance](images/Price_Distance.png)
+![Price_Bathrooms](images/Price_Bathrooms.png)
+![Price_Bedrooms](images/Price_Bedrooms.png)
+![Price_Zip](images/Price_Zip.png)
 
 
 You can also view the interactive Plotly scatter plot for the same figures by **downloading the .html file** in the 'images' folder, for example, [here](images/DISvsPRICE_scatter_plot.html).
@@ -114,7 +116,7 @@ You can also view the interactive Plotly scatter plot for the same figures by **
 * Here is a screenshot of the map. You can have a look at it to understand my words above better.
 
 
-![LA_P_scatter_plot](images/screenshot_of_map.png)
+![screenshot_of_map](images/screenshot_of_map.png)
   
 
 ## D. Results  

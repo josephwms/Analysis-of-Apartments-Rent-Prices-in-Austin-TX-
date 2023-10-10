@@ -38,7 +38,7 @@ def initial_pull(index1):
 
         response = requests.get(SOURCE_URL, headers=headers, params=querystring)
 
-        time.sleep(.25)
+        time.sleep(1)
 
         json_ = response.json()
 
@@ -50,10 +50,8 @@ def initial_pull(index1):
 def compile_and_print(raw_data, FILENAME, Print):
     data = []
     listingcount = 0
-    pagecount = 0
     
     for dict_ in raw_data:
-        # pagecount = dict_['currentPage']
         subdata = dict_['props']
         listingcount += len(subdata)
         for listing in subdata:
@@ -62,7 +60,6 @@ def compile_and_print(raw_data, FILENAME, Print):
     if Print:       
         with open(FILENAME, mode="w+") as file:
             file.write(f"printed {NOW} +\n")
-            # file.write(f"there are {[pagecount]} pages and {listingcount} listings provided in this output + \n +\n")
             for d in data:
                 file.write(f"{d} + \n")
 
@@ -83,7 +80,7 @@ def compute_distance(la1, la2, lo1, lo2):
     
         distance = round(hs.haversine(loc1, loc2, unit='mi'), 2)
 
-        result = str(distance) + ' miles'
+        result = str(distance)
 
         return result
 
@@ -115,11 +112,12 @@ def return_df_relevant_vars(pre_data, index):
             'Bedrooms': bath_bed[index][1],
             'LivingArea': info.get('livingArea', None),
             'Price': price,
-            'Rent_estimate': info.get('rentZestimate', None),
             'Address': info['address'],
             'Zip': _zip,
             'My university': university_name,
-            'Distance to the university': compute_distance(la1, la2, lo1, lo2),
+            'Distance to the university (in miles)': compute_distance(la1, la2, lo1, lo2),
+            'Latitude': la2,
+            'Longitude': lo2,
             'Image': info['imgSrc']
         }
 
@@ -134,12 +132,13 @@ def output_csv(data, FILEPATH):
         'Price',
         'Zip',
         'My university',
-        'Distance to the university',
+        'Distance to the university (in miles)',
         'Address',
         'Bathrooms',
         'Bedrooms',
         'LivingArea',
-        'Rent_estimate',
+        'Latitude',
+        'Longitude',
         'DetailURL'
     ]
 
@@ -154,12 +153,13 @@ def output_csv(data, FILEPATH):
                 'Price': item['Price'],
                 'Zip': item['Zip'],
                 'My university': item['My university'],
-                'Distance to the university': item['Distance to the university'],
+                'Distance to the university (in miles)': item['Distance to the university (in miles)'],
                 'Address': item['Address'],
                 'Bathrooms': item['Bathrooms'],
                 'Bedrooms': item['Bedrooms'],
                 'LivingArea': item['LivingArea'],
-                'Rent_estimate': item['Rent_estimate'],
+                'Latitude': item['Latitude'],
+                'Longitude': item['Longitude'],
                 'DetailURL': item['DetailURL']
             })
     return
@@ -171,12 +171,6 @@ if __name__ == "__main__":
 
 
     OUTPUT_DIR = "artifacts"
-
-    # FILENAME_PRE = f"{OUTPUT_PRE}.csv"
-    # FILENAME = f"{OUTPUT}.csv"
-
-    # FILEPATH_PRE = os.path.join(OUTPUT_DIR, FILENAME_PRE)
-    # FILEPATH = os.path.join(OUTPUT_DIR, FILENAME)
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -199,6 +193,8 @@ if __name__ == "__main__":
             data = return_df_relevant_vars(pre_data, index)
             
             output_csv(data,FILEPATH)
+
+            print(f'Finish retrieving the {index+1}th CSV file')
         
 
     '''Combine several CSV files into one'''
@@ -220,11 +216,13 @@ if __name__ == "__main__":
         writer = csv.writer(file)
         writer.writerows(combined_data)
 
+    print(f'Finish getting pre_result.csv')
+
     '''Filter and keep rows with no empty values in specific columns in the CSV file'''
 
     input_file = os.path.join(OUTPUT_DIR, 'pre_result.csv')
     output_file = os.path.join(OUTPUT_DIR, 'result.csv')
-    columns_to_check = [0, 1, 3, 7] 
+    columns_to_check = [0, 1, 3, 7, 9, 10] 
 
     with open(input_file, 'r') as input_csv_file, open(output_file, 'w', newline='') as output_csv_file:
         csv_reader = csv.reader(input_csv_file)
@@ -234,6 +232,9 @@ if __name__ == "__main__":
             # Check if all specified columns are not empty
             if all(row[i] for i in columns_to_check):
                 csv_writer.writerow(row)
+
+    print(f'Finish getting result.csv')
+    print(f'Success!')
 
     
 

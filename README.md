@@ -96,21 +96,34 @@ You can also view the interactive Plotly scatter plot for the same figures by **
 
 * ***A visualization Map***
 
-* We built a map for visualizing all the attributes of an apartment for rent, users can click on the blue house marker on the map to have a brief understanding of the house rent and other attributes. It can give users a more comprehensive view of the apartments for rent at Austin
+* We built a map for visualizing all the attributes of an apartment for rent.
 
+* Users can click on the blue house marker on the map to have a brief understanding of the house rent and other attributes in a geographical way. It can give users a more comprehensive and clear view of the apartments for rent in Austin.
+
+* To view this map, please click [here](images/rent_price_map.html) and **downloading the .html file**. Then open it locally, and you can enjoy finding information in it.
+
+
+* Here is a screenshot of the map. You can have a look at it to understand my words above better.
+
+
+![LA_P_scatter_plot](images/screenshot_of_map.png)
   
 
 ## D. Results  
+..........  
 
 
 ## E. Reproducibility
 
 * ***Data:***
-
+............
+  
 * ***Model:***
-
+..............
+  
 * ***Analysis:***
-
+.................
+  
   
 
 

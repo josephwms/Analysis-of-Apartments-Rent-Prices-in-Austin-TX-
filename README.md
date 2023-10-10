@@ -96,10 +96,10 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 >> python3 Code/draw_figures.py
 
 ![Price_Area](images/Price_Area.png)
-![Price_Distance](images/Price_Distance.png)
 ![Price_Bathrooms](images/Price_Bathrooms.png)
 ![Price_Bedrooms](images/Price_Bedrooms.png)
-![Price_Zip](images/Price_Zip.png)
+![Price_Distance_Box](images/Price_Distance_Box.png)
+![Price_Zip_Box](images/Price_Zip_Box.png)
 
 
 You can also view the interactive Plotly scatter plot for the same figures by **downloading the .html file** in the 'images' folder, for example, [here](images/DISvsPRICE_scatter_plot.html).

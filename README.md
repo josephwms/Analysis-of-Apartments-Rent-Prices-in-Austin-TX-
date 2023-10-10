@@ -56,7 +56,7 @@ Also, there are some attributes that we computed and added to the dataset, which
 
 |  Model   | R Square  |
 |  ----  | ----  |
-| Random Forest  | 0.954 |
+| **Random Forest** | 0.954 |
 | Decision Tree  | 0.914 |
 | Linear Regression  | 0.651 |
 

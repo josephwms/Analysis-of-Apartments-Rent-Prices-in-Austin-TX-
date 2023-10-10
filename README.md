@@ -69,7 +69,7 @@
 
 
 
-## C. Statistical Analysis
+## C. Analysis
 
 You can view the interactive Plotly plot for the following figures by downloading the .html file in the 'images' folder, for example, [here](images/LA_P_scatter_plot.html).
 

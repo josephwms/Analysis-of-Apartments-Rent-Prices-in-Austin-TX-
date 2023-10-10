@@ -51,7 +51,7 @@
 
 * ***Model Selection:*** We tried several regression models, which are Random Forest, Decision Tree, and linear regression.
 
-* ***Model Comparison*** We computed the R-Square score of each model as the evaluation metric. After comparison, we found that the .... model gives us the best result, and we will use it to conduct further prediction analysis.
+* ***Model Comparison:*** We computed the R-Square score of each model as the evaluation metric. After comparison, we found that the .... model gives us the best result, and we will use it to conduct further prediction analysis.
   
   
 * ***Execution Method:***

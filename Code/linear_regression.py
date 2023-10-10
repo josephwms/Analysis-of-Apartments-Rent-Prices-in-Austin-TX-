@@ -18,3 +18,9 @@ x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 # Initialize and train the Linear Regression model
 lr_regressor = LinearRegression().fit(x_train, y_train)
 
+# Make predictions on the test data
+y_pred = lr_regressor.predict(x_test)
+
+# Evaluate the model
+r2 = r2_score(y_test, y_pred)
+print(f"R-squared (R2) Score: {r2}")

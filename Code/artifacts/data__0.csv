@@ -1,0 +1,821 @@
+Price,Zip,My university,Distance to the university (in miles),Address,Bathrooms,Bedrooms,LivingArea,Latitude,Longitude,DetailURL
+1525,78652,UT Austin,12.14,"827 Camino Vaquero Pkwy, Austin, TX",1,1,,30.123463,-97.804634,zillow.com/b/view-at-estancia-austin-tx-CCCv7q/
+1145,78741,UT Austin,3.73,"1700 Willow Creek Dr, Austin, TX",1,1,,30.235699,-97.72755,zillow.com/apartments/austin-tx/the-sondery/9LSPXN/
+1295,78741,UT Austin,3.91,"2101 Burton Dr, Austin, TX",1,1,,30.232567,-97.73197,zillow.com/apartments/austin-tx/array/5Xht6V/
+1365,78723,UT Austin,2.81,"City View at Mueller, 1106 Reinli St, Austin, TX 78723",1,1,668,30.317232,-97.70241,zillow.com/apartments/austin-tx/city-view-at-mueller/9LRg8J/
+1064,78753,UT Austin,10.12,"1501 E Howard Ln, Austin, TX",1,1,,30.425362,-97.67432,zillow.com/apartments/austin-tx/bridge-at-harris-ridge/BKhm4Q/
+1466,78753,UT Austin,10.12,"1501 W Howard Ln, Austin, TX",1,1,,30.425362,-97.67432,zillow.com/b/the-kelsey-at-scofield-farms-austin-tx-CCYKJB/
+1755,78758,UT Austin,6.71,"10300 Metropolitan Dr, Austin, TX",1,1,,30.384886,-97.717834,zillow.com/b/the-bond-austin-tx-9LTFhc/
+1932,78702,UT Austin,1.27,"1109 N Interstate Highway 35, Austin, TX",1,1,,30.271206,-97.73153,zillow.com/apartments/austin-tx/avenir/9mzgyw/
+1314,78745,UT Austin,5.44,"122 Sheraton Ave, Austin, TX",1,1,,30.215004,-97.76748,zillow.com/apartments/austin-tx/prospect/CCBVCd/
+1535,78741,UT Austin,4.23,"4404 E Oltorf St, Austin, TX",1,1,,30.22863,-97.72476,zillow.com/apartments/austin-tx/oltera-in-soeast/5Xht5R/
+1214,78744,UT Austin,7.22,"4506 E William Cannon Dr, Austin, TX",1,1,,30.185814,-97.754616,zillow.com/b/bridges-at-canyon-view-austin-tx-65bVvZ/
+1125,78753,UT Austin,5.38,"8926 N Lamar Blvd, Austin, TX",1,1,,30.360119,-97.699776,zillow.com/apartments/austin-tx/aubry-hills-apartments/5XhsxZ/
+1550,78744,UT Austin,7.4,"7733 Burleson Rd, Austin, TX",1,1,,30.187958,-97.69547,zillow.com/apartments/austin-tx/citizen-house-bergstrom/BsX3t6/
+1345,78747,UT Austin,11.37,"2213 Cascades Ave, Austin, TX",1,1,,30.133038,-97.79727,zillow.com/apartments/austin-tx/cascades-at-onion-creek/CJ2nfr/
+2119,78723,UT Austin,2.33,"1414 E 51st St, Austin, TX",1,1,,30.306755,-97.703255,zillow.com/apartments/austin-tx/solomon/9T5bqM/
+1201,78729,UT Austin,12.65,"10015 Lake Creek Pkwy, Austin, TX",1,1,,30.466927,-97.78658,zillow.com/apartments/austin-tx/legends-lake-creek/5Xht8q/
+1872,78702,UT Austin,2.14,"2025 E 7th St, Austin, TX",1,1,,30.26159,-97.719826,zillow.com/apartments/austin-tx/7east/65Z4VV/
+1726,78741,UT Austin,4.88,"6400 E Riverside Dr, Austin, TX",1,1,,30.225224,-97.701324,zillow.com/apartments/austin-tx/urban-east/9T5f32/
+1524,,UT Austin,4.37,"6117 Fm 696, Austin, TX",1,1,,30.282854,-97.66359,zillow.com/apartments/austin-tx/citizen-house-mlk/CJDCNx/
+1570,78741,UT Austin,4.97,"6507 E Riverside Dr, Austin, TX",1,1,,30.223694,-97.70157,zillow.com/apartments/austin-tx/crosstown/9T5f39/
+1510,78721,UT Austin,3.45,"5400 Jain Ln, Austin, TX",1,1,,30.262774,-97.68724,zillow.com/apartments/austin-tx/broadstone-east-end/C2RvCp/
+1990,78702,UT Austin,1.72,"1000 E 5th St, Austin, TX",1,1,,30.2645,-97.732216,zillow.com/apartments/austin-tx/corazon/5Yy9c5/
+1788,78731,UT Austin,2.17,"4424 Jackson Ave, Austin, TX",1,1,,30.317192,-97.75281,zillow.com/apartments/austin-tx/korina-%26-alder-at-the-grove/Bj6wfT/
+1612,78754,UT Austin,9.01,"12601 Innovar Cir, Austin, TX",1,1,,30.37954,-97.62759,zillow.com/apartments/austin-tx/the-vaughan/C6bhwZ/
+1162,78758,UT Austin,7.97,"11915 Stonehollow Dr, Austin, TX",1,1,,30.401478,-97.706184,zillow.com/b/folio-austin-tx-5Xht5g/
+1498,78702,UT Austin,3.27,"4910 E 7th St, Austin, TX",1,1,,30.254723,-97.69888,zillow.com/apartments/austin-tx/lenox-7th/BcWzHs/
+1324,78750,UT Austin,9.03,"9415 McNeil Dr, Austin, TX",1,1,,30.394287,-97.82618,zillow.com/apartments/austin-tx/promesa/5Xht73/
+1931,78735,UT Austin,7.79,"6401 Rialto Blvd, Austin, TX",1,1,,30.25001,-97.85891,zillow.com/apartments/austin-tx/pearl-lantana/65gHZp/
+1449,78747,UT Austin,10.56,"10801 S Interstate Highway 35 Frontage Rd, Austin, TX",1,1,,30.144293,-97.79303,zillow.com/apartments/austin-tx/farmhouse-apartments/BVmTpn/
+1151,78681,UT Austin,13.36,"2800 La Frontera Blvd, Round Rock, TX",1,1,,30.47763,-97.686646,zillow.com/apartments/round-rock-tx/enclave-at-la-frontera/5Xht49/
+1785,78751,UT Austin,1.74,"4600 W Guadalupe St, Austin, TX",1,1,,30.314058,-97.73258,zillow.com/apartments/austin-tx/residences-at-the-triangle/5Xht9K/
+1304,78717,UT Austin,13.31,"13535 Lyndhurst St, Austin, TX",1,1,,30.477106,-97.785,zillow.com/apartments/austin-tx/the-michael-at-presidio/9md7pG/
+1683,78758,UT Austin,7.63,"3201 Esperanza Xing, Austin, TX",1,1,,30.398983,-97.72366,zillow.com/apartments/austin-tx/the-kenzie-at-the-domain/5g4RfH/
+1250,78704,UT Austin,4.31,"519 Lightsey Rd, Austin, TX",1,1,,30.231997,-97.765656,zillow.com/b/519-lightsey-rd-austin-tx-5XkxH8/
+1450,78703,UT Austin,1.38,"1610 Enfield Rd, Austin, TX",1,1,,30.283335,-97.75859,zillow.com/b/1610-enfield-rd-austin-tx-5jCZ7L/
+2320,78701,UT Austin,1.58,"303 W 5th St, Austin, TX",1,1,,30.267775,-97.745964,zillow.com/apartments/austin-tx/hanover-republic-square/9T5VQT/
+2426,78701,UT Austin,1.73,"215 Brazos St, Austin, TX",1,1,,30.26457,-97.74249,zillow.com/apartments/austin-tx/hanover-brazos-street/BtgB6D/
+950,78758,UT Austin,6.02,"1200 Mearns Meadow Blvd, Austin, TX",1,1,,30.370842,-97.70184,zillow.com/apartments/austin-tx/ascent-at-quail-creek/5Xht9p/
+1536,78745,UT Austin,7.86,"7731 Menchaca Rd, Austin, TX",1,1,,30.194897,-97.81044,zillow.com/apartments/austin-tx/perch/Btsj4b/
+1192,78745,UT Austin,6.51,"401 Little Texas Ln, Austin, TX",1,1,,30.20007,-97.77253,zillow.com/apartments/austin-tx/avana-soco/5Xht7x/
+2640,78702,UT Austin,2.36,"1512 Holly St FLOOR 4-ID71, Austin, TX 78702",1,1,688,30.25524,-97.73056,zillow.com/homedetails/1512-Holly-St-FLOOR-4-ID71-Austin-TX-78702/2063064700_zpid/
+1480,78741,UT Austin,5.19,"2511 Montopolis Dr, Austin, TX",1,1,,30.218279,-97.70717,zillow.com/apartments/austin-tx/the-monroe/9LSQZn/
+1374,78758,UT Austin,7.62,"3001 Esperanza Xing, Austin, TX",1,1,,30.398647,-97.722084,zillow.com/apartments/austin-tx/griffis-at-the-domain/5Xht35/
+1419,78751,UT Austin,2.33,"5400 N Lamar Blvd, Austin, TX",1,1,,30.322506,-97.73117,zillow.com/b/camden-lamar-heights-austin-tx-9jxmYs/
+1382,78744,UT Austin,7.63,"7301 S Interstate Highway 35 Svrd Nb, Austin, TX",1,1,,30.183514,-97.77416,zillow.com/b/the-bennett-austin-tx-CbCdZW/
+1450,78748,UT Austin,10.03,"10400 Old Manchaca Rd, Austin, TX",1,1,,30.168966,-97.83098,zillow.com/apartments/austin-tx/casata-austin/9LSmLB/
+998,78729,UT Austin,12.07,"9811 Copper Creek Dr, Austin, TX",1,1,,30.45797,-97.78799,zillow.com/apartments/austin-tx/tides-on-copper-creek/5Xht5D/
+1749,78724,UT Austin,6.11,"8101 Loyola Ln, Austin, TX",1,1,,30.293488,-97.63414,zillow.com/apartments/austin-tx/bluestem-at-loyola/C4dxDm/
+1825,78758,UT Austin,6.02,"9127 Research Blvd, Austin, TX",1,1,,30.376022,-97.72927,zillow.com/apartments/austin-tx/presidium-waterford/C8g9Qn/
+1952,78759,UT Austin,7.38,"10801 N Mopac Expy, Austin, TX",1,1,,30.395721,-97.731544,zillow.com/apartments/austin-tx/alexan-braker-pointe/9T5kw7/
+1458,78723,UT Austin,3.76,"5521 Springdale Rd, Austin, TX",1,1,,30.298279,-97.67439,zillow.com/apartments/austin-tx/the-banks-of-springdale/BPWJ4w/
+1574,78745,UT Austin,8.29,"8200 S Congress Ave, Austin, TX",1,1,,30.176832,-97.785774,zillow.com/apartments/austin-tx/the-prescott/9T5g69/
+1554,78744,UT Austin,5.6,"7205 E Ben White Blvd, Austin, TX",1,1,,30.215166,-97.69798,zillow.com/apartments/austin-tx/veranda/CHvW64/
+1641,78717,UT Austin,13.21,"13460 Lyndhurst St, Austin, TX",1,1,,30.47534,-97.78615,zillow.com/apartments/austin-tx/the-asher/CFXVxp/
+1309,78727,UT Austin,10.19,"5400 W Parmer Ln, Austin, TX",1,1,,30.436523,-97.73352,zillow.com/apartments/austin-tx/stone-oak-at-parmer/5Xht5w/
+1553,78752,UT Austin,3.05,"212 W Highland Mall Blvd, Austin, TX",1,1,,30.328861,-97.71454,zillow.com/apartments/austin-tx/medina-highlands/C3TMyb/
+1495,78704,UT Austin,2.36,"500 S Congress Ave, Austin, TX",1,1,,30.256325,-97.747696,zillow.com/apartments/austin-tx/south-congress-square/5Xhsyh/
+1367,78741,UT Austin,4.48,"5700 E Riverside Dr, Austin, TX",1,1,,30.228456,-97.709755,zillow.com/apartments/austin-tx/the-zoey/9T5f24/
+1535,78738,UT Austin,16.68,"5511 Caprock Summit Dr, Austin, TX",1,1,,30.32188,-98.01358,zillow.com/b/the-artesian-at-bee-cave-bee-cave-tx-CCr5fd/
+1575,78739,UT Austin,12.39,"12100 Archeleta Blvd, Austin, TX",1,1,,30.17094,-97.89267,zillow.com/apartments/austin-tx/arborview-circle-c-ranch-62%2b/Bs69Tb/
+995,78741,UT Austin,4.26,"2207 Wickersham Ln, Austin, TX",1,1,,30.229067,-97.720375,zillow.com/apartments/austin-tx/the-patten/5Xht4y/
+1233,,UT Austin,8.24,"8001 Interstate Hwy, Austin, TX",1,1,,30.17485,-97.776184,zillow.com/apartments/austin-tx/ethos-apartments/C4S3k9/
+1369,78752,UT Austin,2.99,"112 Will Davis Dr, Austin, TX",1,1,,30.327608,-97.713844,zillow.com/apartments/austin-tx/revolve-atx/CGCBsH/
+1319,78754,UT Austin,8.46,"12201 Dessau Rd, Austin, TX",1,1,,30.384438,-97.647415,zillow.com/apartments/austin-tx/lucent/9LT832/
+1591,78745,UT Austin,5.17,"4323 S Congress Ave, Austin, TX",1,1,,30.21825,-97.76423,zillow.com/b/st.-elmo-apartments-austin-tx-9T5fgB/
+1203,78758,UT Austin,5.97,"1070 Mearns Meadow Blvd, Austin, TX",1,1,,30.369415,-97.69965,zillow.com/apartments/austin-tx/the-vibe/5XhsyJ/
+1386,78735,UT Austin,7.61,"5313 Vega Ave, Austin, TX",1,1,,30.24665,-97.85424,zillow.com/apartments/austin-tx/the-markson-austin/BzsWrB/
+2009,78704,UT Austin,2.42,"300 E Riverside Dr, Austin, TX",1,1,,30.2546,-97.7433,zillow.com/apartments/austin-tx/water-marq/5XhtDD/
+1248,78750,UT Austin,6.51,"6500 Champion Grandview Way, Austin, TX",1,1,,30.369059,-97.794106,zillow.com/apartments/austin-tx/10x-living-at-grandview/5Xht26/
+2125,78704,UT Austin,3.09,"1515 S Lamar Blvd, Austin, TX",1,1,,30.251123,-97.76387,zillow.com/apartments/austin-tx/fifteen15-s-lamar-apartments/5hsXWD/
+1165,78758,UT Austin,8.02,"12001 Metric Blvd, Austin, TX",1,1,,30.401136,-97.70123,zillow.com/apartments/austin-tx/madison-northridge/5XhszT/
+1299,78729,UT Austin,11.9,"8100 Anderson Mill Rd, Austin, TX",1,1,,30.46042,-97.75685,zillow.com/apartments/austin-tx/the-royce-at-8100/65W4F9/
+1195,78756,UT Austin,2.59,"Sunshine Terrace Apts., 5607 Sunshine Dr APT 116, Austin, TX 78756",1,1,625,30.326035,-97.72885,zillow.com/apartments/austin-tx/sunshine-terrace-apts./5XrmyD/
+1311,78745,UT Austin,7.52,"7201 S Congress Ave, Austin, TX",1,1,,30.187042,-97.780365,zillow.com/apartments/austin-tx/soco-park-apartment-homes/5Xhsw5/
+1220,78727,UT Austin,9.85,"13401 Metric Blvd, Austin, TX",1,1,,30.422745,-97.67926,zillow.com/apartments/austin-tx/the-amethyst/5Xht4z/
+1188,78759,UT Austin,8.59,"3220 Duval Rd, Austin, TX",1,1,,30.41215,-97.7163,zillow.com/apartments/austin-tx/milo/5XhswB/
+1379,78752,UT Austin,3.67,"810 W Saint Johns Ave, Austin, TX",1,1,,30.339931,-97.71857,zillow.com/apartments/austin-tx/midtown-commons/5Xht6w/
+1030,78741,UT Austin,4.2,"2336 Douglas St, Austin, TX",1,1,,30.22825,-97.73378,zillow.com/apartments/austin-tx/chandelier/5XhsyS/
+1484,78745,UT Austin,8.12,"135 Foremost Dr, Austin, TX",1,1,,30.178148,-97.78165,zillow.com/apartments/austin-tx/lenox-soco/BMFKZK/
+1418,78735,UT Austin,8.51,"7601 Rialto Blvd, Austin, TX",1,1,,30.253077,-97.872826,zillow.com/apartments/austin-tx/lantana-hills/5Xhswx/
+1410,78704,UT Austin,4.54,"3715 S 1st St, Austin, TX",1,1,,30.228777,-97.76695,zillow.com/apartments/austin-tx/tree/5Xkk7h/
+1509,78749,UT Austin,9.86,"4100 W Slaughter Ln, Austin, TX",1,1,,30.190298,-97.85575,zillow.com/apartments/austin-tx/camden-cedar-hills/5XhsxT/
+1241,78705,UT Austin,0.46,"3106 Speedway Mked, Austin, TX",1,1,,30.295689,-97.736984,zillow.com/b/mark-embers-austin-tx-C7B3Mb/
+1199,78705,UT Austin,0.74,"2907 West Ave, Austin, TX",1,1,,30.297243,-97.744415,zillow.com/apartments/austin-tx/warwick/65WbrM/
+1275,78704,UT Austin,3.45,"2110 Kinney Ave APT A, Austin, TX 78704",1,1,,30.24878,-97.77077,zillow.com/homedetails/2110-Kinney-Ave-APT-A-Austin-TX-78704/2057666943_zpid/
+1551,78717,UT Austin,13.31,"13500 Lyndhurst St, Austin, TX",1,1,,30.476568,-97.787636,zillow.com/apartments/austin-tx/amli-lakeline/BMFmty/
+1627,78702,UT Austin,1.82,"1211 E 5th St, Austin, TX",1,1,,30.263216,-97.73049,zillow.com/apartments/austin-tx/residences-at-saltillo/BNPrCY/
+1233,78751,UT Austin,2.19,"5200 N Lamar Blvd, Austin, TX",1,1,,30.320496,-97.73197,zillow.com/apartments/austin-tx/summit-at-hyde-park/5Xht4c/
+902,78758,UT Austin,5.94,"1804 W Rundberg Ln, Austin, TX",1,1,,30.372692,-97.71366,zillow.com/apartments/austin-tx/ascent-at-walnut-creek/5Xht2H/
+1245,78729,UT Austin,12.92,"13425 Ranch Road 620 N, Austin, TX",1,1,,30.47127,-97.7852,zillow.com/apartments/austin-tx/griffis-lakeline-station/5XhtD4/
+1175,78741,UT Austin,3.38,"2101 Elmont Dr, Austin, TX",1,1,,30.24097,-97.725815,zillow.com/apartments/austin-tx/mesh/5Yv2DB/
+1277,78703,UT Austin,1.54,"1301 W 9th St, Austin, TX",1,1,,30.275658,-97.757195,zillow.com/apartments/austin-tx/park-place-apartments/5Xht8G/
+1400,78660,UT Austin,10.01,"13624 Dessau Rd, Pflugerville, TX",1,1,,30.406271,-97.63778,zillow.com/apartments/pflugerville-tx/bridge-at-tech-crossing/Bzw2jn/
+1294,78717,UT Austin,13.73,"10800 Lakeline Blvd, Austin, TX",1,1,,30.481613,-97.793365,zillow.com/apartments/austin-tx/bridge-at-indigo/5Xht58/
+1549,78717,UT Austin,13.79,"Bridge at Indigo, 10800 Lakeline Blvd APT 3305, Austin, TX 78717",1,1,791,30.482452,-97.79353,zillow.com/homedetails/10800-Lakeline-Blvd-APT-3305-Austin-TX-78717/2088387273_zpid/
+1499,78753,UT Austin,8.31,"12205 N Lamar Blvd, Austin, TX",1,1,,30.398603,-97.67909,zillow.com/apartments/austin-tx/bridge-at-heritage-woods/9T5jTD/
+1359,78729,UT Austin,10.68,"12215 Hunters Chase Dr, Austin, TX",1,1,,30.440235,-97.774,zillow.com/apartments/austin-tx/bridge-at-balcones/5Xhsz6/
+1119,78731,UT Austin,4.96,"3600 Greystone Dr, Austin, TX",1,1,,30.359732,-97.75152,zillow.com/apartments/austin-tx/bridge-at-northwest-hills/5Xht7W/
+1099,78728,UT Austin,10.81,"2323 Wells Branch Pkwy, Austin, TX",1,1,,30.43954,-97.68706,zillow.com/apartments/austin-tx/bridge-at-sweetwater/5Xht7n/
+1125,78759,UT Austin,5.8,"8405 Bent Tree Rd, Austin, TX",1,1,,30.372824,-97.74281,zillow.com/apartments/austin-tx/bridge-at-benttree/5XhsyP/
+1239,78753,UT Austin,9.16,"12800 Center Lake Dr, Austin, TX",1,1,,30.408188,-97.66902,zillow.com/apartments/austin-tx/bridge-at-tech-ridge/5Xht2r/
+1269,78753,UT Austin,9.41,"701 Center Ridge Dr, Austin, TX",1,1,,30.41217,-97.668976,zillow.com/apartments/austin-tx/bridge-at-center-ridge/5Xht7V/
+1270,78745,UT Austin,7.45,"2809 W William Cannon Dr, Austin, TX",1,1,,30.207396,-97.817986,zillow.com/apartments/austin-tx/bridge-at-sterling-springs/5XhtCb/
+1284,78741,UT Austin,4.75,"6107 E Riverside Dr, Austin, TX",1,1,,30.225632,-97.70573,zillow.com/apartments/austin-tx/bridge-at-henley/BPFXR9/
+1299,78749,UT Austin,9.4,"4825 Davis Ln, Austin, TX",1,1,,30.204395,-97.859726,zillow.com/apartments/austin-tx/camden-stoneleigh/5XhsxK/
+1276,78726,UT Austin,11.57,"8600 N Fm 620 Rd, Austin, TX",1,1,,30.42654,-97.847275,zillow.com/b/the-verandah-austin-tx-9gpMtz/
+1198,78759,UT Austin,7.32,"9617 Great Hills Trl, Austin, TX",1,1,,30.393883,-97.75384,zillow.com/apartments/austin-tx/arboretum-oaks/5XhsxJ/
+1407,78758,UT Austin,7.47,"11119 Alterra Pkwy, Austin, TX",1,1,,30.39632,-97.72088,zillow.com/apartments/austin-tx/gallery-at-domain/65Xx3D/
+1100,78745,UT Austin,6.81,"711 Eberhart Ln, Austin, TX",1,1,,30.20057,-97.78676,zillow.com/apartments/austin-tx/mission-south/5YyF4s/
+1167,78744,UT Austin,6.45,"1800 E Stassney Ln, Austin, TX",1,1,,30.198387,-97.76238,zillow.com/apartments/austin-tx/stassney-at-soco/5Xht9z/
+1315,78736,UT Austin,9.8,"7870 W Us Highway 290, Austin, TX",1,1,,30.2306,-97.88617,zillow.com/apartments/austin-tx/yaupon-by-windsor/BqMWNJ/
+1599,78735,UT Austin,9.51,"8818 Travis Hills Dr, Austin, TX",1,1,,30.258902,-97.892075,zillow.com/apartments/austin-tx/hudson-miramont/5Xht33/
+1115,78729,UT Austin,10.93,"8519 Cahill Dr, Austin, TX",1,1,,30.44403,-97.7731,zillow.com/apartments/austin-tx/polo-club/5Xht8f/
+1394,78759,UT Austin,8.36,"3201 Duval Rd, Austin, TX",1,1,,30.409157,-97.719635,zillow.com/apartments/austin-tx/mesa-verde/5Xht6x/
+1925,78746,UT Austin,5.43,"Nalle Woods of Westlake, 4700 N Capital Of Texas Hwy APT 531, Austin, TX 78746",1,1,874,30.344938,-97.80041,zillow.com/b/nalle-woods-of-westlake-austin-tx-5Xht8L/
+1098,78741,UT Austin,3.8,"1845 Burton Dr, Austin, TX",1,1,,30.234434,-97.7297,zillow.com/apartments/austin-tx/alister-apartments/5Xht6D/
+2610,78703,UT Austin,1.75,"1011 W 5th St FLOOR 3-ID25, Austin, TX 78703",1,1,691,30.264004,-97.73261,zillow.com/homedetails/1011-W-5th-St-FLOOR-3-ID25-Austin-TX-78703/2057692677_zpid/
+3630,78701,UT Austin,1.48,"610 Nueces St FLOOR 19-ID85, Austin, TX 78701",1,1,880,30.270334,-97.74845,zillow.com/homedetails/610-Nueces-St-FLOOR-19-ID85-Austin-TX-78701/2062320429_zpid/
+1460,78750,UT Austin,13.71,"14115 N Highway 183, Austin, TX",1,1,,30.479387,-97.80151,zillow.com/apartments/austin-tx/brightleaf-at-lakeline/CBbwHp/
+1336,78732,UT Austin,10.73,"4500 Steiner Ranch Blvd, Austin, TX",1,1,,30.383175,-97.87968,zillow.com/apartments/austin-tx/meritage-at-steiner-ranch/5Xht7F/
+1439,78758,UT Austin,7.44,"11011 Domain Dr, Austin, TX",1,1,,30.39632,-97.72627,zillow.com/apartments/austin-tx/villages-at-domain/5XhtFS/
+1232,78748,UT Austin,10.96,"11301 Farrah Ln, Austin, TX",1,1,,30.14036,-97.80052,zillow.com/apartments/austin-tx/landing-at-double-creek/9ggLXp/
+1325,78751,UT Austin,1.01,"3914 Avenue D, Austin, TX",1,1,,30.303387,-97.73333,zillow.com/b/mark-v-austin-tx-5XjxvH/
+1425,78724,UT Austin,9.22,"10346 Blue Bluff Rd, Austin, TX",1,1,,30.318628,-97.58585,zillow.com/apartments/austin-tx/citizen-house-blue-bluff/CZ8s5f/
+1708,78735,UT Austin,8.04,"2716 Barton Creek Blvd, Austin, TX",1,1,,30.293428,-97.87121,zillow.com/apartments/austin-tx/barton-creek-villas/5Xht8S/
+1775,78741,UT Austin,3.31,"1400 Royal Crest Dr, Austin, TX",1,1,,30.24167,-97.72882,zillow.com/apartments/austin-tx/alexan-riverside/C8TPsD/
+2249,78701,UT Austin,1.82,"110 San Antonio St, Austin, TX",1,1,,30.265287,-97.749466,zillow.com/apartments/austin-tx/northshore-austin/65dF7Z/
+1495,78705,UT Austin,0.6,"2515 Pearl St, Austin, TX",1,1,,30.290554,-97.74633,zillow.com/apartments/austin-tx/texan-pearl/5XjfMM/
+2243,78701,UT Austin,1.48,"615 W 7th St, Austin, TX",1,1,,30.270493,-97.748856,zillow.com/apartments/austin-tx/seven/5jJFL9/
+1340,78717,UT Austin,14.16,"9019 N Lake Creek Pkwy, Austin, TX",1,1,,30.48625,-97.80104,zillow.com/apartments/austin-tx/avery-oaks/C2XVKP/
+1148,78758,UT Austin,8.88,"12345 Lamplight Village Ave, Austin, TX",1,1,,30.412535,-97.695335,zillow.com/apartments/austin-tx/renaissance-at-north-bend/5XhtBn/
+1259,78729,UT Austin,13.07,"9826 N Lake Creek Pkwy, Austin, TX",1,1,,30.471613,-97.79376,zillow.com/b/bexley-at-whitestone-austin-tx-5jCjYV/
+1149,78729,UT Austin,11.56,"8601 Anderson Mill Rd, Austin, TX",1,1,,30.454153,-97.767746,zillow.com/apartments/austin-tx/bexley-at-anderson-mill/5Xht55/
+1922,78702,UT Austin,1.42,"1000 San Marcos St, Austin, TX",1,1,,30.269035,-97.73125,zillow.com/apartments/austin-tx/amli-eastside/5XhsyB/
+1586,78701,UT Austin,1.77,"710 E 3rd St, Austin, TX",1,1,,30.263382,-97.736305,zillow.com/apartments/austin-tx/3waller/BPWHmN/
+1679,78751,UT Austin,1.93,"105 W 51st St, Austin, TX",1,1,,30.315027,-97.72458,zillow.com/apartments/austin-tx/waller-creekside/5XrXYP/
+1183,78717,UT Austin,13.49,"9520 Spectrum Dr, Austin, TX",1,1,,30.482141,-97.77008,zillow.com/apartments/austin-tx/95twenty-apartments/5XkbB8/
+1120,78741,UT Austin,5.15,"2405 Montopolis Dr, Austin, TX",1,1,,30.219723,-97.704704,zillow.com/apartments/austin-tx/the-mont/BPNRhh/
+1100,78754,UT Austin,5.15,"8054 Exchange Dr, Austin, TX",1,1,,30.330648,-97.66493,zillow.com/apartments/austin-tx/creekstone/5Xht9Q/
+1489,78717,UT Austin,13.46,"15222 N Fm 620 Rd, Austin, TX",1,1,,30.483809,-97.741875,zillow.com/apartments/austin-tx/the-avery/C5c4tH/
+1523,78753,UT Austin,8.42,"12217 N Interstate Highway 35, Austin, TX",1,1,,30.397142,-97.67131,zillow.com/b/the-upland-austin-tx-C76ZMt/
+1229,78750,UT Austin,9.35,"9900 McNeil Dr, Austin, TX",1,1,,30.395758,-97.83281,zillow.com/apartments/austin-tx/bridge-at-ribelin-ranch/5XhswV/
+1265,78613,UT Austin,13.49,"13010 Ridgeline Blvd, Cedar Park, TX",1,1,,30.47306,-97.812,zillow.com/apartments/cedar-park-tx/lakeline-crossing/B6yVBp/
+1365,78758,UT Austin,6.77,"10301 Burnet Rd, Austin, TX",1,1,,30.386227,-97.72185,zillow.com/apartments/austin-tx/windsor-burnet/9LTFhj/
+1245,78735,UT Austin,8.08,"6636 W William Cannon Dr, Austin, TX",1,1,,30.244474,-97.86164,zillow.com/apartments/austin-tx/lantana-ridge/5Xht5d/
+1160,78753,UT Austin,5.28,"8912 N Lamar Blvd, Austin, TX",1,1,,30.358967,-97.70079,zillow.com/apartments/austin-tx/the-ivy-apartments/5XhtGd/
+1431,78756,UT Austin,2.84,"5453 Burnet Rd, Austin, TX",1,1,,30.33013,-97.73915,zillow.com/apartments/austin-tx/burnet-flats/5YyFzy/
+1640,78758,UT Austin,7.29,"11400 Domain Dr, Austin, TX",1,1,,30.394072,-97.72417,zillow.com/apartments/austin-tx/residences-at-the-domain/5Xht9M/
+1990,78758,UT Austin,7.69,"11310 Domain Dr FLOOR 3-ID203, Austin, TX 78758",1,1,737,30.39997,-97.72547,zillow.com/homedetails/11310-Domain-Dr-FLOOR-3-ID203-Austin-TX-78758/2056069216_zpid/
+1540,78731,UT Austin,2.36,"4330 Bull Creek Rd, Austin, TX",1,1,,30.319307,-97.755,zillow.com/apartments/austin-tx/maa-west-austin/5Xht7Z/
+988,78759,UT Austin,8.34,"11215 Research Blvd, Austin, TX",1,1,,30.409592,-97.74292,zillow.com/apartments/austin-tx/maa-balcones-woods/5Xhsy2/
+1185,78745,UT Austin,10.68,"7655 Ranch Rd N, Austin, TX",1,1,,30.408777,-97.84975,zillow.com/apartments/austin-tx/ellwood-at-lake-travis/BpdHPG/
+1250,78751,UT Austin,1.67,"4605 Avenue A, Austin, TX",1,1,,30.312605,-97.73016,zillow.com/apartments/austin-tx/the-sidney/5Xr3Wb/
+1199,78705,UT Austin,0.93,"1302 W 24th St, Austin, TX",1,1,,30.288975,-97.752106,zillow.com/apartments/austin-tx/pease-parkside-apartments/5XhtFp/
+1190,78753,UT Austin,8.35,"305 E Yager Ln, Austin, TX",1,1,,30.394463,-97.668076,zillow.com/apartments/austin-tx/oxford-at-tech-ridge/5XhsxL/
+1055,78704,UT Austin,3.58,"1221 Algarita Ave, Austin, TX",1,1,,30.237392,-97.74151,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+1328,78745,UT Austin,9.25,"7500 S Interstate Highway 35 Frontage Rd, Austin, TX",1,1,,30.162748,-97.7876,zillow.com/apartments/austin-tx/ladera-apartment-homes/BsJSfs/
+1500,78701,UT Austin,1.0,"504 W 13th St APT 4, Austin, TX 78701",1,1,240,30.276783,-97.745316,zillow.com/homedetails/504-W-13th-St-APT-4-Austin-TX-78701/2077326863_zpid/
+1520,78744,UT Austin,9.26,"8001 E William Cannon Dr, Austin, TX",1,1,,30.156633,-97.71306,zillow.com/apartments/austin-tx/ariza-easton-park/C8BcbN/
+1343,78758,UT Austin,7.03,"2511 W Braker Ln, Austin, TX",1,1,,30.389713,-97.71929,zillow.com/apartments/austin-tx/the-copeland/BMTsxN/
+1469,78758,UT Austin,8.7,"12349 Metric Blvd, Austin, TX",1,1,,30.409672,-97.69474,zillow.com/apartments/austin-tx/camden-huntingdon/5Xhstt/
+1740,78722,UT Austin,1.63,"2901 Manor Rd, Austin, TX",1,1,,30.285328,-97.70946,zillow.com/apartments/austin-tx/starlight/5gJq35/
+1370,78727,UT Austin,10.25,"13201 Legendary Dr, Austin, TX",1,1,,30.437292,-97.7306,zillow.com/apartments/austin-tx/highline-apartments/5h6DqT/
+1490,78703,UT Austin,1.42,"1714 Summit View Pl, Austin, TX",1,1,,30.284933,-97.75984,zillow.com/b/1714-summit-view-pl-austin-tx-5YCfcC/
+1587,78735,UT Austin,7.16,"5604 Sw Pkwy, Austin, TX",1,1,,30.24705,-97.84624,zillow.com/apartments/austin-tx/the-preserve-at-travis-creek/BntPvT/
+1250,78745,UT Austin,5.72,"5010 S Congress Ave, Austin, TX",1,1,,30.212088,-97.77192,zillow.com/apartments/austin-tx/sur512/65cnLM/
+1019,78723,UT Austin,4.07,"7227 E Highway 290, Austin, TX",1,1,,30.322123,-97.67994,zillow.com/apartments/austin-tx/sage-hill-apartment-homes/5Xht8Q/
+1650,78703,UT Austin,1.92,"2412 Enfield Rd APT 7, Austin, TX 78703",1,1,650,30.28879,-97.76874,zillow.com/homedetails/2412-Enfield-Rd-APT-7-Austin-TX-78703/29333446_zpid/
+1530,78723,UT Austin,2.85,"6007 N Interstate Highway 35, Austin, TX",1,1,,30.320812,-97.705986,zillow.com/apartments/austin-tx/windsor-park-towers/9WR7vW/
+1346,78745,UT Austin,8.74,"8515 Brodie Ln, Austin, TX",1,1,,30.197697,-97.83788,zillow.com/apartments/austin-tx/the-vista-on-brodie/5XhtFw/
+1225,78728,UT Austin,12.53,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",1,1,651,30.466547,-97.69331,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+1412,78737,UT Austin,15.71,"383 Rocky Ridge Trl, Austin, TX",1,1,,30.206032,-97.9815,zillow.com/apartments/austin-tx/anthem-at-ledge-stone/BKB5K3/
+1338,78754,UT Austin,6.11,"9911 Dessau Rd, Austin, TX",1,1,,30.357134,-97.67102,zillow.com/apartments/austin-tx/paloma/C723Kd/
+1672,78724,UT Austin,7.64,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",1,1,666,30.315983,-97.61221,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+1214,78613,UT Austin,13.21,"12700 Ridgeline Blvd, Cedar Park, TX",1,1,,30.46888,-97.81171,zillow.com/apartments/cedar-park-tx/arella-lakeline/65fZXd/
+1283,78745,UT Austin,6.29,"500 E Stassney Ln, Austin, TX",1,1,,30.202974,-97.77072,zillow.com/apartments/austin-tx/griffis-soco-austin/5Xht3g/
+1472,78759,UT Austin,7.14,"10011 Stonelake Blvd, Austin, TX",1,1,,30.392448,-97.738144,zillow.com/apartments/austin-tx/cortland-arboretum/5hS6Kb/
+1320,78717,UT Austin,14.33,"13100 Avery Ranch Blvd, Austin, TX",1,1,,30.488766,-97.801414,zillow.com/b/astra-avery-ranch-austin-tx-BqvfZX/
+1380,78752,UT Austin,2.77,"609 Clayton Ln, Austin, TX",1,1,,30.323809,-97.713455,zillow.com/apartments/austin-tx/ella-parkside/BChKYs/
+1430,78727,UT Austin,10.38,"5708 W Parmer Ln, Austin, TX",1,1,,30.439253,-97.73726,zillow.com/apartments/austin-tx/windsor-republic-place/9n7QMk/
+1254,78613,UT Austin,13.56,"2801 S Lakeline Blvd, Cedar Park, TX",1,1,,30.474752,-97.809975,zillow.com/b/bexley-at-lakeline-cedar-park-tx-65bbry/
+1279,78753,UT Austin,8.93,"1200 E Parmer Ln, Austin, TX",1,1,,30.396175,-97.65264,zillow.com/apartments/austin-tx/bexley-at-tech-ridge/5Xkq8J/
+2130,78703,UT Austin,1.79,"507 Pressler St, Austin, TX",1,1,,30.273165,-97.76015,zillow.com/apartments/austin-tx/pressler-apartments/5Xht47/
+1897,78741,UT Austin,3.02,"1620 E Riverside Dr, Austin, TX",1,1,,30.245651,-97.73004,zillow.com/apartments/austin-tx/amli-south-shore/5Xhswn/
+1549,78757,UT Austin,3.76,"801 Sugaree Ave, Austin, TX",1,1,,30.341022,-97.717834,zillow.com/apartments/austin-tx/crestview-commons-apartments/BKB5MN/
+1183,78750,UT Austin,10.48,"8312 Fathom Cir, Austin, TX",1,1,,30.43651,-97.77795,zillow.com/apartments/austin-tx/summit-at-westwood/5hCDTD/
+1517,78702,UT Austin,1.95,"2823 E Martin Luther King Blvd, Austin, TX",1,1,,30.282427,-97.70468,zillow.com/b/platform-austin-tx-BT7cfX/
+950,78752,UT Austin,2.86,"6008 N Lamar Blvd, Austin, TX",1,1,,30.329414,-97.72546,zillow.com/apartments/austin-tx/the-preserve-central-park/FGzm/
+1099,78753,UT Austin,5.44,"9200 North Plz, Austin, TX",1,1,,30.354607,-97.68585,zillow.com/apartments/austin-tx/tides-on-north-plaza/5Yy9jq/
+888,78723,UT Austin,2.75,"5700 Cameron Rd, Austin, TX",1,1,,30.31562,-97.70209,zillow.com/apartments/austin-tx/tides-at-mueller/5Xhsz3/
+1000,78758,UT Austin,7.66,"11700 Metric Blvd, Austin, TX",1,1,,30.39663,-97.70572,zillow.com/apartments/austin-tx/barstow/5Xht4d/
+1188,78723,UT Austin,3.86,"5605 Springdale Rd, Austin, TX",1,1,,30.298899,-97.67277,zillow.com/apartments/austin-tx/the-reserve-at-springdale/B5xXrf/
+1129,78726,UT Austin,11.58,"9009 N Fm 620 Rd, Austin, TX",1,1,,30.43161,-97.83859,zillow.com/apartments/austin-tx/bridge-at-canyon-creek/9mgphR/
+1190,78731,UT Austin,4.43,"3600 N Hills Dr, Austin, TX",1,1,,30.35107,-97.755615,zillow.com/apartments/austin-tx/peaks-%40-nw-hills/5XhsyD/
+1599,78747,UT Austin,9.49,"9005 Alderman Dr, Austin, TX",1,1,,30.153542,-97.76195,zillow.com/apartments/austin-tx/bridge-at-goodnight-ranch/BPHv39/
+1315,78748,UT Austin,10.33,"10500 S Interstate Highway 35, Austin, TX",1,1,,30.148565,-97.79557,zillow.com/apartments/austin-tx/bell-southpark/BCNrK3/
+1405,78745,UT Austin,8.21,"8103 S Congress Ave, Austin, TX",1,1,,30.177288,-97.7834,zillow.com/apartments/austin-tx/windsor-south-congress/BPWJny/
+1292,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",1,1,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+1561,78723,UT Austin,2.89,"5900 Cameron Rd, Austin, TX",1,1,,30.317389,-97.7008,zillow.com/apartments/austin-tx/highgrove/9LRjRJ/
+1400,78758,UT Austin,8.91,"12430 Metric Blvd, Austin, TX",1,1,,30.412043,-97.691765,zillow.com/apartments/austin-tx/the-langdon-on-parmer/5Xhswb/
+1424,78741,UT Austin,5.39,"1900 Airport Commerce Dr, Austin, TX",1,1,,30.221449,-97.69144,zillow.com/apartments/austin-tx/arise-riverside/BMFMwY/
+1279,78748,UT Austin,8.71,"8800 S 1st St, Austin, TX",1,1,,30.175205,-97.79912,zillow.com/apartments/austin-tx/the-james-on-south-first/65WVsN/
+989,78741,UT Austin,4.54,"3111 Parker Ln, Austin, TX",1,1,,30.223423,-97.74093,zillow.com/apartments/austin-tx/montecito/5Xht79/
+1180,78749,UT Austin,7.11,"4701 Staggerbrush Rd, Austin, TX",1,1,,30.232475,-97.83605,zillow.com/apartments/austin-tx/monterey-ranch/5Xht59/
+1333,78734,UT Austin,14.03,"2208 N Fm 620 Rd, Austin, TX",1,1,,30.384914,-97.94399,zillow.com/apartments/austin-tx/travis-at-the-lake/Bs7fsn/
+1775,78746,UT Austin,5.43,"4700 N Capital Of Texas Hwy, Austin, TX",1,1,,30.344938,-97.80041,zillow.com/apartments/austin-tx/nalle-woods-of-westlake/9T5gFT/
+1485,78704,UT Austin,3.03,"1500 S Lamar Blvd, Austin, TX",1,1,,30.252775,-97.76497,zillow.com/apartments/austin-tx/maa-south-lamar/5Xht9d/
+1874,78704,UT Austin,2.77,"1100 S Lamar Blvd, Austin, TX",1,1,,30.255554,-97.761955,zillow.com/apartments/austin-tx/lamar-union/5fSxLV/
+1082,78741,UT Austin,4.06,"2317 S Pleasant Valley Rd, Austin, TX",1,1,,30.231047,-97.72542,zillow.com/apartments/austin-tx/trio/5XhsvH/
+1221,78759,UT Austin,5.54,"3605 Steck Ave, Austin, TX",1,1,,30.368872,-97.745964,zillow.com/apartments/austin-tx/le-montreaux-apartments/5Xht5f/
+1229,78736,UT Austin,9.86,"7880 Us Highway 290, Austin, TX",1,1,,30.230877,-97.887405,zillow.com/apartments/austin-tx/palo-verde/BfzmYm/
+1179,78748,UT Austin,12.29,"1200 Estancia Pkwy, Austin, TX",1,1,,30.121628,-97.805954,zillow.com/apartments/austin-tx/estancia-villas/BChKZ2/
+1333,78724,UT Austin,6.12,"5301 Decker Ln, Austin, TX",1,1,,30.276928,-97.63484,zillow.com/apartments/austin-tx/spectra-parks/BMpsjP/
+1383,78705,UT Austin,0.78,"3233 Harmon Ave, Austin, TX",1,1,,30.290787,-97.72358,zillow.com/apartments/austin-tx/aura-thirty2/BjYK2z/
+1108,78723,UT Austin,4.55,"6600 Ed Bluestein Blvd, Austin, TX",1,1,,30.30564,-97.6626,zillow.com/apartments/austin-tx/maa-east-austin/5XhtB4/
+1150,78758,UT Austin,5.83,"Ventura North, 9209 Northgate Blvd APT 202, Austin, TX 78758",1,1,600,30.371332,-97.71508,zillow.com/apartments/austin-tx/ventura-north/5XhtB9/
+2330,78705,UT Austin,0.76,"3407 Red River St FLOOR 2-ID140, Austin, TX 78705",1,1,669,30.29372,-97.72502,zillow.com/homedetails/3407-Red-River-St-FLOOR-2-ID140-Austin-TX-78705/2057853732_zpid/
+1279,78752,UT Austin,3.62,"7200 Duval St, Austin, TX",1,1,,30.334927,-97.70731,zillow.com/apartments/austin-tx/duval-at-midtown/5XyLq7/
+1757,78723,UT Austin,1.9,"4646 Mueller Blvd, Austin, TX",1,1,,30.299774,-97.70711,zillow.com/apartments/austin-tx/sync-at-mueller/5YtGGY/
+1317,78741,UT Austin,3.79,"2425 E Riverside Dr, Austin, TX",1,1,,30.23495,-97.72597,zillow.com/apartments/austin-tx/ovation-apartments/5Xht5V/
+1134,78745,UT Austin,7.02,"744 W William Cannon Dr, Austin, TX",1,1,,30.198309,-97.78924,zillow.com/apartments/austin-tx/the-dexter/5Xhsyk/
+1459,78735,UT Austin,5.8,"4424 Gaines Ranch Loop, Austin, TX",1,1,,30.244047,-97.81858,zillow.com/apartments/austin-tx/camden-gaines-ranch/5Xhsx2/
+1228,78758,UT Austin,8.2,"2600 Gracy Farms Ln, Austin, TX",1,1,,30.405788,-97.71126,zillow.com/apartments/austin-tx/the-village-at-gracy-farms/5XhtFh/
+1645,78721,UT Austin,3.24,"1120 Shady Ln, Austin, TX",1,1,,30.261267,-97.692825,zillow.com/apartments/austin-tx/trailhead/BhgdJz/
+1759,78701,UT Austin,2.01,"91 Rainey St, Austin, TX",1,1,,30.260061,-97.73813,zillow.com/apartments/austin-tx/camden-rainey-street/5jCZfF/
+1247,78751,UT Austin,0.9,"109 W 39th St, Austin, TX",1,1,,30.301893,-97.733635,zillow.com/apartments/austin-tx/su-casa/5XhtCx/
+2175,78702,UT Austin,2.53,"1401 Art Dilly Dr, Austin, TX",1,1,,30.252584,-97.732315,zillow.com/apartments/austin-tx/the-weaver/BmK5VT/
+1193,78726,UT Austin,11.77,"9715 N Fm 620 Rd, Austin, TX",1,1,,30.43633,-97.83566,zillow.com/apartments/austin-tx/maa-canyon-pointe/9mhDZQ/
+1437,78759,UT Austin,7.69,"10300 Jollyville Rd, Austin, TX",1,1,,30.399235,-97.75476,zillow.com/apartments/austin-tx/hardrock-canyon/5Xht4Y/
+1799,78723,UT Austin,3.44,"4801 Springdale Rd, Austin, TX",1,1,,30.290627,-97.67882,zillow.com/b/4801-springdale-rd-austin-tx-9LRhpG/
+1435,78705,UT Austin,1.76,"4527 N Lamar Blvd, Austin, TX",1,1,,30.314533,-97.73614,zillow.com/apartments/austin-tx/echo/63PHMx/
+1465,78745,UT Austin,8.2,"8100 S Congress Ave, Austin, TX",1,1,,30.177809,-97.78422,zillow.com/apartments/austin-tx/the-martingale/9tk3Td/
+1095,78758,UT Austin,7.52,"11511 Metric Blvd, Austin, TX",1,1,,30.394564,-97.70575,zillow.com/apartments/austin-tx/trails-of-walnut-creek/5XhtDS/
+1485,78728,UT Austin,13.11,"16304 Fm 1325, Austin, TX",1,1,,30.474253,-97.688515,zillow.com/apartments/austin-tx/bellrock-la-frontera/BzHQSt/
+1848,78703,UT Austin,2.29,"2600 Lake Austin Blvd, Austin, TX",1,1,,30.280432,-97.77358,zillow.com/apartments/austin-tx/the-boulevard-at-town-lake/5Xht5F/
+1580,78741,UT Austin,3.59,"2515 Elmont Dr, Austin, TX",1,1,,30.238956,-97.72076,zillow.com/apartments/austin-tx/bell-lakeshore/BChKck/
+1299,78754,UT Austin,8.77,"12408 Dessau Rd, Austin, TX",1,1,,30.389957,-97.64726,zillow.com/apartments/austin-tx/altair-tech-ridge/BSstQ6/
+1099,78747,UT Austin,10.41,"10505 Interstate Highway 35 Frontage Rd, Austin, TX",1,1,,30.1457,-97.79002,zillow.com/b/bridge-at-asher-austin-tx-C3MVT6/
+1620,78704,UT Austin,4.11,"2717 S Lamar Blvd, Austin, TX",1,1,,30.242962,-97.78013,zillow.com/apartments/austin-tx/bell-south-lamar/5Yy9Xf/
+1150,78745,UT Austin,6.0,"5220 Tahoe Trl APT 201, Austin, TX 78745",1,1,700,30.224243,-97.80331,zillow.com/homedetails/5220-Tahoe-Trl-APT-201-Austin-TX-78745/58313372_zpid/
+1647,78752,UT Austin,2.82,"110 Jacob Fontaine Ln, Austin, TX",1,1,,30.325783,-97.71568,zillow.com/apartments/austin-tx/fivetwo-at-highland/BPLF2r/
+1088,78752,UT Austin,3.94,"7581 Chevy Chase Dr, Austin, TX",1,1,,30.339252,-97.7052,zillow.com/apartments/austin-tx/chevy-chase/5Xht3C/
+1661,78704,UT Austin,4.77,"3816 S Lamar Blvd, Austin, TX",1,1,,30.23912,-97.79158,zillow.com/apartments/austin-tx/retreat-at-barton-creek/5Xht8C/
+1181,78753,UT Austin,7.85,"12118 Walnut Park Xing, Austin, TX",1,1,,30.3901,-97.67627,zillow.com/apartments/austin-tx/canyon-ridge/5Xht6g/
+1198,78728,UT Austin,11.96,"3400 Shoreline Dr, Austin, TX",1,1,,30.456299,-97.68492,zillow.com/apartments/austin-tx/parkside-crossing/5Xht9w/
+1792,78704,UT Austin,4.63,"3607 S Lamar Blvd, Austin, TX",1,1,,30.238764,-97.78773,zillow.com/apartments/austin-tx/groves-south-lamar/9T5YtH/
+1441,78726,UT Austin,10.83,"8021 N Fm 620 Rd, Austin, TX",1,1,,30.41454,-97.84544,zillow.com/b/nolina-flats-austin-tx-BMz4jV/
+1425,78735,UT Austin,9.91,"8715 W Highway 71, Austin, TX",1,1,,30.249733,-97.89627,zillow.com/apartments/austin-tx/amli-covered-bridge/65crMx/
+1445,78748,UT Austin,9.39,"1215 W Slaughter Ln, Austin, TX",1,1,,30.17085,-97.813995,zillow.com/apartments/austin-tx/iron-rock-ranch/5Xht42/
+1450,78747,UT Austin,11.71,"12001 Heatherly Dr, Austin, TX",1,1,,30.127876,-97.79712,zillow.com/b/three-hills-austin-tx-CZ7Jrv/
+1796,78752,UT Austin,3.6,"613 W Saint Johns Ave, Austin, TX",1,1,,30.337954,-97.71584,zillow.com/apartments/austin-tx/the-johnny/9T5j4c/
+1399,78745,UT Austin,5.35,"4411 S Congress Ave, Austin, TX",1,1,,30.216467,-97.76754,zillow.com/apartments/austin-tx/44-south/9T5fhN/
+1080,78744,UT Austin,6.77,"6201 Sneed Cv, Austin, TX",1,1,,30.193949,-97.76345,zillow.com/apartments/austin-tx/terrace-cove/5hJBQv/
+1485,78702,UT Austin,3.58,"720 Airport Blvd, Austin, TX",1,1,,30.2526,-97.69382,zillow.com/apartments/austin-tx/nexus-east/9LRQ9N/
+1227,78729,UT Austin,10.46,"7900 San Felipe Blvd, Austin, TX",1,1,,30.438185,-97.76683,zillow.com/apartments/austin-tx/sona/5XhtCM/
+1320,78747,UT Austin,11.88,"12234 Heatherly Dr, Austin, TX",1,1,,30.126148,-97.80008,zillow.com/apartments/austin-tx/water-oak/C24cTp/
+1405,78727,UT Austin,9.99,"3001 Scofield Ridge Pkwy, Austin, TX",1,1,,30.429852,-97.69842,zillow.com/apartments/austin-tx/windsor-ridge/9LRsJF/
+1376,78741,UT Austin,3.82,"2435 E Riverside Dr, Austin, TX",1,1,,30.23468,-97.724815,zillow.com/apartments/austin-tx/brixton-south-shore/9T5dtV/
+1116,78754,UT Austin,8.22,"12101 Dessau Rd, Austin, TX",1,1,,30.38108,-97.64901,zillow.com/apartments/austin-tx/parmer-place/5Xht9L/
+989,78727,UT Austin,10.5,"13005 Heinemann Dr, Austin, TX",1,1,,30.440895,-97.74411,zillow.com/apartments/austin-tx/melrose-trail/5Xhsz2/
+1260,78727,UT Austin,10.33,"3201 Century Park Blvd, Austin, TX",1,1,,30.434782,-97.69757,zillow.com/apartments/austin-tx/the-olivine/5Xht6H/
+1595,78735,UT Austin,8.0,"6701 Rialto Blvd, Austin, TX",1,1,,30.247726,-97.86174,zillow.com/apartments/austin-tx/windsor-oak-hill/BJzXbp/
+1195,78754,UT Austin,7.99,"12001 Dessau Rd, Austin, TX",1,1,,30.378244,-97.65124,zillow.com/apartments/austin-tx/ascent-north/5Xht82/
+1213,78726,UT Austin,11.82,"9501 N Fm 620 Rd, Austin, TX",1,1,,30.434946,-97.840065,zillow.com/apartments/austin-tx/maa-canyon-creek/9mgkMK/
+1025,78745,UT Austin,5.46,"SoCo Flats - East, 4501 Witham Ln APT 107, Austin, TX 78745",1,1,515,30.213495,-97.76302,zillow.com/b/soco-flats-east-austin-tx-5jCb3j/
+1099,78741,UT Austin,4.2,"2507 Burleson Rd, Austin, TX",1,1,,30.22835,-97.73514,zillow.com/apartments/austin-tx/burl-north/5Xhsyr/
+1495,78704,UT Austin,4.68,"Creek Village, 3737 Keats Dr APT 132, Austin, TX 78704",1,1,813,30.23653,-97.78596,zillow.com/apartments/austin-tx/creek-village/5Xhsyv/
+1398,78746,UT Austin,3.65,"2901 Barton Skyw, Austin, TX",1,1,,30.263254,-97.78981,zillow.com/b/maa-barton-skyway-austin-tx-BgxqPy/
+1735,78731,UT Austin,4.3,"5811 Mesa Dr, Austin, TX",1,1,,30.34414,-97.770035,zillow.com/apartments/austin-tx/maa-park-mesa/5Xht8p/
+2260,78758,UT Austin,7.76,"11420 Rock Rose Ave, Austin, TX",1,1,,30.400852,-97.72312,zillow.com/b/11420-rock-rose-ave-austin-tx-BJdjnG/
+1245,78758,UT Austin,4.71,"8220 Research Blvd, Austin, TX",1,1,,30.355055,-97.71663,zillow.com/apartments/austin-tx/park-at-crestview/5Xht6h/
+1229,78752,UT Austin,3.78,"1521 Reagan Hill Dr, Austin, TX",1,1,,30.32573,-97.689415,zillow.com/apartments/austin-tx/rise-at-the-cameron/9LT3Xf/
+1585,78751,UT Austin,2.48,"5608 Avenue F, Austin, TX",1,1,,30.321781,-97.71938,zillow.com/apartments/austin-tx/west-koenig-flats/65YzdY/
+1367,78744,UT Austin,8.55,"8350 Bluff Springs Rd, Austin, TX",1,1,,30.1686,-97.769165,zillow.com/apartments/austin-tx/wilder/BqY3MM/
+2015,78758,UT Austin,7.35,"3000 Gracie Kiltz Ln, Austin, TX",1,1,,30.394724,-97.72287,zillow.com/apartments/austin-tx/the-bowen/ByFZhr/
+1395,78751,UT Austin,1.92,"5212-B Guadalupe, 5212B Guadalupe St W #1, Austin, TX 78751",1,1,650,30.316587,-97.73228,zillow.com/b/5212-b-guadalupe-austin-tx-C243vf/
+1368,78745,UT Austin,8.24,"7201 Ranch Rd, Austin, TX",1,1,,30.19942,-97.82744,zillow.com/apartments/austin-tx/west-lake-vistas/BT3mmW/
+2800,78704,UT Austin,2.15,"650 Riverside Dr W FLOOR 2-ID32, Austin, TX 78704",1,1,681,30.260103,-97.74953,zillow.com/homedetails/650-Riverside-Dr-W-FLOOR-2-ID32-Austin-TX-78704/2056271938_zpid/
+1226,78653,UT Austin,9.79,"The Element, 5724 E Howard Ln, Manor, TX 78653",1,1,651,30.379513,-97.61023,zillow.com/b/the-element-manor-tx-C4YPvk/
+1936,78758,UT Austin,7.29,"10727 Domain Dr, Austin, TX",1,1,,30.394182,-97.72553,zillow.com/apartments/austin-tx/flatiron-domain/B6n86c/
+1232,78724,UT Austin,9.39,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",1,1,662,30.245188,-97.58748,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+1426,78750,UT Austin,9.63,"13355 Us Highway 183 S, Austin, TX",1,1,,30.15413,-97.69588,zillow.com/b/toscana-apartments-austin-tx-BT4msB/
+1099,78729,UT Austin,10.43,"7905 San Felipe Blvd, Austin, TX",1,1,,30.437466,-97.7689,zillow.com/apartments/austin-tx/summer-grove/5XhtCq/
+1200,78757,UT Austin,5.11,"2301 Ohlen Rd, Austin, TX",1,1,,30.362747,-97.72857,zillow.com/b/oasis-at-midtown-austin-tx-BSXsnV/
+1015,78758,UT Austin,6.07,"1711 Rutland Dr, Austin, TX",1,1,,30.37449,-97.71272,zillow.com/apartments/austin-tx/villas-del-sol/5XhtGm/
+1370,78751,UT Austin,2.31,"5406 Middle Fiskville Rd, Austin, TX",1,1,,30.316849,-97.71484,zillow.com/apartments/austin-tx/flora/9LT3Lx/
+1615,78721,UT Austin,4.18,"2001 Ed Bluestein Blvd, Austin, TX",1,1,,30.259644,-97.675316,zillow.com/apartments/austin-tx/laurel/BwNJzs/
+2560,78741,UT Austin,4.71,"6108 E Riverside Dr FLOOR 3-ID143, Austin, TX 78741",1,1,832,30.226377,-97.705345,zillow.com/homedetails/6108-E-Riverside-Dr-FLOOR-3-ID143-Austin-TX-78741/2057985054_zpid/
+1400,78727,UT Austin,10.06,"5705 Diehl Trl, Austin, TX",1,1,,30.434666,-97.74166,zillow.com/apartments/austin-tx/dk-riata/B6gfND/
+1233,78744,UT Austin,8.24,"Ethos Apartments, 8001 Interstate Highway 1613, Austin, TX 78744",1,1,625,30.17485,-97.776184,zillow.com/b/bridge-at-monarch-bluffs-austin-tx-CHwtYZ/
+1369,78754,UT Austin,6.23,"1625 Edgeworth Bnd, Austin, TX",1,1,,30.356838,-97.66749,zillow.com/apartments/austin-tx/pioneer-hill/BtWLVC/
+1524,78745,UT Austin,6.49,"6001 S Congress Ave, Austin, TX",1,1,,30.201164,-97.77503,zillow.com/apartments/austin-tx/bexley-soco/BMpjKj/
+2485,78701,UT Austin,1.56,"501 Brazos St, Austin, TX",1,1,,30.266886,-97.74118,zillow.com/apartments/austin-tx/sienna-at-the-thompson/9LRMhn/
+1480,78726,UT Austin,10.83,"8021 N Fm 620 Rd, Austin, TX",1,1,,30.41454,-97.84544,zillow.com/apartments/austin-tx/nolina-flats/5Xhsxw/
+1876,78703,UT Austin,1.94,"1611 W 5th St, Austin, TX",1,1,,30.274282,-97.76408,zillow.com/b/5th-street-commons-austin-tx-BBsQvQ/
+2374,78701,UT Austin,1.73,"421 W 3rd St, Austin, TX",1,1,,30.266182,-97.74808,zillow.com/apartments/austin-tx/amli-on-2nd/5Xhsv2/
+2375,78701,UT Austin,1.24,"1104 Sabine St, Austin, TX",1,1,,30.271252,-97.73448,zillow.com/apartments/austin-tx/the-waller/BjbXHR/
+2000,78722,UT Austin,0.98,"3107B Lafayette Ave, Austin, TX 78722",1,1,804,30.287376,-97.72019,zillow.com/homedetails/3107B-Lafayette-Ave-Austin-TX-78722/2068663184_zpid/
+1453,78717,UT Austin,14.1,"9225 N Lake Creek Pkwy, Austin, TX",1,1,,30.485683,-97.80001,zillow.com/apartments/austin-tx/avery-ranch/9jb9BB/
+1439,78732,UT Austin,10.45,"4800 Steiner Ranch Blvd, Austin, TX",1,1,,30.383247,-97.87365,zillow.com/apartments/austin-tx/bridge-at-steiner-ranch/649BSh/
+1304,78744,UT Austin,8.24,"Ethos Apartments, 8001 Interstate Highway 1133, Austin, TX 78744",1,1,905,30.17485,-97.776184,zillow.com/b/bridge-at-monarch-bluffs-austin-tx-CZsyFk/
+1205,78754,UT Austin,5.71,"9500 Dessau Rd, Austin, TX",1,1,,30.352499,-97.675255,zillow.com/b/9500-austin-tx-5Xht7r/
+1047,78730,UT Austin,5.86,"6001 Shepherd Mountain Cv, Austin, TX",1,1,,30.356747,-97.7958,zillow.com/apartments/austin-tx/bridgehead/5XhsyM/
+1321,78745,UT Austin,7.32,"3014 W William Cannon Dr, Austin, TX",1,1,,30.212065,-97.82063,zillow.com/apartments/austin-tx/highlands-hill-country/5Xht5c/
+989,78745,UT Austin,7.3,"6808 S Interstate Highway 35, Austin, TX",1,1,,30.188513,-97.7741,zillow.com/apartments/austin-tx/bridge-at-southpoint/5XhtCB/
+1915,78703,UT Austin,1.66,"801 W 5th St, Austin, TX",1,1,,30.268974,-97.75163,zillow.com/apartments/austin-tx/the-monarch-by-windsor/BSGPT6/
+1183,78759,UT Austin,8.49,"3625 Duval Rd, Austin, TX",1,1,,30.411308,-97.72243,zillow.com/apartments/austin-tx/san-marin/5Xht8F/
+1161,78726,UT Austin,11.43,"8801 N Fm 620 Rd, Austin, TX",1,1,,30.426924,-97.84239,zillow.com/b/sonterra-luxury-apartment-homes-austin-tx-9mgph3/
+1294,78752,UT Austin,4.04,"7607 Blessing Ave, Austin, TX",1,1,,30.332966,-97.691765,zillow.com/apartments/austin-tx/the-vue/5XhtC9/
+1900,78704,UT Austin,3.31,"502 W Live Oak St APT B, Austin, TX 78704",1,1,650,30.2445,-97.75688,zillow.com/homedetails/502-W-Live-Oak-St-APT-B-Austin-TX-78704/2089301052_zpid/
+1175,78752,UT Austin,3.6,"601 W Saint Johns Ave, Austin, TX",1,1,,30.337719,-97.71478,zillow.com/apartments/austin-tx/st.-johns-west/9T5j3r/
+2800,78701,UT Austin,1.76,"222 West Ave, Austin, TX",1,1,,30.267336,-97.75183,zillow.com/b/222-west-ave-austin-tx-5Zhwsz/
+1174,78726,UT Austin,11.8,"9807 N Fm 620 Rd, Austin, TX",1,1,,30.437124,-97.835205,zillow.com/apartments/austin-tx/the-trails-at-canyon-creek/5Xhsxv/
+975,78745,UT Austin,6.59,"6020 S 1st St, Austin, TX",1,1,,30.203266,-97.78467,zillow.com/apartments/austin-tx/bridge-at-turtle-creek/9T5fxN/
+1359,78758,UT Austin,8.77,"12330 Metric Blvd, Austin, TX",1,1,,30.411154,-97.696396,zillow.com/apartments/austin-tx/henry-heights/5XhtFT/
+1350,78705,UT Austin,0.78,"Cedar Street Flats, 3707 Cedar St APT 208, Austin, TX 78705",1,1,450,30.300303,-97.734795,zillow.com/b/cedar-street-flats-austin-tx-5Xy5gp/
+1143,78727,UT Austin,10.1,"13021 Legendary Dr, Austin, TX",1,1,,30.43506,-97.72966,zillow.com/apartments/austin-tx/villas-at-stone-oak-ranch/5XhtFf/
+1757,78741,UT Austin,2.85,"1300 E Riverside Dr, Austin, TX",1,1,,30.247908,-97.734856,zillow.com/apartments/austin-tx/berkshire-riverview/5Xkzfj/
+1339,78747,UT Austin,9.66,"2001 E Slaughter Ln, Austin, TX",1,1,,30.151363,-97.76408,zillow.com/apartments/austin-tx/nexus-at-goodnight-ranch/Bh7tcb/
+1121,78729,UT Austin,11.43,"12800 Turtle Rock Rd, Austin, TX",1,1,,30.451265,-97.77457,zillow.com/apartments/austin-tx/villages-at-turtle-rock/5XhtF8/
+1295,78704,UT Austin,4.46,"3414-3436 Willowrun Dr, Austin, TX",1,1,,30.226168,-97.753204,zillow.com/b/3414-3436-willowrun-dr-austin-tx-9jCjmk/
+1325,78759,UT Austin,7.16,"8701 Bluffstone Cv, Austin, TX",1,1,,30.389389,-97.766235,zillow.com/apartments/austin-tx/canyon-resort-at-great-hills-apartments/5Xhsx5/
+1550,78736,UT Austin,11.41,"8800 Us Highway 290, Austin, TX",1,1,,30.235247,-97.91733,zillow.com/apartments/austin-tx/alister-oak-hill/63G24y/
+1625,78705,UT Austin,0.74,"San Remo Apartments, 2204 San Gabriel St APT 305, Austin, TX 78705",1,1,600,30.286034,-97.748375,zillow.com/apartments/austin-tx/san-remo-apartments/5XhtB3/
+1125,78704,UT Austin,5.0,"4100 Victory Dr, Austin, TX",1,1,,30.233692,-97.79031,zillow.com/apartments/austin-tx/tramor-at-victory-place/5XhtC7/
+2347,78701,UT Austin,1.78,"101 Colorado St, Austin, TX",1,1,,30.26443,-97.745445,zillow.com/apartments/austin-tx/ashton-austin/5Xhsw2/
+1445,78704,UT Austin,4.54,"3505 S Lamar Blvd, Austin, TX",1,1,,30.239237,-97.78608,zillow.com/apartments/austin-tx/south-lamar-village/5XhtGz/
+1233,78744,UT Austin,8.24,"Ethos Apartments, 8001 Interstate Highway 233, Austin, TX 78744",1,1,625,30.17485,-97.776184,zillow.com/b/bridge-at-monarch-bluffs-austin-tx-CbWHxF/
+1313,78744,UT Austin,8.24,"Ethos Apartments, 8001 Interstate Highway 334, Austin, TX 78744",1,1,905,30.17485,-97.776184,zillow.com/b/bridge-at-monarch-bluffs-austin-tx-CZm5ND/
+1340,78744,UT Austin,8.24,"Ethos Apartments, 8001 Interstate Highway 1234, Austin, TX 78744",1,1,811,30.17485,-97.776184,zillow.com/b/bridge-at-monarch-bluffs-austin-tx-CZcgN2/
+1360,78744,UT Austin,8.24,"Ethos Apartments, 8001 Interstate Highway 1733, Austin, TX 78744",1,1,811,30.17485,-97.776184,zillow.com/b/bridge-at-monarch-bluffs-austin-tx-CbMtXp/
+1293,78717,UT Austin,13.36,"9701 Spectrum Dr, Austin, TX",1,1,,30.480186,-97.770515,zillow.com/apartments/austin-tx/rhythm/BPVMfB/
+1209,78744,UT Austin,8.17,"8003 S Ih 35, Austin, TX",1,1,,30.1767,-97.7789,zillow.com/b/bexley-3five-austin-tx-BY3SmC/
+2167,78746,UT Austin,5.32,"3500 N Capital Of Texas Hwy, Austin, TX",1,1,,30.332844,-97.80984,zillow.com/apartments/austin-tx/3500-westlake-apartments/5Xht4C/
+1535,78726,UT Austin,11.02,"Abelia Flats, 8225 N Fm 620 APT 1225, Austin, TX 78726",1,1,776,30.419502,-97.84299,zillow.com/b/abelia-flats-austin-tx-5Xhstm/
+1755,78701,UT Austin,1.19,"827 W 12th St, Austin, TX",1,1,,30.27595,-97.74953,zillow.com/b/the-shoal-austin-tx-9T5Vpq/
+1279,78758,UT Austin,6.45,"10300 Golden Meadow Dr, Austin, TX",1,1,,30.380037,-97.71213,zillow.com/apartments/austin-tx/brook-meadow-village/5Xhsyc/
+1299,78735,UT Austin,10.13,"9301 Old Bee Caves Rd, Austin, TX",1,1,,30.259249,-97.902794,zillow.com/apartments/austin-tx/landmark-conservancy/5jCZZC/
+1175,78704,UT Austin,4.42,"3508 Alpine Cir, Austin, TX",1,1,,30.229332,-97.763,zillow.com/b/soco-at-alpine-austin-tx-5hD8RS/
+1245,78748,UT Austin,10.29,"10801 Old Manchaca Rd, Austin, TX",1,1,,30.16286,-97.828094,zillow.com/apartments/austin-tx/saddle-creek-and-the-cove/5Xht9t/
+1294,78757,UT Austin,10.26,"11210 Fm 2222 Rd, Austin, TX",1,1,,30.400192,-97.85059,zillow.com/b/bell-four-points-austin-tx-BgxSZ7/
+1440,78726,UT Austin,10.83,"8021 N Fm 620 Rd, Austin, TX",1,1,,30.41454,-97.84544,zillow.com/b/nolina-flats-austin-tx-9mgnWf/
+1300,78731,UT Austin,4.87,"3500 Greystone Dr, Austin, TX",1,1,,30.358803,-97.74867,zillow.com/apartments/austin-tx/juniper-springs-apartments/5XhszM/
+995,78751,UT Austin,0.9,"3816 Speedway, Austin, TX",1,1,,30.301788,-97.73327,zillow.com/b/3816-speedway-austin-tx-5XqjF8/
+1298,78728,UT Austin,11.27,"1630 Wells Branch Pkwy, Austin, TX",1,1,,30.441954,-97.670525,zillow.com/apartments/austin-tx/maa-wells-branch/5XhsyQ/
+1200,78745,UT Austin,5.05,"4307 S 1st St APT 202, Austin, TX 78745",1,1,594,30.222557,-97.77158,zillow.com/homedetails/4307-S-1st-St-APT-202-Austin-TX-78745/29481975_zpid/
+2262,78702,UT Austin,1.94,"1621 E 6th St, Austin, TX",1,1,,30.262419,-97.72624,zillow.com/apartments/austin-tx/the-arnold/9VzNQD/
+1830,78731,UT Austin,4.24,"6800 Austin Center Blvd, Austin, TX",1,1,,30.349066,-97.75125,zillow.com/apartments/austin-tx/somerset-townhomes/5XhtBd/
+1894,78702,UT Austin,2.36,"2400 E 6th St, Austin, TX",1,1,,30.25985,-97.715866,zillow.com/apartments/austin-tx/e6/63F9FD/
+956,78741,UT Austin,3.5,"1300 S Pleasant Valley Rd, Austin, TX",1,1,,30.240463,-97.71967,zillow.com/apartments/austin-tx/waterloo-flats/5Xht7q/
+995,78751,UT Austin,0.89,"3812 Speedway, Austin, TX",1,1,,30.301577,-97.733315,zillow.com/b/3812-speedway-austin-tx-5Z2gxP/
+1099,78745,UT Austin,6.22,"5609 Cougar Dr, Austin, TX",1,1,,30.20923,-97.78477,zillow.com/b/cherry-hill-lofts-austin-tx-5jCZ3Y/
+1995,78758,UT Austin,7.37,"11409 Ptarmigan Dr #A, Austin, TX 78758",1,1,957,30.391653,-97.7025,zillow.com/homedetails/11409-Ptarmigan-Dr-A-Austin-TX-78758/2055179259_zpid/
+1895,78705,UT Austin,0.52,"108 Laurel Ln UNIT 2, Austin, TX 78705",1,1,520,30.29662,-97.73712,zillow.com/homedetails/108-Laurel-Ln-UNIT-2-Austin-TX-78705/2068609431_zpid/
+1975,78704,UT Austin,2.17,"422 W Riverside Dr, Austin, TX",1,1,,30.259535,-97.7487,zillow.com/apartments/austin-tx/422-at-the-lake/5ykrJ4/
+2158,78704,UT Austin,2.29,"1717 Toomey Rd, Austin, TX",1,1,,30.264399,-97.762184,zillow.com/apartments/austin-tx/coldwater/5Yy9Q6/
+2400,78704,UT Austin,3.85,"2725 Dulce Ln UNIT 234, Austin, TX 78704",1,1,945,30.240051,-97.76731,zillow.com/homedetails/2725-Dulce-Ln-UNIT-234-Austin-TX-78704/124835894_zpid/
+1395,78703,UT Austin,2.1,"1403 Tarrytown Flats II, 1403 Norwalk Ln APT 114, Austin, TX 78703",1,1,682,30.28917,-97.77162,zillow.com/b/1403-tarrytown-flats-ii-austin-tx-5XtNTL/
+1525,78704,UT Austin,2.88,"1117 Hollow Creek Dr, Austin, TX",1,1,,30.260664,-97.77179,zillow.com/b/zilker-walk-austin-tx-5jCZHL/
+1395,78704,UT Austin,2.7,"1200 Treadwell St, Austin, TX",1,1,,30.256063,-97.76065,zillow.com/apartments/austin-tx/townhollow-apartments/5XkVhm/
+1199,78741,UT Austin,4.73,"Polaris on the Park, 1720 Woodward St #1718-110, Austin, TX 78741",1,1,720,30.220915,-97.74374,zillow.com/apartments/austin-tx/polaris-on-the-park/5Xht6J/
+1225,78745,UT Austin,6.92,"2309 Berkeley Ave, Austin, TX",1,1,,30.209463,-97.806854,zillow.com/apartments/austin-tx/tramor-at-hunter%27s-glen/5Xht52/
+1295,78745,UT Austin,7.14,"1500 W William Cannon Dr, Austin, TX",1,1,,30.201454,-97.799995,zillow.com/apartments/austin-tx/cannon-place/5Xhsxh/
+1200,78704,UT Austin,4.73,"1304 Summer Oak Dr, Austin, TX",1,1,,30.230688,-97.777756,zillow.com/apartments/austin-tx/tramor-at-oak-run/5XhtBJ/
+1225,78704,UT Austin,4.7,"1508 Southport Dr, Austin, TX",1,1,,30.232521,-97.78037,zillow.com/apartments/austin-tx/villas-at-southport/5Xht9G/
+1395,78724,UT Austin,6.06,"9301 E Us Highway 290, Austin, TX",1,1,,30.32837,-97.645676,zillow.com/apartments/austin-tx/high-point-preserve/C52cvD/
+1142,78727,UT Austin,10.45,"13401 Legendary Dr, Austin, TX",1,1,,30.44027,-97.73651,zillow.com/apartments/austin-tx/the-monterra/5Xm2t6/
+1544,78749,UT Austin,8.97,"4009 Sabio Dr, Austin, TX",1,1,,30.2143,-97.8594,zillow.com/b/alexan-garza-ranch-austin-tx-BTccFP/
+2250,78701,UT Austin,1.72,"621 E 3rd St FLOOR 1-ID208, Austin, TX 78701",1,1,535,30.266903,-97.749596,zillow.com/homedetails/621-E-3rd-St-FLOOR-1-ID208-Austin-TX-78701/2055189319_zpid/
+1205,78759,UT Austin,5.93,"4021 Steck Ave, Austin, TX",1,1,,30.37351,-97.75409,zillow.com/apartments/austin-tx/woodstone/5XhtGg/
+2366,78723,UT Austin,2.11,"1911 Philomena St, Austin, TX",1,1,,30.299946,-97.703384,zillow.com/apartments/austin-tx/amli-branch-park/C5qnF5/
+1110,78752,UT Austin,3.34,"1114 Camino La Costa, Austin, TX",1,1,,30.324266,-97.69803,zillow.com/apartments/austin-tx/magnolia-court/5Xht4R/
+1285,78735,UT Austin,9.57,"8600 State Highway 71, Austin, TX",1,1,,30.25367,-97.89152,zillow.com/b/callista-hill-country-apartments-austin-tx-5Xt3wc/
+1050,78759,UT Austin,9.83,"12148 Jollyville Rd, Austin, TX",1,1,,30.429232,-97.76434,zillow.com/b/villas-at-shadow-oaks-austin-tx-5XhtBk/
+1220,78728,UT Austin,12.45,"15450 Fm 1325, Austin, TX",1,1,,30.465818,-97.69561,zillow.com/apartments/austin-tx/preserve-at-rolling-oaks/5Xht6m/
+1258,78754,UT Austin,5.71,"9500 Dessau Rd, Austin, TX",1,1,,30.352499,-97.675255,zillow.com/b/9500-austin-tx-C4YDhS/
+1677,78749,UT Austin,10.54,"7500 W Slaughter Ln, Austin, TX",1,1,,30.217436,-97.89233,zillow.com/apartments/austin-tx/the-saint-mary/BPFgdM/
+2320,78703,UT Austin,1.87,"111 Sandra Muraida Way, Austin, TX",1,1,,30.268045,-97.75624,zillow.com/apartments/austin-tx/gables-park-tower/5Xkyxj/
+1594,78705,UT Austin,1.11,"800 W 38th St, Austin, TX",1,1,,30.304552,-97.74135,zillow.com/apartments/austin-tx/gables-central-park-texas/5Xht4q/
+1785,78702,UT Austin,1.36,"811 E 11th St, Austin, TX",1,1,,30.269829,-97.7317,zillow.com/apartments/austin-tx/eleven-by-windsor/5Xkjqj/
+1062,78741,UT Austin,3.49,"1616 Royal Crest Dr, Austin, TX",1,1,,30.238708,-97.73161,zillow.com/apartments/austin-tx/jewel-apartment-homes/5XhtDG/
+1383,78749,UT Austin,9.55,"8801 La Cresada Dr, Austin, TX",1,1,,30.206198,-97.8646,zillow.com/apartments/austin-tx/maa-western-oaks/5Xht5k/
+1320,78751,UT Austin,2.55,"5606 N Lamar Blvd, Austin, TX",1,1,,30.325138,-97.72776,zillow.com/apartments/austin-tx/hidden-gardens-apartments/9T5hZp/
+1020,78757,UT Austin,4.5,"1720 Wooten Park Dr, Austin, TX",1,1,,30.353146,-97.72276,zillow.com/apartments/austin-tx/magnolia-flats/9LTC4V/
+1335,78751,UT Austin,2.55,"Hidden Gardens Apartments, 5606 N Lamar Blvd APT 112, Austin, TX 78751",1,1,830,30.325138,-97.72776,zillow.com/b/hidden-gardens-apartments-austin-tx-5Xht4j/
+999,78704,UT Austin,4.45,"3603 Southridge Dr, Austin, TX",1,1,,30.234371,-97.77599,zillow.com/apartments/austin-tx/bainbridge/5Xhsvq/
+1595,78704,UT Austin,4.57,"3707 Manchaca Rd, Austin, TX",1,1,,30.236235,-97.78257,zillow.com/apartments/austin-tx/the-grove/5Xht2w/
+1475,78741,UT Austin,5.18,"6905 E Riverside Dr, Austin, TX",1,1,,30.222012,-97.69752,zillow.com/apartments/austin-tx/the-oscar/9T5f4K/
+1295,78704,UT Austin,4.95,"4017 Victory Dr, Austin, TX",1,1,,30.233438,-97.788826,zillow.com/apartments/austin-tx/the-quest/5Xht6y/
+1486,78745,UT Austin,7.02,"6500 Menchaca Rd, Austin, TX",1,1,,30.207468,-97.80656,zillow.com/apartments/austin-tx/trillium-terrace/BtMW2C/
+1499,78758,UT Austin,10.19,"13505 Burnet Rd, Austin, TX",1,1,,30.432339,-97.6959,zillow.com/b/lenox-grand-austin-tx-9Vw6p3/
+1189,78741,UT Austin,3.87,"1919 Burton Dr, Austin, TX",1,1,,30.23321,-97.73099,zillow.com/apartments/austin-tx/emerson-apartments/5Xht3S/
+1332,78759,UT Austin,10.17,"8585 Spicewood Springs Rd, Austin, TX",1,1,,30.43188,-97.77782,zillow.com/apartments/austin-tx/terrazzo/5XhtCj/
+1653,78758,UT Austin,7.49,"3100 Kramer Ln, Austin, TX",1,1,,30.39701,-97.72429,zillow.com/apartments/austin-tx/overture-domain-55%2b-apartment-homes/BChKf4/
+2200,78722,UT Austin,1.01,"2213 Poquito St UNIT 303, Austin, TX 78722",1,1,880,30.283781,-97.72067,zillow.com/homedetails/2213-Poquito-St-UNIT-303-Austin-TX-78722/305429040_zpid/
+1366,78613,UT Austin,13.01,"12638 Ridgeline Blvd, Cedar Park, TX",1,1,,30.46622,-97.81043,zillow.com/apartments/cedar-park-tx/caliza/BMmHyR/
+1985,78703,UT Austin,1.83,"115 Sandra Muraida Way, Austin, TX",1,1,,30.267742,-97.75473,zillow.com/apartments/austin-tx/gables-park-plaza/5Xht46/
+3320,78701,UT Austin,1.65,"400 San Jacinto Blvd FLOOR 9-ID21, Austin, TX 78701",1,1,776,30.265543,-97.7411,zillow.com/homedetails/400-San-Jacinto-Blvd-FLOOR-9-ID21-Austin-TX-78701/2057406760_zpid/
+1145,78717,UT Austin,13.54,"9301 Spectrum Dr, Austin, TX",1,1,,30.483877,-97.76046,zillow.com/apartments/austin-tx/ventana-oaks-luxury-apartment-homes/5XhtDZ/
+1079,78729,UT Austin,12.54,"9001 Amberglen Blvd, Austin, TX",1,1,,30.468754,-97.76609,zillow.com/apartments/austin-tx/camden-amber-oaks/5Xhsyp/
+1218,78729,UT Austin,10.47,"6263 McNeil Dr, Austin, TX",1,1,,30.440384,-97.74715,zillow.com/apartments/austin-tx/maa-quarry-oaks/5XhswS/
+1135,78751,UT Austin,1.49,"4505 Duval St, Austin, TX",1,1,,30.307499,-97.723434,zillow.com/apartments/austin-tx/oak-park/5Xht7h/
+1324,78704,UT Austin,4.53,"3622 Manchaca Rd, Austin, TX",1,1,,30.23791,-97.784065,zillow.com/apartments/austin-tx/tides-at-south-lamar/5XhtHQ/
+3200,78702,UT Austin,2.8,"2512 Canterbury St, Austin, TX 78702",1,1,750,30.252457,-97.71645,zillow.com/homedetails/2512-Canterbury-St-Austin-TX-78702/29381612_zpid/
+1265,78757,UT Austin,7.94,"11210 Fm 2222, Austin, TX",1,1,,30.367,-97.8344,zillow.com/apartments/austin-tx/bell-four-points/BW5vdH/
+1420,78726,UT Austin,11.02,"8225 Fm 620 N, Austin, TX",1,1,,30.419502,-97.84299,zillow.com/b/abelia-flats-austin-tx-9mgmS7/
+2055,78723,UT Austin,2.04,"1900 Simond Ave, Austin, TX",1,1,,30.297174,-97.70368,zillow.com/apartments/austin-tx/amli-at-mueller/63f6Mf/
+1926,78702,UT Austin,1.92,"1614 E 6th St, Austin, TX",1,1,,30.262993,-97.725266,zillow.com/apartments/austin-tx/sentral-east-austin-at-1614-e.-sixth/9T5W95/
+3315,78702,UT Austin,1.96,"Sentral East Austin at 1630 E. Sixth, 1630 E 6th St #1427, Austin, TX 78702",1,1,450,30.262512,-97.724724,zillow.com/apartments/austin-tx/sentral-east-austin-at-1630-e.-sixth/BKB5P5/
+2220,78723,UT Austin,2.33,"4818 Berkman Dr, Austin, TX",1,1,,30.301949,-97.70034,zillow.com/apartments/austin-tx/overture-mueller/9n57jJ/
+1519,78748,UT Austin,10.41,"Bridge at Asher, 10505 S Interstate Highway 35 Frontage Rd #1417, Austin, TX 78748",1,1,798,30.1457,-97.79002,zillow.com/b/bridge-at-asher-austin-tx-BsLQPV/
+2005,78704,UT Austin,2.64,"809 S Lamar Blvd, Austin, TX",1,1,,30.256807,-97.76012,zillow.com/apartments/austin-tx/windsor-south-lamar/5hJBQr/
+1410,78746,UT Austin,4.4,"2301 S Mopac Expy, Austin, TX",1,1,,30.254986,-97.79872,zillow.com/b/gables-at-the-terrace-austin-tx-Brzhqj/
+1371,78704,UT Austin,2.41,"614 S 1st St, Austin, TX",1,1,,30.257015,-97.7524,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3210,78701,UT Austin,1.74,"301 West Ave, Austin, TX",1,1,,30.267519,-97.751434,zillow.com/b/301-west-ave-austin-tx-9LRMM7/
+1238,78748,UT Austin,10.7,"11001 S 1st St, Austin, TX",1,1,,30.14503,-97.80237,zillow.com/apartments/austin-tx/maa-double-creek/5XhsyT/
+1060,78757,UT Austin,4.39,"Anderson Flats, 1220 W Anderson Ln APT 102, Austin, TX 78757",1,1,620,30.350525,-97.71783,zillow.com/apartments/austin-tx/anderson-flats/5Z7VYG/
+1733,78704,UT Austin,2.38,"127 E Riverside Dr, Austin, TX",1,1,,30.255602,-97.745964,zillow.com/apartments/austin-tx/crescent/5Xht3Y/
+1589,78702,UT Austin,1.74,"2921 E 17th St, Austin, TX",1,1,,30.278543,-97.71008,zillow.com/apartments/austin-tx/the-rail/9tjstW/
+1213,78701,UT Austin,0.72,"1801 Rio Grande St, Austin, TX",1,1,,30.281614,-97.744934,zillow.com/apartments/austin-tx/penthouse/5XhtB2/
+1275,78756,UT Austin,2.62,"2202 W North Loop Blvd, Austin, TX",1,1,,30.326792,-97.74129,zillow.com/apartments/austin-tx/kensington-court/5XryNC/
+2252,78701,UT Austin,1.63,"301 Brazos St, Austin, TX",1,1,,30.265991,-97.74181,zillow.com/apartments/austin-tx/whitley/5XhtCV/
+2295,78704,UT Austin,2.38,"1900 Barton Springs Rd, Austin, TX",1,1,,30.264238,-97.764046,zillow.com/b/1900-barton-springs-rd-austin-tx-5gkKst/
+1221,78729,UT Austin,12.45,"8701 W Parmer Ln, Austin, TX",1,1,,30.467901,-97.76143,zillow.com/apartments/austin-tx/artisan-apartments-%26-shops/5XhsvV/
+1150,78730,UT Austin,6.04,"6000 Shepherd Mountain Cv, Austin, TX",1,1,,30.359156,-97.79691,zillow.com/b/monte-vista-austin-tx-5Xht7M/
+1495,78705,UT Austin,0.6,"Texan Pearl, 2515 Pearl St, Austin, TX 78705",1,1,,30.290554,-97.74633,zillow.com/homedetails/2515-Pearl-St-E99AFBE85-Austin-TX-78705/2055232555_zpid/
+1462,78746,UT Austin,4.47,"3050 Tamarron Blvd, Austin, TX",1,1,,30.25822,-97.80241,zillow.com/apartments/austin-tx/cliffs-at-barton-creek/5Xht2x/
+1289,78754,UT Austin,9.8,"13301 Dessau Rd, Austin, TX",1,1,,30.403023,-97.638596,zillow.com/apartments/austin-tx/bridge-at-davenport-place/BMFqdP/
+1179,78744,UT Austin,7.53,"8515 S Interstate Highway 35 Frontage Rd, Austin, TX",1,1,,30.180334,-97.728325,zillow.com/apartments/austin-tx/bridge-at-monarch-bluffs/BYKdnc/
+1740,78746,UT Austin,4.08,"MAA Barton Creek, 2001 S Mo Pac Expy APT 2425, Austin, TX 78746",1,1,837,30.258158,-97.79484,zillow.com/b/maa-barton-creek-austin-tx-5YwJty/
+1690,78746,UT Austin,4.08,"MAA Barton Creek, 2001 S Mopac Expy #2023, Austin, TX 78746",1,1,837,30.258158,-97.79484,zillow.com/apartments/austin-tx/maa-barton-creek/B73xvX/
+1330,78759,UT Austin,7.1,"9009 Great Hills Trl, Austin, TX",1,1,,30.389978,-97.75899,zillow.com/apartments/austin-tx/tramor-at-the-hills/5XhtDK/
+1199,78749,UT Austin,8.57,"5001 Convict Hill Rd, Austin, TX",1,1,,30.216764,-97.85316,zillow.com/apartments/austin-tx/nichols-park/5Xht68/
+1095,78752,UT Austin,4.33,"400 W Anderson Ln, Austin, TX",1,1,,30.346493,-97.70742,zillow.com/apartments/austin-tx/austin-parke/5Xhsyg/
+1250,78705,UT Austin,0.46,"Cedar 31, 3008 Cedar St #1, Austin, TX 78705",1,1,515,30.295488,-97.738335,zillow.com/b/cedar-31-austin-tx-5XnBzL/
+2950,78701,UT Austin,2.3,"44 East Ave, Austin, TX",1,1,,30.255909,-97.73904,zillow.com/b/44-east-ave-austin-tx-9LRMg2/
+1894,78758,UT Austin,7.41,"11009 Alterra Pkwy, Austin, TX",1,1,,30.395498,-97.72182,zillow.com/apartments/austin-tx/the-grand-at-the-domain/BPcWg9/
+2825,78701,UT Austin,1.61,"401 Guadalupe St, Austin, TX",1,1,,30.267492,-97.74664,zillow.com/apartments/austin-tx/gables-republic-square/5Yy9S3/
+1629,78705,UT Austin,1.11,"800 W 38th St, Austin, TX",1,1,,30.304552,-97.74135,zillow.com/b/gables-central-park-texas-austin-tx-BY2nFK/
+2110,78722,UT Austin,1.38,"2701 Manor Rd FLOOR 4-ID164, Austin, TX 78722",1,1,572,30.284746,-97.71395,zillow.com/homedetails/2701-Manor-Rd-FLOOR-4-ID164-Austin-TX-78722/2060314169_zpid/
+2129,78704,UT Austin,2.52,"1007 S Congress Ave, Austin, TX",1,1,,30.253952,-97.747734,zillow.com/apartments/austin-tx/muse-at-soco/5Xht3N/
+1237,78753,UT Austin,5.76,"Villas de la Plaza, 9601 Middle Fiskville Rd #E2, Austin, TX 78753",1,1,650,30.359137,-97.68427,zillow.com/apartments/austin-tx/villas-de-la-plaza/5Xht72/
+3200,78702,UT Austin,2.81,"2514 Canterbury St, Austin, TX 78702",1,1,715,30.2524,-97.71629,zillow.com/homedetails/2514-Canterbury-St-Austin-TX-78702/29381611_zpid/
+1199,78701,UT Austin,0.77,"606 W 17th St, Austin, TX",1,1,,30.28076,-97.744995,zillow.com/b/606-w-17th-st-austin-tx-9T5VjQ/
+1800,78704,UT Austin,3.97,"2200 Dickson Dr APT 231, Austin, TX 78704",1,1,640,30.246082,-97.78059,zillow.com/homedetails/2200-Dickson-Dr-APT-231-Austin-TX-78704/89547965_zpid/
+1742,78749,UT Austin,8.97,"Alexan Garza Ranch, 4009 Sabio Dr #426, Austin, TX 78749",1,1,824,30.2143,-97.8594,zillow.com/b/alexan-garza-ranch-austin-tx-BPGcDV/
+1199,78722,UT Austin,1.3,"2604 Manor Rd, Austin, TX",1,1,,30.28544,-97.71511,zillow.com/apartments/austin-tx/volume/5Xht6N/
+1037,78729,UT Austin,11.49,"9219 Anderson Mill Rd, Austin, TX",1,1,,30.450499,-97.78263,zillow.com/apartments/austin-tx/parkside/5Xhsx6/
+499,78747,UT Austin,8.89,"7904 Ringsby Cv, Austin, TX 78747",1,1,,30.160534,-97.744316,zillow.com/homedetails/7904-Ringsby-Cv-Austin-TX-78747/70342177_zpid/
+1490,78703,UT Austin,1.42,"1714 Summit Vw #3, Austin, TX 78703",1,1,505,30.284933,-97.75984,zillow.com/homedetails/1714-Summit-Vw-3-Austin-TX-78703/29331471_zpid/
+1903,78752,UT Austin,3.82,"7400 N Lamar Blvd, Austin, TX",1,1,,30.341816,-97.71727,zillow.com/apartments/austin-tx/ave-austin-north-lamar/633sgm/
+1000,78704,UT Austin,4.25,"513 S Park Dr APT 302, Austin, TX 78704",1,1,450,30.232718,-97.76496,zillow.com/homedetails/513-S-Park-Dr-APT-302-Austin-TX-78704/2130061512_zpid/
+1381,78729,UT Austin,10.47,"8101 San Felipe Blvd, Austin, TX",1,1,,30.437729,-97.7707,zillow.com/apartments/austin-tx/urban-north/B5xLVY/
+1840,78701,UT Austin,2.28,"43 Rainey St, Austin, TX",1,1,,30.256138,-97.739426,zillow.com/apartments/austin-tx/windsor-on-the-lake/5XhtGq/
+1400,78741,UT Austin,4.11,"1601 Faro Dr, Austin, TX",1,1,,30.233774,-97.71125,zillow.com/b/1601-faro-dr-austin-tx-5XnKqc/
+1876,78704,UT Austin,3.82,"2501 Thornton Rd, Austin, TX",1,1,,30.243359,-97.772575,zillow.com/b/thornton-flats-austin-tx-9kC75n/
+1643,78722,UT Austin,1.54,"2900 Manor Rd, Austin, TX",1,1,,30.286432,-97.710915,zillow.com/apartments/austin-tx/elan-east/5YyFnT/
+1584,78756,UT Austin,2.7,"5350 Burnet Rd, Austin, TX",1,1,,30.327953,-97.740105,zillow.com/apartments/austin-tx/haus-5350/5Xhsrq/
+1470,78731,UT Austin,6.37,"Pointe 360, 6804 N Capital Of Texas Hwy APT 325, Austin, TX 78731",1,1,785,30.36968,-97.7884,zillow.com/homedetails/6804-N-Capital-Of-Texas-Hwy-APT-325-Austin-TX-78731/251031698_zpid/
+1420,78731,UT Austin,6.37,"6804 N Capital Of Texas Hwy, Austin, TX",1,1,,30.36968,-97.7884,zillow.com/apartments/austin-tx/pointe-360/5Xht6n/
+1470,78731,UT Austin,6.37,"Pointe 360, 6804 N Capital Of Texas Hwy APT 228, Austin, TX 78731",1,1,785,30.36968,-97.7884,zillow.com/homedetails/6804-N-Capital-Of-Texas-Hwy-APT-228-Austin-TX-78731/251031696_zpid/
+1380,78731,UT Austin,6.37,"Pointe 360, 6804 N Capital Of Texas Hwy APT 825, Austin, TX 78731",1,1,785,30.36968,-97.7884,zillow.com/homedetails/6804-N-Capital-Of-Texas-Hwy-APT-825-Austin-TX-78731/251031703_zpid/
+1420,78731,UT Austin,6.37,"Pointe 360, 6804 N Capital Of Texas Hwy APT 627, Austin, TX 78731",1,1,753,30.36968,-97.7884,zillow.com/homedetails/6804-N-Capital-Of-Texas-Hwy-APT-627-Austin-TX-78731/251033567_zpid/
+1470,78731,UT Austin,6.37,"Pointe 360, 6804 N Capital Of Texas Hwy APT 428, Austin, TX 78731",1,1,785,30.36968,-97.7884,zillow.com/homedetails/6804-N-Capital-Of-Texas-Hwy-APT-428-Austin-TX-78731/251028689_zpid/
+1380,78731,UT Austin,6.37,"Pointe 360, 6804 N Capital Of Texas Hwy APT 121, Austin, TX 78731",1,1,785,30.36968,-97.7884,zillow.com/homedetails/6804-N-Capital-Of-Texas-Hwy-APT-121-Austin-TX-78731/251032174_zpid/
+1380,78731,UT Austin,6.37,"Pointe 360, 6804 N Capital Of Texas Hwy APT 728, Austin, TX 78731",1,1,785,30.36968,-97.7884,zillow.com/homedetails/6804-N-Capital-Of-Texas-Hwy-APT-728-Austin-TX-78731/251030581_zpid/
+1269,78704,UT Austin,3.43,"2201 S 5th St, Austin, TX",1,1,,30.245365,-97.76364,zillow.com/apartments/austin-tx/tambaleo-apartments/BfYG6Y/
+1460,78724,UT Austin,6.06,"High Point Preserve, 9301 E Us Highway 290 #1414, Austin, TX 78724",1,1,660,30.328205,-97.645615,zillow.com/apartments/austin-tx/high-point-preserve/C5cgxZ/
+1295,78751,UT Austin,2.25,"600 E 53rd St, Austin, TX",1,1,,30.316668,-97.71641,zillow.com/apartments/austin-tx/district-53/5XhszR/
+1099,78759,UT Austin,5.37,"8100 N Mopac Expy, Austin, TX",1,1,,30.366459,-97.74495,zillow.com/b/bridge-at-terracina-austin-tx-5Xk5YJ/
+1385,78746,UT Austin,5.02,"2301 S Mo Pac Expy, Austin, TX",1,1,,30.246384,-97.80461,zillow.com/apartments/austin-tx/2301-s-mo-pac-expy/5Xht2V/
+1300,78702,UT Austin,2.89,"500 Tillery St, Austin, TX 78702",1,1,510,30.25574,-97.707184,zillow.com/homedetails/500-Tillery-St-Austin-TX-78702/29383439_zpid/
+4029,78704,UT Austin,2.31,"1155 Barton Springs, 1155 Barton Springs Rd #413, Austin, TX 78704",1,1,873,30.260288,-97.75626,zillow.com/apartments/austin-tx/1155-barton-springs/B6n7qp/
+1422,78704,UT Austin,3.3,"1329 W Mary St, Austin, TX",1,1,,30.2491,-97.76674,zillow.com/apartments/austin-tx/bouldin-creek/5XhsyZ/
+1195,78752,UT Austin,3.02,"709 Lamar Pl, Austin, TX",1,1,,30.330925,-97.7219,zillow.com/b/the-victoria-austin-tx-5XzPNx/
+1209,78748,UT Austin,9.09,"811 W Slaughter Ln, Austin, TX",1,1,,30.171335,-97.80453,zillow.com/apartments/austin-tx/camden-shadow-brook/5Xht2F/
+1399,78704,UT Austin,4.39,"3501 S 1st St, Austin, TX",1,1,,30.23098,-97.76635,zillow.com/apartments/austin-tx/establishment/5Xht4W/
+1095,78745,UT Austin,7.0,"412 E William Cannon Dr, Austin, TX",1,1,,30.193075,-97.77423,zillow.com/apartments/austin-tx/willow-brook-apartments/5XhtGF/
+1498,78746,UT Austin,4.19,"2800 Bartons Bluff Ln, Austin, TX",1,1,,30.256556,-97.79587,zillow.com/apartments/austin-tx/barton-creek-landing/5Xhsxt/
+1414,78704,UT Austin,2.34,"600 S 1st St, Austin, TX",1,1,,30.257732,-97.75122,zillow.com/b/the-willows-austin-tx-5XhtH6/
+1535,78753,UT Austin,8.12,"12101 N Lamar Blvd, Austin, TX",1,1,,30.395357,-97.6786,zillow.com/apartments/austin-tx/the-langdon-at-walnut-park/9Vt4Yc/
+2140,78702,UT Austin,2.23,"2823 E Martin Luther King Jr Blvd #3-ID155, Austin, TX 78702",1,1,755,30.26311,-97.71439,zillow.com/homedetails/2823-E-Martin-Luther-King-Jr-Blvd-3-ID155-Austin-TX-78702/2060608490_zpid/
+1699,78705,UT Austin,0.63,"916 E 32nd St #103-916-10, Austin, TX 78705",1,1,787,30.29088,-97.72607,zillow.com/homedetails/916-E-32nd-St-103-916-10-Austin-TX-78705/2055315240_zpid/
+2245,78703,UT Austin,1.75,"300 Bowie St, Austin, TX",1,1,,30.268621,-97.7539,zillow.com/b/spring-condominiums-austin-tx-5Xrc8r/
+950,78745,UT Austin,6.1,"5303 Saint Georges Green, 5303 Saint Georges Grn APT B, Austin, TX 78745",1,1,616,30.215212,-97.79263,zillow.com/b/5303-saint-georges-green-austin-tx-5jCZmT/
+2510,78723,UT Austin,1.98,"1830 Simond Ave FLOOR 3-ID34, Austin, TX 78723",1,1,730,30.297585,-97.70489,zillow.com/homedetails/1830-Simond-Ave-FLOOR-3-ID34-Austin-TX-78723/2055330577_zpid/
+1000,78705,UT Austin,0.67,"2900 Cole St, Austin, TX",1,1,,30.287865,-97.725266,zillow.com/apartments/austin-tx/la-casita/5Xpb5s/
+1465,78735,UT Austin,9.57,"Callista Hill Country Apartments, 8600 W Highway 71 APT 322, Austin, TX 78735",1,1,983,30.25367,-97.89152,zillow.com/apartments/austin-tx/8600-w-hwy-71-w/9h4rw3/
+1395,78753,UT Austin,8.37,"1015 E Yager Ln UNIT 217, Austin, TX 78753",1,1,565,30.391108,-97.66095,zillow.com/homedetails/1015-E-Yager-Ln-UNIT-217-Austin-TX-78753/29435536_zpid/
+999,78741,UT Austin,3.25,"Parker Heights, 1302 Parker Ln APT 115, Austin, TX 78741",1,1,614,30.242237,-97.731026,zillow.com/apartments/austin-tx/parker-heights/5jCZb6/
+1175,78751,UT Austin,1.51,"1026 Ellingson Ln, Austin, TX",1,1,,30.302877,-97.7169,zillow.com/b/ellingson-lane-1026-austin-tx-9LT2TL/
+4200,78701,UT Austin,1.63,"555 E 5th St APT 723, Austin, TX 78701",1,1,1144,30.265541,-97.73801,zillow.com/homedetails/555-E-5th-St-APT-723-Austin-TX-78701/64894633_zpid/
+1250,78705,UT Austin,0.62,"404 & 406 E 30th St, Austin, TX",1,1,,30.28879,-97.72605,zillow.com/b/nova-house-austin-tx-CHfKnV/
+1075,78723,UT Austin,3.72,"6103 Manor Rd, Austin, TX",1,1,,30.307592,-97.677956,zillow.com/apartments/austin-tx/villas-at-mueller/5Xht7J/
+1265,78705,UT Austin,0.55,"2818 Nueces St #103, Austin, TX 78705",1,1,550,30.294678,-97.74294,zillow.com/homedetails/2818-Nueces-St-103-Austin-TX-78705/2056457032_zpid/
+1350,78747,UT Austin,,"(undisclosed Address), Austin, TX 78747",1,1,1200,,,zillow.com/homedetails/Austin-TX-78747/124844413_zpid/
+1531,78759,UT Austin,7.66,"10600 Jollyville Rd, Austin, TX",1,1,,30.399374,-97.749596,zillow.com/apartments/austin-tx/overture-arboretum-60%2b-apartment-homes/9LTK5T/
+1495,78753,UT Austin,8.58,"12210 Tech Ridge Blvd, Austin, TX",1,1,,30.39955,-97.67098,zillow.com/b/presidium-tech-ridge-austin-tx-CZ9pmG/
+2090,78756,UT Austin,2.86,"1112 W Koenig Ln FLOOR 3-ID162, Austin, TX 78756",1,1,605,30.32997,-97.72903,zillow.com/homedetails/1112-W-Koenig-Ln-FLOOR-3-ID162-Austin-TX-78756/2060426884_zpid/
+1300,78741,UT Austin,4.79,"3207 Burleson Road, 3207 Burleson Rd APT 1, Austin, TX 78741",1,1,400,30.21981,-97.73308,zillow.com/b/3207-burleson-road-austin-tx-9tjdJz/
+1675,78701,UT Austin,0.66,"Greenwood Towers 302 N/M, 1800 Lavaca St, Austin, TX 78701",1,1,608,30.280386,-97.74101,zillow.com/homedetails/1800-Lavaca-St-Austin-TX-78701/2077190839_zpid/
+1125,78705,UT Austin,0.46,"Mark Embers, 3106 Speedway Mkea #102, Austin, TX 78705",1,1,550,30.295689,-97.736984,zillow.com/b/mark-embers-austin-tx-C6b2qJ/
+2171,78717,UT Austin,13.2,"9821 N Lake Creek Pkwy, Austin, TX",1,1,,30.473833,-97.79265,zillow.com/apartments/austin-tx/everleigh-lakeline-60%2b-active-adult-apartment-homes/BPnZYG/
+1099,78751,UT Austin,1.23,"4209 Speedway, Austin, TX",1,1,,30.30593,-97.729805,zillow.com/b/the-preserve-hyde-park-the-adler-austin-tx-63G2Gg/
+1150,78757,UT Austin,4.47,"2101 W Anderson Ln, Austin, TX",1,1,,30.35342,-97.7287,zillow.com/apartments/austin-tx/atx-north/5Xht3Z/
+1275,78704,UT Austin,4.75,"1113 Banister Ln, Austin, TX",1,1,,30.229458,-97.77616,zillow.com/apartments/austin-tx/four-park-place/5Xht3v/
+1423,78750,UT Austin,9.63,"13355 S Us Highway 183 S, Austin, TX",1,1,,30.15413,-97.69588,zillow.com/b/toscana-apartments-austin-tx-CbXqk3/
+2500,78703,UT Austin,1.82,"Windsor Gardens, 3010 Windsor Rd, Austin, TX 78703",1,1,673,30.295279,-97.7662,zillow.com/homedetails/3010-Windsor-Rd-Austin-TX-78703/29333670_zpid/
+999,78705,UT Austin,0.35,"Chateau Duval, 3106 Duval St APT 102, Austin, TX 78705",1,1,616,30.293505,-97.733505,zillow.com/b/chateau-duval-austin-tx-5Xpb5j/
+1998,78701,UT Austin,2.23,"603 Davis St, Austin, TX",1,1,,30.256979,-97.73973,zillow.com/b/603-davis-st-austin-tx-5XrwSV/
+1049,78705,UT Austin,0.46,"2910 Medical Arts St #101B, Austin, TX 78705",1,1,450,30.28955,-97.72887,zillow.com/homedetails/2910-Medical-Arts-St-101B-Austin-TX-78705/2077550689_zpid/
+2312,78701,UT Austin,1.65,"404 Rio Grande St, Austin, TX",1,1,,30.26852,-97.75058,zillow.com/apartments/austin-tx/404-rio-grande/5Xhswc/
+1097,78752,UT Austin,3.56,"7020 Grand Canyon Dr, Austin, TX",1,1,,30.326342,-97.69528,zillow.com/apartments/austin-tx/villas-de-sendero/5XhtCg/
+1069,78759,UT Austin,6.28,"The Arbors at Tallwood, 8810 Tallwood Dr #208, Austin, TX 78759",1,1,700,30.37983,-97.7424,zillow.com/apartments/austin-tx/the-arbors-at-tallwood/5XhsyK/
+1234,78758,UT Austin,6.2,"Ascent at North Burnet, 1735 Rutland Dr #232, Austin, TX 78758",1,1,550,30.376223,-97.71146,zillow.com/apartments/austin-tx/ascent-at-north-burnet/5XhtBh/
+2590,78721,UT Austin,4.14,"1912 Smith Rd FLOOR 3-ID148, Austin, TX 78721",1,1,837,30.26003,-97.67582,zillow.com/homedetails/1912-Smith-Rd-FLOOR-3-ID148-Austin-TX-78721/2057939111_zpid/
+1350,78705,UT Austin,0.88,"303 West 35th #204, 303 W 35th St #1, Austin, TX 78705",1,1,600,30.301851,-97.736946,zillow.com/b/hyde-park-terrace-condominiums-austin-tx-5YjRsf/
+1990,78722,UT Austin,1.75,"1313 Bentwood Rd #B, Austin, TX 78722",1,1,800,30.301819,-97.711075,zillow.com/homedetails/1313-Bentwood-Rd-B-Austin-TX-78722/29400852_zpid/
+1000,78751,UT Austin,1.27,"4209 Avenue B, Austin, TX",1,1,,30.307077,-97.73259,zillow.com/b/beehive-studios-austin-tx-5YCRvr/
+1329,78745,UT Austin,6.41,"625 E Stassney Ln, Austin, TX",1,1,,30.200766,-97.76934,zillow.com/apartments/austin-tx/agave-at-south-congress/5Xht6Y/
+2400,78702,UT Austin,3.48,"817 Airport Blvd FLOOR 4-ID94, Austin, TX 78702",1,1,739,30.256355,-97.69208,zillow.com/homedetails/817-Airport-Blvd-FLOOR-4-ID94-Austin-TX-78702/2060224191_zpid/
+1199,78717,UT Austin,13.97,"10101 W Parmer Ln, Austin, TX",1,1,,30.488731,-97.77368,zillow.com/apartments/austin-tx/lakeline-parmer-lane/5Xht7s/
+1189,78756,UT Austin,1.46,"1200 W 40th St, Austin, TX",1,1,,30.309303,-97.74367,zillow.com/apartments/austin-tx/1200-w-40th/5Xht5b/
+2450,78758,UT Austin,7.88,"11601 Century Oaks Ter FLOOR 1-ID39, Austin, TX 78758",1,1,718,30.402645,-97.72529,zillow.com/homedetails/11601-Century-Oaks-Ter-FLOOR-1-ID39-Austin-TX-78758/2063443471_zpid/
+1250,78741,UT Austin,4.45,"2450 Wickersham Ln, Austin, TX",1,1,,30.225489,-97.72467,zillow.com/b/2450-wickersham-ln-austin-tx-5XsTTf/
+599,78701,UT Austin,1.51,"400 E 6th St, Austin, TX 78701",1,1,,30.267319,-97.73908,zillow.com/homedetails/400-E-6th-St-Austin-TX-78701/2057083232_zpid/
+1550,78705,UT Austin,0.65,"3301 Red River St, Austin, TX",1,1,,30.291983,-97.72609,zillow.com/b/3301-red-river-st-austin-tx-5XrnXb/
+1250,78756,UT Austin,2.49,"The Rosedale, 2211 Loop 15031118, Austin, TX 78756",1,1,625,30.324932,-97.740974,zillow.com/homedetails/2211-Loop-15031118-Austin-TX-78756/2056603173_zpid/
+2330,78759,UT Austin,6.87,"9605 Research Blvd FLOOR 1-ID196, Austin, TX 78759",1,1,688,30.388327,-97.74302,zillow.com/homedetails/9605-Research-Blvd-FLOOR-1-ID196-Austin-TX-78759/2056491920_zpid/
+1480,78726,UT Austin,11.02,"8225 N Fm 620 Rd, Austin, TX",1,1,,30.419502,-97.84299,zillow.com/b/abelia-flats-austin-tx-BMz4jt/
+1635,78735,UT Austin,7.84,"6601 Rialto Blvd, Austin, TX",1,1,,30.247356,-97.85874,zillow.com/apartments/austin-tx/windsor-lantana-hills/9n7ny6/
+2950,78704,UT Austin,2.27,"1623 Toomey Rd FLOOR 1-ID189, Austin, TX 78704",1,1,761,30.264206,-97.76132,zillow.com/homedetails/1623-Toomey-Rd-FLOOR-1-ID189-Austin-TX-78704/2057133225_zpid/
+1200,78705,UT Austin,0.81,"404 W 35th St APT 204, Austin, TX 78705",1,1,538,30.300785,-97.7376,zillow.com/homedetails/404-W-35th-St-APT-204-Austin-TX-78705/2075530306_zpid/
+1295,78745,UT Austin,5.77,"5112 S 1st St, Austin, TX",1,1,,30.213856,-97.77863,zillow.com/apartments/austin-tx/terrain-apartments/5XhtGK/
+1537,78723,UT Austin,2.98,"Mueller Crossing, 5020 Manor Rd #A-101, Austin, TX 78723",1,1,850,30.297752,-97.68752,zillow.com/apartments/austin-tx/mueller-crossing/5YyDt9/
+1450,78703,UT Austin,2.1,"Tarrytown Flats, 1315 Norwalk Ln APT 114, Austin, TX 78703",1,1,789,30.28901,-97.77169,zillow.com/b/tarrytown-flats-austin-tx-5Z5564/
+1149,78741,UT Austin,3.77,"Easton Hills, 1900 Burton Dr APT 134, Austin, TX 78741",1,1,726,30.234657,-97.73178,zillow.com/apartments/austin-tx/easton-hills/5XhtD7/
+1100,78752,UT Austin,4.0,"7603 Carver Ave #1-C, Austin, TX 78752",1,1,480,30.335375,-97.696335,zillow.com/homedetails/7603-Carver-Ave-1-C-Austin-TX-78752/2055536910_zpid/
+1390,78704,UT Austin,3.59,"2411 S 5th St BUILDING 5, Austin, TX 78704",1,1,718,30.243017,-97.76431,zillow.com/homedetails/2411-S-5th-St-BUILDING-5-Austin-TX-78704/2065758452_zpid/
+2702,78704,UT Austin,2.24,"Cole Apartments, 300 S Lamar Blvd #203, Austin, TX 78704",1,1,887,30.262854,-97.75856,zillow.com/apartments/austin-tx/cole-apartments/5XhswF/
+2585,78704,UT Austin,2.7,"1221 S Congress Ave, Austin, TX",1,1,,30.25143,-97.74866,zillow.com/apartments/austin-tx/the-lola/5Xht7P/
+2200,78702,UT Austin,2.22,"2124 E 6th St UNIT 302, Austin, TX 78702",1,1,747,30.260593,-97.719215,zillow.com/homedetails/2124-E-6th-St-UNIT-302-Austin-TX-78702/80106472_zpid/
+1295,78703,UT Austin,1.51,"1620 Waterston Ave, Austin, TX",1,1,,30.281645,-97.76025,zillow.com/b/waterston-austin-tx-5XpTSw/
+1875,78704,UT Austin,2.46,"802 S 1st St APT 118, Austin, TX 78704",1,1,638,30.25596,-97.75171,zillow.com/homedetails/802-S-1st-St-APT-118-Austin-TX-78704/62604602_zpid/
+1500,78704,UT Austin,3.34,"Brackenridge St 2102, 2102 Brackenridge St #A, Austin, TX 78704",1,1,600,30.24219,-97.750145,zillow.com/b/brackenridge-st-2102-austin-tx-5yXqBb/
+1340,78751,UT Austin,1.9,"4912 Avenue G, 4912 Avenue G UNIT B, Austin, TX 78751",1,1,600,30.313828,-97.72278,zillow.com/b/4912-avenue-g-austin-tx-5YbXsM/
+1450,78704,UT Austin,4.47,"3625 S 1st St, Austin, TX",1,1,,30.229876,-97.7666,zillow.com/apartments/austin-tx/oak-grove/5Xht3p/
+1515,78756,UT Austin,2.57,"Brentwood Townhomes, 5506 Grover Ave #L-148, Austin, TX 78756",1,1,800,30.326105,-97.73274,zillow.com/apartments/austin-tx/brentwood-townhomes/5XrBLg/
+1250,78756,UT Austin,2.49,"The Rosedale, 2211 Loop 14936974, Austin, TX 78756",1,1,625,30.324932,-97.740974,zillow.com/homedetails/2211-Loop-14936974-Austin-TX-78756/2057425716_zpid/
+1250,78756,UT Austin,2.49,"The Rosedale, 2211 Loop 15031115, Austin, TX 78756",1,1,625,30.324932,-97.740974,zillow.com/homedetails/2211-Loop-15031115-Austin-TX-78756/2056603172_zpid/
+1200,78704,UT Austin,4.68,"City Scene One, 3819 Southway Dr APT 221, Austin, TX 78704",1,1,620,30.230726,-97.77649,zillow.com/b/city-scene-one-austin-tx-5XhtCC/
+2550,78752,UT Austin,3.04,"6419 Airport Blvd FLOOR 2-ID199, Austin, TX 78752",1,1,744,30.32913,-97.715256,zillow.com/homedetails/6419-Airport-Blvd-FLOOR-2-ID199-Austin-TX-78752/2055636639_zpid/
+4000,78701,UT Austin,1.76,"210 Lavaca St APT 1806, Austin, TX 78701",1,1,641,30.265144,-97.74669,zillow.com/homedetails/210-Lavaca-St-APT-1806-Austin-TX-78701/110539082_zpid/
+2600,78702,UT Austin,2.01,"Juno East Austin, 400 Comal St #504, Austin, TX 78702",1,1,684,30.261044,-97.72771,zillow.com/apartments/austin-tx/juno-east-austin/9khFNP/
+2200,78702,UT Austin,1.49,"800 Embassy Dr, Austin, TX",1,1,,30.267746,-97.73232,zillow.com/b/800-embassy-dr-austin-tx-B5mkg8/
+1400,78705,UT Austin,0.61,"915 W 23rd St, Austin, TX",1,1,,30.28721,-97.746544,zillow.com/b/915-w.-23rd-street-austin-tx-5XjfKx/
+900,78705,UT Austin,0.47,"2529 Rio Grande St, Austin, TX",1,1,,30.290127,-97.744316,zillow.com/b/orange-tree-37-austin-tx-5XjfML/
+1025,78753,UT Austin,4.37,"Towne Oaks II, 615 E Wonsley Dr, Austin, TX 78753",1,1,750,30.343693,-97.699615,zillow.com/apartments/austin-tx/towne-oaks-ii/5XhtCw/
+1100,78705,UT Austin,0.87,"Peppertree Apartments, 408 W 37th St APT 3B, Austin, TX 78705",1,1,640,30.30158,-97.73739,zillow.com/apartments/austin-tx/peppertree-apartments/5Xrqwx/
+1050,78752,UT Austin,3.75,"7401 N Lamar Blvd, Austin, TX",1,1,,30.340446,-97.716324,zillow.com/apartments/austin-tx/the-joplin-at-crestview/5XhsxR/
+1275,78724,UT Austin,5.01,"7601 Springdale Rd, Austin, TX",1,1,,30.319387,-97.66021,zillow.com/apartments/austin-tx/delco-flats/C4dxGq/
+1244,78724,UT Austin,6.39,"The Terrace at Walnut Creek, 8712 Old Manor Rd, Austin, TX 78724",1,1,662,30.326368,-97.63846,zillow.com/apartments/austin-tx/the-terrace-at-walnut-creek/BCMLcN/
+1299,78751,UT Austin,1.58,"4520 Bennett Ave, Austin, TX",1,1,,30.305006,-97.71744,zillow.com/apartments/austin-tx/spanish-trails/5XjfLg/
+2200,78705,UT Austin,0.72,"913 Duncan Ln #103, Austin, TX 78705",1,1,701,30.291819,-97.72477,zillow.com/homedetails/913-Duncan-Ln-103-Austin-TX-78705/337143618_zpid/
+1950,78703,UT Austin,1.94,"5th Street Commons, 1611 W 5th St APT 228, Austin, TX 78703",1,1,759,30.274282,-97.76408,zillow.com/b/5th-street-commons-austin-tx-5Xht3x/
+1299,78757,UT Austin,5.49,"8615 Rockwood Ln, Austin, TX",1,1,,30.368305,-97.729614,zillow.com/apartments/austin-tx/rockwood/5XhtBP/
+995,78723,UT Austin,3.46,"6509 Berkman Dr, Austin, TX",1,1,,30.31838,-97.689415,zillow.com/b/6509-berkman-drive-austin-tx-9LRjh8/
+1125,78753,UT Austin,4.59,"The Hedge Apartments, 8300 N Interstate Highway 35, Austin, TX 78753",1,1,351,30.345833,-97.696686,zillow.com/apartments/austin-tx/the-hedge-apartments/9WXbFz/
+1565,78653,UT Austin,8.79,"5005 E Parmer Ln, Manor, TX",1,1,,30.370947,-97.62367,zillow.com/apartments/manor-tx/camber-ranch/C2XVcQ/
+1195,78704,UT Austin,4.31,"3204 Menchaca Rd, Austin, TX",1,1,,30.24082,-97.782326,zillow.com/b/3204-menchaca-rd-austin-tx-BtP8Xw/
+1274,78752,UT Austin,3.2,"500 E Highland Mall Blvd, Austin, TX",1,1,,30.329082,-97.709404,zillow.com/apartments/austin-tx/larue-on-highland/5Xt9TX/
+1000,78702,UT Austin,3.12,"502 Springdale Rd, 502 Springdale Rd #4, Austin, TX 78702",1,1,150,30.254255,-97.70315,zillow.com/b/502-springdale-rd-austin-tx-9LRQ4m/
+1195,78741,UT Austin,3.73,"1840 Burton Dr, Austin, TX",1,1,,30.235487,-97.72904,zillow.com/b/1840-burton-dr-austin-tx-5YC5hx/
+1195,78741,UT Austin,3.54,"2323 Town Lake Cir, Austin, TX",1,1,,30.239012,-97.72383,zillow.com/apartments/austin-tx/the-spoke/5hW6W4/
+4508,78758,UT Austin,7.41,"Maravilla at the Domain, 11001 Austin Ln, Austin, TX 78758",1,1,753,30.395798,-97.72482,zillow.com/apartments/austin-tx/maravilla-at-the-domain/BKB5Py/
+1300,78751,UT Austin,1.11,"920 E 40th St, Austin, TX",1,1,,30.298225,-97.721306,zillow.com/b/miller-square-austin-tx-5d9Rbc/
+2600,78701,UT Austin,1.68,"360 Nueces St, Austin, TX",1,1,,30.267443,-97.749405,zillow.com/b/360-nueces-st-austin-tx-5XmrXB/
+1375,78705,UT Austin,0.86,"1904 Robbins Pl APT 4, Austin, TX 78705",1,1,425,30.284353,-97.74975,zillow.com/homedetails/1904-Robbins-Pl-APT-4-Austin-TX-78705/2057432217_zpid/
+1195,78757,UT Austin,4.2,"Colony, The, 2211 Richcreek Rd APT 203, Austin, TX 78757",1,1,650,30.349733,-97.73338,"zillow.com/b/colony,-the-austin-tx-5Xht2Y/"
+1250,78703,UT Austin,1.58,"808 Winflo Dr APT 101, Austin, TX 78703",1,1,400,30.275837,-97.75809,zillow.com/homedetails/808-Winflo-Dr-APT-101-Austin-TX-78703/2101480006_zpid/
+1320,78751,UT Austin,1.46,"108 Place, 108 W 45th St APT 202, Austin, TX 78751",1,1,625,30.309093,-97.7289,zillow.com/apartments/austin-tx/108-place/5Xjxtf/
+1225,78705,UT Austin,0.59,"Marian Condos, 2704 Salado St APT 206, Austin, TX 78705",1,1,500,30.29263,-97.74552,zillow.com/b/marian-condos-austin-tx-5XhtBb/
+1050,78705,UT Austin,0.89,"506 W 37th St, Austin, TX",1,1,,30.301811,-97.73796,zillow.com/apartments/austin-tx/pecan-square/5bHB3M/
+1295,78756,UT Austin,2.29,"Aurora, 5317 Aurora 5317b Dr #B, Austin, TX 78756",1,1,,30.322145,-97.73972,zillow.com/b/aurora-austin-tx-CbJxSs/
+1250,78756,UT Austin,2.49,"The Rosedale, 2211 Loop 15177234, Austin, TX 78756",1,1,625,30.324932,-97.740974,zillow.com/homedetails/2211-Loop-15177234-Austin-TX-78756/2055945630_zpid/
+1299,78705,UT Austin,0.8,"3704 Speedway, Austin, TX",1,1,,30.300386,-97.734116,zillow.com/b/speedway-38-austin-tx-5XhtFC/
+1250,78748,UT Austin,9.48,"9628 Sugar Hill Dr, 9628 Sugar Hill Dr #A, Austin, TX 78748",1,1,650,30.18203,-97.83578,zillow.com/b/9628-sugar-hill-dr-austin-tx-5YbZ7N/
+1095,78704,UT Austin,3.28,"2020 S Congress Ave, Austin, TX",1,1,,30.243511,-97.752075,zillow.com/b/2020-south-congress-avenue-austin-tx-5XmSdJ/
+1100,78705,UT Austin,0.62,"Swisher Apartments, 2800 Swisher St APT 117, Austin, TX 78705",1,1,525,30.288181,-97.72621,zillow.com/b/swisher-apartments-austin-tx-5XtVp5/
+850,78723,UT Austin,3.55,"Patton, 1706 Patton Ln #101, Austin, TX 78723",1,1,,30.31933,-97.68846,zillow.com/b/patton-austin-tx-9LRgZb/
+1300,78704,UT Austin,4.6,"3438 Willowrun Drive, 3438 Willowrun Dr APT A, Austin, TX 78704",1,1,700,30.224714,-97.75609,zillow.com/b/3438-willowrun-drive-austin-tx-5bgLcf/
+1175,78705,UT Austin,0.87,"2408 Longview St, Austin, TX",1,1,,30.288511,-97.75099,zillow.com/b/star-west-austin-tx-5XpSCW/
+1600,78702,UT Austin,1.03,"1701 E Martin Luther King Jr Blvd #209, Austin, TX 78702",1,1,630,30.279474,-97.72318,zillow.com/homedetails/1701-E-Martin-Luther-King-Jr-Blvd-209-Austin-TX-78702/2078751759_zpid/
+1350,78741,UT Austin,3.91,"2124 Burton Dr APT 266, Austin, TX 78741",1,1,608,30.232576,-97.73261,zillow.com/homedetails/2124-Burton-Dr-APT-266-Austin-TX-78741/70356233_zpid/
+1850,78758,UT Austin,7.4,"2618 Kramer Ln, Austin, TX",1,1,,30.395052,-97.718094,zillow.com/apartments/austin-tx/esperanza-domain/BMFQgC/
+1035,78753,UT Austin,5.12,"8805 N Plaza Dr, Austin, TX",1,1,,30.349688,-97.6871,zillow.com/apartments/austin-tx/pebble-creek/9grMwL/
+950,78758,UT Austin,5.36,"8907 Parkfield Dr APT 202, Austin, TX 78758",1,1,800,30.362759,-97.70869,zillow.com/homedetails/8907-Parkfield-Dr-APT-202-Austin-TX-78758/2109229092_zpid/
+1086,78751,UT Austin,1.82,"4719 Harmon Ave, Austin, TX",1,1,,30.306623,-97.71377,zillow.com/apartments/austin-tx/harmon-square-apartments/5YCVyh/
+1339,78729,UT Austin,12.0,"8100 W Anderson Mill Rd, Austin, TX",1,1,,30.46188,-97.75728,zillow.com/b/the-royce-at-8100-austin-tx-BNNVBS/
+1563,78705,UT Austin,0.74,"3401 Red River St, Austin, TX",1,1,,30.292965,-97.72498,zillow.com/apartments/austin-tx/the-hive-at-red-river/5Xhsxc/
+1795,78703,UT Austin,1.45,"1115 W 10th St APT 110, Austin, TX 78703",1,1,678,30.275389,-97.75488,zillow.com/homedetails/1115-W-10th-St-APT-110-Austin-TX-78703/110538743_zpid/
+1200,78751,UT Austin,1.15,"Telluride, 4100 Avenue C APT 208, Austin, TX 78751",1,1,525,30.305454,-97.73314,zillow.com/apartments/austin-tx/telluride/5Xht9j/
+500,78705,UT Austin,0.79,"2408 Leon St #311B, Austin, TX 78705",1,1,891,30.28908,-97.749664,zillow.com/homedetails/2408-Leon-St-311B-Austin-TX-78705/2056101693_zpid/
+1290,78745,UT Austin,6.72,"6300 S Congress Ave, Austin, TX",1,1,,30.198341,-97.77713,zillow.com/apartments/austin-tx/soco-apartments/5XhtBw/
+1400,78705,UT Austin,0.6,"908 Poplar St, Austin, TX",1,1,,30.291513,-97.74609,zillow.com/b/908-poplar-st-austin-tx-5YCLF8/
+1195,78705,UT Austin,0.61,"3212 Red River St, Austin, TX",1,1,,30.292032,-97.72688,zillow.com/b/casa-del-rio-apartments-austin-tx-5Xyq3G/
+950,78752,UT Austin,3.78,"7314 Bennett Ave, Austin, TX",1,1,,30.333422,-97.699326,zillow.com/b/112-bennet-austin-tx-5brFZF/
+1395,78751,UT Austin,2.12,"5106 N Lamar Blvd, Austin, TX",1,1,,30.31952,-97.73197,zillow.com/apartments/austin-tx/the-chelsea/5Xhsyd/
+695,78705,UT Austin,0.88,"3506 Speedway #D-305, Austin, TX 78705",1,1,1226,30.301846,-97.73694,zillow.com/homedetails/3506-Speedway-D-305-Austin-TX-78705/2056196877_zpid/
+1450,78701,UT Austin,1.21,"Fabulous landmark Downtown Austin property! Great downtown neighborhood!, 601 W 11th St APT 228, Austin, TX 78701",1,1,696,30.274204,-97.747345,zillow.com/apartments/austin-tx/regency/5XszVN/
+1395,78705,UT Austin,0.48,"The Elms NM, 2810 Nueces St, Austin, TX 78705",1,1,634,30.293509,-97.74276,zillow.com/homedetails/2810-Nueces-St-Austin-TX-78705/2056230409_zpid/
+1200,78752,UT Austin,3.85,"A207-Bethune, 7406 Bethune Ave APT B, Austin, TX 78752",1,1,750,30.333035,-97.69685,zillow.com/b/a207-bethune-austin-tx-5Xzhfk/
+1200,78704,UT Austin,3.76,"Chimney Park, 2406 Bluebonnet Ln APT 205, Austin, TX 78704",1,1,450,30.247795,-97.77756,zillow.com/apartments/austin-tx/chimney-park/5XqMvp/
+1325,78705,UT Austin,0.8,"Speedway 38, 3704 Speedway APT 205, Austin, TX 78705",1,1,525,30.300386,-97.734116,zillow.com/homedetails/3704-Speedway-APT-205-Austin-TX-78705/2086487326_zpid/
+1450,78704,UT Austin,4.47,"Willowrun Apartments, 3414 Willowrun Dr #3420-2, Austin, TX 78704",1,1,700,30.226465,-97.755424,zillow.com/apartments/austin-tx/willowrun-apartments/5gjwJS/
+1700,78751,UT Austin,1.01,"915 E 39th St #B, Austin, TX 78751",1,1,902,30.296532,-97.72185,zillow.com/homedetails/915-E-39th-St-B-Austin-TX-78751/2092415769_zpid/
+1349,78748,UT Austin,7.53,"Bridge at Monarch Bluffs, 8515 S Interstate Highway 35 Frontage Rd #4210, Austin, TX 78748",1,1,819,30.180334,-97.728325,zillow.com/b/bridge-at-asher-austin-tx-BsLhJL/
+1120,78752,UT Austin,3.32,"1044 Camino La Costa, Austin, TX",1,1,,30.325054,-97.69974,zillow.com/apartments/austin-tx/mackenzie-pointe/5Xht6B/
+1150,78745,UT Austin,5.64,"2708 Windswept Cv #202, Austin, TX 78745",1,1,800,30.230091,-97.80194,zillow.com/homedetails/2708-Windswept-Cv-202-Austin-TX-78745/2078316333_zpid/
+2550,78701,UT Austin,1.37,"800 Brazos St UNIT 1002, Austin, TX 78701",1,1,802,30.269577,-97.74092,zillow.com/homedetails/800-Brazos-St-UNIT-1002-Austin-TX-78701/79976768_zpid/
+1175,78723,UT Austin,1.95,"3138 Manor Rd, Austin, TX",1,1,,30.286964,-97.70397,zillow.com/b/manor-flats-apartments-austin-tx-5jCZQg/
+1050,78745,UT Austin,7.36,"2201 W William Cannon Dr, Austin, TX",1,1,,30.203272,-97.80947,zillow.com/apartments/austin-tx/southland/5ZbJR9/
+1250,78704,UT Austin,5.02,"1301 W Ben White Blvd, Austin, TX",1,1,,30.227074,-97.78023,zillow.com/apartments/austin-tx/04-flats/5YzM6j/
+1600,78705,UT Austin,0.79,"1907 San Gabriel St, Austin, TX",1,1,,30.283571,-97.748146,zillow.com/b/best-in-the-west-short-term-stay-palace-austin-tx-5YD3BH/
+1200,78759,UT Austin,5.58,"8210 Bent Tree Rd, Austin, TX",1,1,,30.369493,-97.7446,zillow.com/b/8210-bent-tree-rd-austin-tx-5YBSnf/
+1575,78729,UT Austin,10.97,"Aspire North Austin, 13130 Pond Springs Rd #2211, Austin, TX 78729",1,1,775,30.443901,-97.77683,zillow.com/apartments/austin-tx/aspire-north-austin/BMG4tq/
+1185,78751,UT Austin,2.27,"Travis Flats, 5310 Helen St, Austin, TX 78751",1,1,,30.314901,-97.71308,zillow.com/apartments/austin-tx/travis-flats/BVq6Mp/
+1050,78753,UT Austin,6.13,"Arrowhead Park, 605 Masterson Pass, Austin, TX 78753",1,1,667,30.368713,-97.69107,zillow.com/apartments/austin-tx/arrowhead-park/5XhsyW/
+1257,78745,UT Austin,8.79,"8700 W Gate Blvd, Austin, TX",1,1,,30.192375,-97.832275,zillow.com/apartments/austin-tx/west-gate-ridge-apartment-homes/9T5g6b/
+1099,78741,UT Austin,4.62,"3300 Parker Ln, Austin, TX",1,1,,30.22251,-97.74398,zillow.com/apartments/austin-tx/whisper-hollow/5XhtDz/
+1095,78752,UT Austin,4.58,"Salado at Walnut Creek, 2104 E Anderson Ln APT 2023, Austin, TX 78752",1,1,604,30.33161,-97.67753,zillow.com/apartments/austin-tx/salado-at-walnut-creek/9T5hxP/
+1140,78752,UT Austin,3.34,"1016 Camino La Costa, Austin, TX",1,1,,30.326626,-97.701164,zillow.com/apartments/austin-tx/villas-of-la-costa/5XhtFM/
+1350,78751,UT Austin,1.55,"Tanglewood North, 1020 E 45th St, Austin, TX 78751",1,1,656,30.304195,-97.71741,zillow.com/apartments/austin-tx/tanglewood-north/5XhtF9/
+1100,78752,UT Austin,4.23,"Towne Oaks I, 500 E Anderson Ln, Austin, TX 78752",1,1,702,30.342258,-97.70144,zillow.com/apartments/austin-tx/towne-oaks-i/5XhtCs/
+1250,78741,UT Austin,4.21,"Vi Collina, 2401 E Oltorf St, Austin, TX 78741",1,1,650,30.228422,-97.7296,zillow.com/apartments/austin-tx/vi-collina/BGV6Gq/
+568,78704,UT Austin,3.34,"Aria Grand, 1800 Interstate Highway C173c2e24, Austin, TX 78704",1,1,693,30.240725,-97.73781,zillow.com/b/aria-grand-austin-tx-CZ6QtQ/
+1253,78744,UT Austin,7.04,"William Cannon Apartments, 2112 E William Cannon Dr, Austin, TX 78744",1,1,723,30.189384,-97.760994,zillow.com/apartments/austin-tx/william-cannon-apartments/5Yy5c2/
+1135,78741,UT Austin,4.35,"2400 Wickersham Ln, Austin, TX",1,1,,30.22732,-97.722595,zillow.com/apartments/austin-tx/high-point-village/5Xht2p/
+1350,78703,UT Austin,1.8,"1616 W 6th St, 1616 W 6th St #204-206, Austin, TX 78703",1,1,600,30.276726,-97.76312,zillow.com/apartments/austin-tx/1616-w-6th-st/5Xhsxf/
+1185,78723,UT Austin,2.32,"Aldrich 51, 2604 Aldrich St, Austin, TX 78723",1,1,,30.30399,-97.70167,zillow.com/apartments/austin-tx/aldrich-51/B6n86L/
+1399,78741,UT Austin,4.12,"4711 E Riverside Dr, Austin, TX",1,1,,30.231312,-97.71904,zillow.com/apartments/austin-tx/edison-riverside/9jL3J8/
+1050,78705,UT Austin,0.52,"Carrells, 2812 Nueces St, Austin, TX 78705",1,1,650,30.294336,-97.74274,zillow.com/apartments/austin-tx/carrells/5XsPtB/
+1299,78752,UT Austin,3.81,"1500 Reagan Hill Dr, Austin, TX",1,1,,30.326624,-97.68969,zillow.com/apartments/austin-tx/casa-hills-%40-290/5Xht4S/
+1335,78757,UT Austin,5.27,"Abbey Road, 2601 Penny Lane 2 #ABB-305, Austin, TX 78757",1,1,750,30.365108,-97.73073,zillow.com/apartments/austin-tx/abbey-road/5XhstQ/
+1000,78758,UT Austin,5.36,"8907 Parkfield Dr APT 102, Austin, TX 78758",1,1,800,30.362759,-97.70869,zillow.com/homedetails/8907-Parkfield-Dr-APT-102-Austin-TX-78758/2106152279_zpid/
+2900,78704,UT Austin,4.11,"2704 Saint Edwards Cir #C, Austin, TX 78704",1,1,550,30.230171,-97.74675,zillow.com/homedetails/2704-Saint-Edwards-Cir-C-Austin-TX-78704/2064310242_zpid/
+1695,78757,UT Austin,3.58,"6444 Burnet Rd UNIT 207, Austin, TX 78757",1,1,775,30.340769,-97.73941,zillow.com/homedetails/6444-Burnet-Rd-UNIT-207-Austin-TX-78757/251031636_zpid/
+1495,78705,UT Austin,0.52,"301 E 33rd Apartments, 301 E 33rd St APT 7, Austin, TX 78705",1,1,650,30.29629,-97.734024,zillow.com/b/301-e-33rd-apartments-austin-tx-9T5Zhk/
+2095,78705,UT Austin,0.78,"E 38th St 409, 409 E 38th St APT 205, Austin, TX 78705",1,1,793,30.299145,-97.73068,zillow.com/b/e-38th-st-409-austin-tx-5XrWpj/
+900,78705,UT Austin,0.41,"University Quarters - Building B, 2803 Hemphill Park #B107, Austin, TX 78705",1,1,450,30.29375,-97.7407,zillow.com/b/university-quarters-building-b-austin-tx-5YCC27/
+850,78758,UT Austin,8.47,"12166 Metric Blvd, Austin, TX",1,1,,30.407125,-97.698135,zillow.com/b/edge-creek-condominiums-austin-tx-5XhszG/
+1310,78736,UT Austin,9.98,"8000 W Us Highway 290, Austin, TX",1,1,,30.230778,-97.88953,zillow.com/b/8000-us-290-west-austin-tx-BT3Zzf/
+1323,78744,UT Austin,9.1,"1701 Oak Hill Ln, Austin, TX",1,1,,30.16405,-97.78448,zillow.com/b/1701-oak-hill-ln-austin-tx-BGV7FF/
+1444,78751,UT Austin,1.67,"4510 W Guadalupe St, Austin, TX",1,1,,30.313005,-97.73305,zillow.com/b/4510-west-guadalupe-street-austin-tx-5dC2s5/
+1636,78737,UT Austin,15.86,"761 Trinity Hills Dr, 761 Trinity Hills Dr #12009439, Austin, TX 78737",1,1,745,30.19961,-97.98128,zillow.com/b/761-trinity-hills-dr-austin-tx-B64SsB/
+1438,78747,UT Austin,10.61,"10701 S I H 35, 10701 Interstate Hwy #H12034117, Austin, TX 78747",1,1,705,30.1369,-97.7602,zillow.com/homedetails/10701-Interstate-Hwy-H12034117-Austin-TX-78747/2057292143_zpid/
+1288,78747,UT Austin,10.61,"10701 S I H 35, 10701 Interstate Hwy #H12034115, Austin, TX 78747",1,1,934,30.1369,-97.7602,zillow.com/homedetails/10701-Interstate-Hwy-H12034115-Austin-TX-78747/2057292254_zpid/
+1510,78747,UT Austin,10.61,"10701 S I H 35, 10701 Interstate Hwy #H12034116, Austin, TX 78747",1,1,807,30.1369,-97.7602,zillow.com/homedetails/10701-Interstate-Hwy-H12034116-Austin-TX-78747/2057292305_zpid/
+1254,78753,UT Austin,9.23,"13301 Center Lake Dr, Austin, TX",1,1,,30.40825,-97.6664,zillow.com/b/13301-center-lake-dr-austin-tx-BKjgx8/
+1539,78723,UT Austin,4.45,"6000 Ed Bluestein Blvd, Austin, TX",1,1,,30.299713,-97.66298,zillow.com/b/6000-ed-bluestein-blvd-austin-tx-9wNQVn/
+1657,78758,UT Austin,7.44,"3000 Kramer Ln, Austin, TX",1,1,,30.396185,-97.723015,zillow.com/b/3000-kramer-lane-austin-tx-BGV5MW/
+1050,78705,UT Austin,0.58,"Red River Place Apartments, 924 E Dean Keeton St, Austin, TX 78705",1,1,525,30.287891,-97.72689,zillow.com/homedetails/924-E-Dean-Keeton-St-F1C038EBB-Austin-TX-78705/2057298460_zpid/
+1295,78705,UT Austin,0.57,"Tower View Apartments, 926 E Dean Keeton St, Austin, TX 78705",1,1,550,30.287737,-97.727135,zillow.com/homedetails/926-E-Dean-Keeton-St-8B696DA8A-Austin-TX-78705/2057298496_zpid/
+1050,78705,UT Austin,0.57,"Tower View Apartments, 926 E Dean Keeton St, Austin, TX 78705",1,1,525,30.287737,-97.727135,zillow.com/homedetails/926-E-Dean-Keeton-St-7EF4B5666-Austin-TX-78705/2057298515_zpid/
+941,78705,UT Austin,0.26,"406 E 30th St, Austin, TX",1,1,,30.292334,-97.73449,zillow.com/b/406-e.-30th-street-austin-tx-5ZBHPM/
+900,78705,UT Austin,0.41,"The Jocey - Building 1, 301 W 29th St #D103, Austin, TX 78705",1,1,450,30.294033,-97.74036,zillow.com/b/the-jocey-building-1-austin-tx-5Z62rG/
+1025,78705,UT Austin,0.79,"1905 San Gabriel St, Austin, TX",1,1,,30.28356,-97.748146,zillow.com/b/san-gabriel-west-condominiums-austin-tx-5YD4fQ/
+900,,UT Austin,3.5,"1740 Bus Us Hwy, Austin, TX",1,1,,30.331003,-97.703705,zillow.com/b/1740-bus-us-hwy-austin-tx-CXvcdT/
+1246,78741,UT Austin,2.91,"1500 E Riverside Dr, Austin, TX",1,1,,30.247126,-97.73155,zillow.com/apartments/austin-tx/the-breakers-on-the-lake/5Xhswj/
+1195,78723,UT Austin,2.85,"APEX Modern Living, 2215 E 51st St, Austin, TX 78723",1,1,650,30.300102,-97.6904,zillow.com/apartments/austin-tx/apex-modern-living/9T5brR/
+1995,78705,UT Austin,0.57,"908 E 32nd St APT 101, Austin, TX 78705",1,1,787,30.291086,-97.7272,zillow.com/homedetails/908-E-32nd-St-APT-101-Austin-TX-78705/29396033_zpid/
+783,78705,UT Austin,0.46,"2700 Nueces St, Austin, TX",1,1,,30.292278,-97.74317,zillow.com/b/the-quarters-montgomery-house-%28student-housing-rent-by-the-room%29-austin-tx-5XjfMK/
+875,78705,UT Austin,0.47,"2300 Nueces St, Austin, TX",1,1,,30.286797,-97.74391,zillow.com/apartments/austin-tx/the-quarters-nueces-house/5XjfMY/
+1199,78753,UT Austin,8.7,"Heights on Parmer Apartments, 1500 E Parmer Ln, Austin, TX 78753",1,1,723,30.391079,-97.650986,zillow.com/apartments/austin-tx/heights-on-parmer-apartments/9T5jdL/
+820,78705,UT Austin,0.63,"709 W 22nd St, Austin, TX",1,1,,30.28515,-97.74612,zillow.com/apartments/austin-tx/the-quarters-sterling-house/5XjfLJ/
+775,78705,UT Austin,0.64,"714 W 22nd St, Austin, TX",1,1,,30.285513,-97.746315,zillow.com/apartments/austin-tx/the-quarters-grayson-house/5XjfLF/
+1770,78702,UT Austin,1.54,"1314 Rosewood Ave, Austin, TX",1,1,,30.26916,-97.72491,zillow.com/b/1314-rosewood-ave-austin-tx-5Z4X86/
+1250,78751,UT Austin,2.25,"202 Franklin Blvd #B, Austin, TX 78751",1,1,400,30.319487,-97.722824,zillow.com/homedetails/202-Franklin-Blvd-B-Austin-TX-78751/2126254152_zpid/
+1228,78721,UT Austin,3.45,"1143 Shady Ln, Austin, TX 78721",1,1,696,30.261486,-97.68825,zillow.com/homedetails/1143-Shady-Ln-Austin-TX-78721/2091823658_zpid/
+1650,78704,UT Austin,3.43,"2215 Post Rd APT 2024, Austin, TX 78704",1,1,610,30.241163,-97.75148,zillow.com/homedetails/2215-Post-Rd-APT-2024-Austin-TX-78704/2083492076_zpid/
+1550,78723,UT Austin,2.27,"1313 E 52nd St APT 202, Austin, TX 78723",1,1,590,30.308458,-97.70568,zillow.com/homedetails/1313-E-52nd-St-APT-202-Austin-TX-78723/305431018_zpid/
+1200,78747,UT Austin,10.27,"9800 Capitol View Dr, Austin, TX 78747",1,1,700,30.141056,-97.75164,zillow.com/homedetails/9800-Capitol-View-Dr-Austin-TX-78747/29470505_zpid/
+2300,78704,UT Austin,4.81,"4004 Banister Ln #303, Austin, TX 78704",1,1,870,30.229715,-97.778656,zillow.com/homedetails/4004-Banister-Ln-303-Austin-TX-78704/2055184784_zpid/
+1050,78705,UT Austin,0.95,"3503 Harmon Ave UNIT 105, Austin, TX 78705",1,1,486,30.293531,-97.72148,zillow.com/homedetails/3503-Harmon-Ave-UNIT-105-Austin-TX-78705/2068846511_zpid/
+2125,78704,UT Austin,3.03,"1509 S Lamar Blvd #2211, Austin, TX 78704",1,1,791,30.251917,-97.76352,zillow.com/homedetails/1509-S-Lamar-Blvd-2211-Austin-TX-78704/2056414700_zpid/
+1700,78756,UT Austin,2.37,"2209 Hancock Dr, Austin, TX",1,1,,30.323143,-97.74117,zillow.com/b/2209-hancock-dr-austin-tx-5XrwSj/
+950,78705,UT Austin,0.67,"2808 San Pedro St UNIT A, Austin, TX 78705",1,1,,30.29414,-97.7461,zillow.com/homedetails/2808-San-Pedro-St-UNIT-A-Austin-TX-78705/2056392831_zpid/
+1025,78705,UT Austin,0.79,"3316 Guadalupe St, Austin, TX",1,1,,30.300026,-97.74,zillow.com/b/guadalupe-square-austin-tx-5XrYpq/
+1195,78756,UT Austin,2.71,"1700 Houston St, Austin, TX 78756",1,1,700,30.328308,-97.73824,zillow.com/homedetails/1700-Houston-St-Austin-TX-78756/29412992_zpid/
+2295,78721,UT Austin,3.9,"902 Gardner Rd UNIT 6, Austin, TX 78721",1,1,1000,30.251131,-97.68807,zillow.com/homedetails/902-Gardner-Rd-UNIT-6-Austin-TX-78721/89547701_zpid/
+2600,78701,UT Austin,1.33,"805 Brazos St #1023, Austin, TX 78701",1,1,730,30.270077,-97.74042,zillow.com/homedetails/805-Brazos-St-1023-Austin-TX-78701/2055065748_zpid/
+1259,78757,UT Austin,4.52,"1745 Wooten Park Dr APT 101, Austin, TX 78757",1,1,600,30.353596,-97.72413,zillow.com/homedetails/1745-Wooten-Park-Dr-APT-101-Austin-TX-78757/2055077049_zpid/
+3250,78701,UT Austin,2.12,"70 Rainey St, Austin, TX",1,1,,30.258486,-97.739174,zillow.com/b/70-rainey-st-austin-tx-9LRN3S/
+1407,78759,UT Austin,6.15,"4711 Spicewood Springs Rd UNIT 163, Austin, TX 78759",1,1,875,30.375374,-97.7617,zillow.com/homedetails/4711-Spicewood-Springs-Rd-UNIT-163-Austin-TX-78759/29358647_zpid/
+2500,78744,UT Austin,10.05,"8810 Bestride Bnd UNIT A, Austin, TX 78744",1,1,750,30.144148,-97.72159,zillow.com/homedetails/8810-Bestride-Bnd-UNIT-A-Austin-TX-78744/2060429101_zpid/
+2915,78703,UT Austin,1.75,"311 Bowie St, Austin, TX 78703",1,1,,30.268557,-97.753586,zillow.com/homedetails/311-Bowie-St-Austin-TX-78703/119621686_zpid/
+1795,78701,UT Austin,1.07,"1212 Guadalupe St, Austin, TX",1,1,,30.275023,-97.74424,zillow.com/b/1212-guadalupe-st-austin-tx-5Xm2Yk/
+1000,78758,UT Austin,6.78,"10810 Newmont Rd #1, Austin, TX 78758",1,1,600,30.37962,-97.69249,zillow.com/homedetails/10810-Newmont-Rd-1-Austin-TX-78758/2059520153_zpid/
+1950,78731,UT Austin,1.72,"1815 W 36th St, Austin, TX 78731",1,1,620,30.309076,-97.75366,zillow.com/homedetails/1815-W-36th-St-Austin-TX-78731/29340152_zpid/
+1395,78756,UT Austin,2.53,"5413 Roosevelt Ave #B, Austin, TX 78756",1,1,576,30.32556,-97.73314,zillow.com/homedetails/5413-Roosevelt-Ave-B-Austin-TX-78756/2127539037_zpid/
+1650,78704,UT Austin,4.37,"3318 Dolphin Dr, Austin, TX 78704",1,1,700,30.2358,-97.7761,zillow.com/homedetails/3318-Dolphin-Dr-Austin-TX-78704/29477012_zpid/
+1550,78758,UT Austin,7.81,"1411 Gracy Farms Ln APT 18, Austin, TX 78758",1,1,600,30.395649,-97.69271,zillow.com/homedetails/1411-Gracy-Farms-Ln-APT-18-Austin-TX-78758/29436218_zpid/
+1200,78702,UT Austin,1.88,"1133 Poquito St APT C, Austin, TX 78702",1,1,525,30.267738,-97.71679,zillow.com/homedetails/1133-Poquito-St-APT-C-Austin-TX-78702/2091690735_zpid/
+1185,78726,UT Austin,,"(undisclosed Address), Austin, TX 78726",1,1,,,,zillow.com/homedetails/Austin-TX-78726/2055134583_zpid/
+1700,78745,UT Austin,7.36,"6903 Deatonhill Dr APT 39, Austin, TX 78745",1,1,626,30.208742,-97.817375,zillow.com/homedetails/6903-Deatonhill-Dr-APT-39-Austin-TX-78745/58315062_zpid/
+1495,78757,UT Austin,5.18,"1748 Ohlen Rd APT 91, Austin, TX 78757",1,1,770,30.362669,-97.720215,zillow.com/homedetails/1748-Ohlen-Rd-APT-91-Austin-TX-78757/29426765_zpid/
+1095,78705,UT Austin,0.83,"3206 King St, Austin, TX",1,1,,30.300022,-97.74222,zillow.com/b/shadowtree-condominiums-austin-tx-5XmNb7/
+2750,78757,UT Austin,3.32,"1914 Alegria Rd #B, Austin, TX 78757",1,1,750,30.33708,-97.73668,zillow.com/homedetails/1914-Alegria-Rd-B-Austin-TX-78757/2055118177_zpid/
+2650,78757,UT Austin,3.32,"1914 Alegria Rd, Austin, TX 78757",1,1,750,30.33708,-97.73668,zillow.com/homedetails/1914-Alegria-Rd-Austin-TX-78757/29416165_zpid/
+975,78705,UT Austin,0.28,"3006 Duval St APT 5, Austin, TX 78705",1,1,400,30.292439,-97.73402,zillow.com/homedetails/3006-Duval-St-APT-5-Austin-TX-78705/2112819000_zpid/
+1950,78729,UT Austin,11.26,"8804 Schick Rd APT A, Austin, TX 78729",1,1,900,30.448181,-97.77724,zillow.com/homedetails/8804-Schick-Rd-APT-A-Austin-TX-78729/2101027202_zpid/
+2467,78701,UT Austin,1.76,"500 W 2nd St #941, Austin, TX 78701",1,1,764,30.266026,-97.74919,zillow.com/homedetails/500-W-2nd-St-941-Austin-TX-78701/2056814244_zpid/
+1653,78745,UT Austin,7.94,"7731 Manchaca Rd #1210, Austin, TX 78745",1,1,700,30.19382,-97.81092,zillow.com/homedetails/7731-Manchaca-Rd-1210-Austin-TX-78745/2055125631_zpid/
+1800,78753,UT Austin,5.49,"9204B Georgian Dr, Austin, TX 78753",1,1,780,30.35977,-97.69451,zillow.com/homedetails/9204B-Georgian-Dr-Austin-TX-78753/2061050416_zpid/
+1275,78705,UT Austin,0.59,"3308 Tom Green St APT 4, Austin, TX 78705",1,1,575,30.296923,-97.7327,zillow.com/homedetails/3308-Tom-Green-St-APT-4-Austin-TX-78705/2084924268_zpid/
+1395,78757,UT Austin,4.54,"7685 Northcross Dr UNIT 629, Austin, TX 78757",1,1,650,30.354708,-97.735306,zillow.com/homedetails/7685-Northcross-Dr-UNIT-629-Austin-TX-78757/114407272_zpid/
+1800,78745,UT Austin,5.35,"4417 Lucksinger Ln #B, Austin, TX 78745",1,1,525,30.215824,-97.76571,zillow.com/homedetails/4417-Lucksinger-Ln-B-Austin-TX-78745/2096296658_zpid/
+1435,78704,UT Austin,4.27,"2001 Glen Allen St APT 1, Austin, TX 78704",1,1,670,30.240698,-97.78113,zillow.com/homedetails/2001-Glen-Allen-St-APT-1-Austin-TX-78704/2092855614_zpid/
+1350,78703,UT Austin,2.16,"1306 Norwalk Ln APT 303, Austin, TX 78703",1,1,450,30.288696,-97.772766,zillow.com/homedetails/1306-Norwalk-Ln-APT-303-Austin-TX-78703/2083863821_zpid/
+1120,78752,UT Austin,3.3,"1040 Camino La Costa, Austin, TX 78752",1,1,623,30.324808,-97.6999,zillow.com/homedetails/1040-Camino-La-Costa-Austin-TX-78752/2056281772_zpid/
+1125,78753,UT Austin,4.62,"8303 N Interstate Highway 35, Austin, TX 78753",1,1,351,30.34554,-97.69508,zillow.com/homedetails/8303-N-Interstate-Highway-35-Austin-TX-78753/2055957905_zpid/
+2995,78703,UT Austin,1.4,"901 W 9th St APT 315, Austin, TX 78703",1,1,774,30.27304,-97.7508,zillow.com/homedetails/901-W-9th-St-APT-315-Austin-TX-78703/83822834_zpid/
+1359,78758,UT Austin,8.11,"12000 Metric Blvd, Austin, TX 78758",1,1,655,30.402555,-97.70198,zillow.com/homedetails/12000-Metric-Blvd-Austin-TX-78758/125803153_zpid/
+1000,78705,UT Austin,0.55,"304 E 33rd St, Austin, TX",1,1,,30.29676,-97.73401,zillow.com/b/304-e-33rd-st-austin-tx-5YCPRV/
+1140,78751,UT Austin,,"(undisclosed Address), Austin, TX 78751",1,1,460,,,zillow.com/homedetails/Austin-TX-78751/29401515_zpid/
+1550,78757,UT Austin,4.83,"2425 Ashdale Dr APT 78, Austin, TX 78757",1,1,646,30.358814,-97.73093,zillow.com/homedetails/2425-Ashdale-Dr-APT-78-Austin-TX-78757/29423239_zpid/
+1250,78705,UT Austin,0.56,"806 W 24th St, Austin, TX",1,1,,30.288015,-97.745804,zillow.com/b/croix-330-n-m-austin-tx-5XjfLB/
+2650,78704,UT Austin,2.86,"1240 Barton Hills Dr APT 121, Austin, TX 78704",1,1,761,30.261868,-97.77255,zillow.com/homedetails/1240-Barton-Hills-Dr-APT-121-Austin-TX-78704/29325623_zpid/
+1795,78703,UT Austin,1.78,"337 Baylor St #336, Austin, TX 78703",1,1,561,30.269964,-97.75655,zillow.com/homedetails/337-Baylor-St-336-Austin-TX-78703/2058140758_zpid/
+1395,78756,UT Austin,2.64,"5403 William Holland Ave, Austin, TX 78756",1,1,565,30.327196,-97.73817,zillow.com/homedetails/5403-William-Holland-Ave-Austin-TX-78756/2062735814_zpid/
+1295,78705,UT Austin,0.55,"610 1/2 W 30th St, Austin, TX 78705",1,1,525,30.296005,-97.74104,zillow.com/homedetails/610-1-2-W-30th-St-Austin-TX-78705/2066425109_zpid/
+1150,78722,UT Austin,1.2,"2401 Manor Rd APT 125, Austin, TX 78722",1,1,700,30.284473,-97.7171,zillow.com/homedetails/2401-Manor-Rd-APT-125-Austin-TX-78722/251031706_zpid/
+2295,78704,UT Austin,3.02,"1219 Hollow Creek Dr #1, Austin, TX 78704",1,1,663,30.260603,-97.774994,zillow.com/homedetails/1219-Hollow-Creek-Dr-1-Austin-TX-78704/2067005284_zpid/
+1200,78705,UT Austin,0.8,"2207 Leon St, Austin, TX",1,1,,30.286036,-97.749405,zillow.com/b/2207-leon-st-austin-tx-5YyDnd/
+1380,78744,UT Austin,7.55,"8000 E William Cannon Dr, Austin, TX 78744",1,1,638,30.180279,-97.74805,zillow.com/homedetails/8000-E-William-Cannon-Dr-Austin-TX-78744/2057354523_zpid/
+1584,78728,UT Austin,12.7,"16300 Farm To Market Rd, Austin, TX 78728",1,1,641,30.468498,-97.69009,zillow.com/homedetails/16300-Farm-To-Market-Rd-Austin-TX-78728/2068637513_zpid/
+1430,78717,UT Austin,13.41,"9710 Spectrum Dr, Austin, TX 78717",1,1,579,30.480951,-97.77071,zillow.com/homedetails/9710-Spectrum-Dr-Austin-TX-78717/2058345412_zpid/
+1700,78717,UT Austin,13.2,"13510 Lyndhurst St, Austin, TX 78717",1,1,756,30.475416,-97.78533,zillow.com/homedetails/13510-Lyndhurst-St-Austin-TX-78717/2058345327_zpid/
+1690,78752,UT Austin,3.81,"7410 N Lamar Blvd, Austin, TX 78752",1,1,709,30.341454,-97.716576,zillow.com/homedetails/7410-N-Lamar-Blvd-Austin-TX-78752/2058345353_zpid/
+1650,78745,UT Austin,7.9,"7720 Menchaca Rd, Austin, TX 78745",1,1,590,30.194517,-97.81083,zillow.com/homedetails/7720-Menchaca-Rd-Austin-TX-78745/2058216210_zpid/
+2000,78705,UT Austin,0.9,"3435 Harmon Ave, Austin, TX 78705",1,1,567,30.29295,-97.722176,zillow.com/homedetails/3435-Harmon-Ave-Austin-TX-78705/2058216157_zpid/
+1705,78741,UT Austin,4.56,"5710 E Riverside Dr, Austin, TX 78741",1,1,638,30.227484,-97.70906,zillow.com/homedetails/5710-E-Riverside-Dr-Austin-TX-78741/2058215994_zpid/
+1900,78749,UT Austin,7.43,"4000 Sabio Dr, Austin, TX 78749",1,1,717,30.221169,-97.833046,zillow.com/homedetails/4000-Sabio-Dr-Austin-TX-78749/2058215705_zpid/
+1710,78741,UT Austin,3.8,"1910 Mariposa Dr, Austin, TX 78741",1,1,694,30.234135,-97.732475,zillow.com/homedetails/1910-Mariposa-Dr-Austin-TX-78741/2058215616_zpid/
+1400,78759,UT Austin,5.36,"3809 Spicewood Springs Rd APT 139, Austin, TX 78759",1,1,1223,30.365656,-97.75124,zillow.com/homedetails/3809-Spicewood-Springs-Rd-APT-139-Austin-TX-78759/29355282_zpid/
+1295,78758,UT Austin,8.09,"2320 Gracy Farms Ln, Austin, TX",1,1,,30.403763,-97.70901,zillow.com/b/2320-gracy-farms-ln-austin-tx-5XhtBD/
+1490,78754,UT Austin,5.33,"8030 Exchange Dr, Austin, TX 78754",1,1,730,30.333826,-97.66364,zillow.com/homedetails/8030-Exchange-Dr-Austin-TX-78754/2060793847_zpid/
+1630,78702,UT Austin,3.61,"710 Airport Blvd, Austin, TX 78702",1,1,654,30.25312,-97.692535,zillow.com/homedetails/710-Airport-Blvd-Austin-TX-78702/2058353676_zpid/
+6200,78734,UT Austin,13.37,"15008 Iowa St, Austin, TX 78734",1,1,540,30.394178,-97.924675,zillow.com/homedetails/15008-Iowa-St-Austin-TX-78734/64452647_zpid/
+1460,78745,UT Austin,7.99,"7811 Menchaca Rd #3216, Austin, TX 78745",1,1,601,30.192997,-97.8111,zillow.com/homedetails/7811-Menchaca-Rd-3216-Austin-TX-78745/2059255568_zpid/
+1425,78757,UT Austin,4.81,"7801 Shoal Creek Blvd APT 146, Austin, TX 78757",1,1,598,30.358517,-97.74064,zillow.com/homedetails/7801-Shoal-Creek-Blvd-APT-146-Austin-TX-78757/29424500_zpid/
+2000,78757,UT Austin,5.08,"8303 Reeda Ln, Austin, TX 78757",1,1,888,30.362053,-97.72613,zillow.com/homedetails/8303-Reeda-Ln-Austin-TX-78757/29426492_zpid/
+2597,78702,UT Austin,1.27,"1322 E 12th St #404, Austin, TX 78702",1,1,1170,30.27293,-97.72617,zillow.com/homedetails/1322-E-12th-St-404-Austin-TX-78702/2082629336_zpid/
+1402,78725,UT Austin,4.36,"6918 Hester Rd #1209, Austin, TX 78725",1,1,684,30.259089,-97.67221,zillow.com/homedetails/6918-Hester-Rd-1209-Austin-TX-78725/2056477607_zpid/
+1795,78705,UT Austin,0.38,"202 E 31st St, Austin, TX 78705",1,1,616,30.294422,-97.735405,zillow.com/homedetails/202-E-31st-St-Austin-TX-78705/29395628_zpid/
+1837,78702,UT Austin,2.4,"2401 E 6th St #311, Austin, TX 78702",1,1,844,30.259237,-97.71591,zillow.com/homedetails/2401-E-6th-St-311-Austin-TX-78702/2056333817_zpid/
+2636,78701,UT Austin,1.8,"200 W Cesar Chavez St #1223, Austin, TX 78701",1,1,764,30.264408,-97.746216,zillow.com/homedetails/200-W-Cesar-Chavez-St-1223-Austin-TX-78701/2059746477_zpid/
+2457,78701,UT Austin,1.72,"401 W 3rd St #607, Austin, TX 78701",1,1,626,30.266108,-97.747536,zillow.com/homedetails/401-W-3rd-St-607-Austin-TX-78701/2056351034_zpid/
+1950,78701,UT Austin,1.44,"505 W 7th St, Austin, TX",1,1,,30.27027,-97.74705,zillow.com/b/posada-del-rey-condominiums-austin-tx-5XsXgh/
+1395,78751,UT Austin,2.32,"110 Nelray Blvd #B, Austin, TX 78751",1,1,554,30.320208,-97.721924,zillow.com/homedetails/110-Nelray-Blvd-B-Austin-TX-78751/2103739743_zpid/
+1395,78756,UT Austin,2.52,"5414 Grover Ave #B, Austin, TX 78756",1,1,576,30.325445,-97.732895,zillow.com/homedetails/5414-Grover-Ave-B-Austin-TX-78756/2120237290_zpid/
+1535,78757,UT Austin,4.92,"1501 Villanova Dr #A, Austin, TX 78757",1,1,800,30.358656,-97.718895,zillow.com/homedetails/1501-Villanova-Dr-A-Austin-TX-78757/2055477347_zpid/
+1632,78741,UT Austin,3.34,"2001 E Riverside Dr, Austin, TX",1,1,,30.24128,-97.72841,zillow.com/b/2001-e-riverside-dr-austin-tx-9T5drV/
+1694,78705,UT Austin,0.61,"910 W 25th St APT 205, Austin, TX 78705",1,1,744,30.289595,-97.746735,zillow.com/homedetails/910-W-25th-St-APT-205-Austin-TX-78705/89551232_zpid/
+2600,78701,UT Austin,1.56,"500 Brazos St, Austin, TX",1,1,,30.267023,-97.74196,zillow.com/b/500-brazos-st-austin-tx-BPg8Nm/
+1650,78702,UT Austin,2.49,"1705 Holly St APT 1, Austin, TX 78702",1,1,,30.2538,-97.727905,zillow.com/homedetails/1705-Holly-St-APT-1-Austin-TX-78702/2055317003_zpid/
+1200,78717,UT Austin,14.21,"9010 N Lake Creek Pkwy, Austin, TX 78717",1,1,605,30.48683,-97.8022,zillow.com/homedetails/9010-N-Lake-Creek-Pkwy-Austin-TX-78717/2058360201_zpid/
+1751,78723,UT Austin,3.74,"5515 Springdale Rd, Austin, TX 78723",1,1,672,30.298212,-97.67479,zillow.com/homedetails/5515-Springdale-Rd-Austin-TX-78723/2058352873_zpid/
+1910,78721,UT Austin,3.26,"1110 Shady Ln, Austin, TX 78721",1,1,632,30.260908,-97.692635,zillow.com/homedetails/1110-Shady-Ln-Austin-TX-78721/2058345736_zpid/
+1632,78749,UT Austin,9.9,"7510 W Slaughter Ln, Austin, TX 78749",1,1,903,30.19173,-97.858215,zillow.com/homedetails/7510-W-Slaughter-Ln-Austin-TX-78749/2058215676_zpid/
+1440,78744,UT Austin,8.99,"510 E Slaughter Ln, Austin, TX 78744",1,1,690,30.164162,-97.7788,zillow.com/homedetails/510-E-Slaughter-Ln-Austin-TX-78744/2058215556_zpid/
+1360,78748,UT Austin,10.2,"10610 Brezza Ln, Austin, TX 78748",1,1,618,30.149841,-97.79329,zillow.com/homedetails/10610-Brezza-Ln-Austin-TX-78748/2058215513_zpid/
+1456,78702,UT Austin,1.7,"2920 E 17th St #111, Austin, TX 78702",1,1,451,30.279348,-97.710335,zillow.com/homedetails/2920-E-17th-St-111-Austin-TX-78702/2060151960_zpid/
+1451,78748,UT Austin,8.3,"8210 S Congress Ave #117, Austin, TX 78748",1,1,720,30.176249,-97.784256,zillow.com/homedetails/8210-S-Congress-Ave-117-Austin-TX-78748/2059105301_zpid/
+1450,78731,UT Austin,4.1,"3839 Dry Creek Dr UNIT 109, Austin, TX 78731",1,1,713,30.343199,-97.76447,zillow.com/homedetails/3839-Dry-Creek-Dr-UNIT-109-Austin-TX-78731/29345977_zpid/
+2495,78704,UT Austin,2.38,"1600 Barton Springs Rd, Austin, TX",1,1,,30.262539,-97.76191,zillow.com/b/bartonplace-austin-tx-5XqtSs/
+2300,78704,UT Austin,4.06,"615 Terrell Hill Dr, Austin, TX 78704",1,1,600,30.235916,-97.765495,zillow.com/homedetails/615-Terrell-Hill-Dr-Austin-TX-78704/29476659_zpid/
+1425,78705,UT Austin,0.6,"2813 1/2 Rio Grande St, Austin, TX",1,1,,30.294916,-97.743835,zillow.com/b/rio-grande-condos-2813.5-rio-grande-st.-austin-tx-9gtxqh/
+1075,78705,UT Austin,0.63,"3000 Guadalupe St, Austin, TX",1,1,,30.296774,-97.742096,zillow.com/b/three-thousand-guadalupe-place-condominiums-austin-tx-5XmLJm/
+1050,78741,UT Austin,4.09,"2500 Burleson Rd APT 309, Austin, TX 78741",1,1,389,30.229803,-97.735855,zillow.com/homedetails/2500-Burleson-Rd-APT-309-Austin-TX-78741/2088934636_zpid/
+1400,78705,UT Austin,0.16,"2901 San Jacinto Blvd, Austin, TX",1,1,,30.29091,-97.73488,zillow.com/b/oakview-austin-tx-5Xr2Zd/
+1425,78705,UT Austin,0.29,"3004 Speedway APT 2, Austin, TX 78705",1,1,560,30.293312,-97.73609,zillow.com/homedetails/3004-Speedway-APT-2-Austin-TX-78705/2084464360_zpid/
+1350,78741,UT Austin,4.03,"1705 Crossing Pl APT 130, Austin, TX 78741",1,1,582,30.23355,-97.715614,zillow.com/homedetails/1705-Crossing-Pl-APT-130-Austin-TX-78741/29463125_zpid/
+1075,78751,UT Austin,1.02,"406.5 W 40th St, Austin, TX 78751",1,1,650,30.303562,-97.73303,zillow.com/homedetails/406-5-W-40th-St-Austin-TX-78751/2055603631_zpid/
+1850,78703,UT Austin,1.89,"2308 Enfield Rd, Austin, TX 78703",1,1,853,30.288387,-97.76808,zillow.com/homedetails/2308-Enfield-Rd-Austin-TX-78703/2055435503_zpid/
+2700,78702,UT Austin,2.45,"2012 Willow St #B, Austin, TX 78702",1,1,850,30.25571,-97.722755,zillow.com/homedetails/2012-Willow-St-B-Austin-TX-78702/338244995_zpid/
+1375,78722,UT Austin,1.08,"3400 Lafayette Ave #A, Austin, TX 78722",1,1,693,30.290524,-97.7185,zillow.com/homedetails/3400-Lafayette-Ave-A-Austin-TX-78722/2097994510_zpid/
+1450,78703,UT Austin,1.74,"1912 W 33rd St, Austin, TX 78703",1,1,650,30.307215,-97.75672,zillow.com/homedetails/1912-W-33rd-St-Austin-TX-78703/29338564_zpid/
+3750,78701,UT Austin,2.26,"48 East Ave #2907, Austin, TX 78701",1,1,699,30.256393,-97.73887,zillow.com/homedetails/48-East-Ave-2907-Austin-TX-78701/2059287972_zpid/
+1500,78751,UT Austin,1.44,"202 E 45th St, Austin, TX 78751",1,1,661,30.308302,-97.72734,zillow.com/homedetails/202-E-45th-St-Austin-TX-78751/2074557285_zpid/
+1150,78705,UT Austin,0.22,"409 E 30th St UNIT A, Austin, TX 78705",1,1,450,30.291965,-97.7349,zillow.com/homedetails/409-E-30th-St-UNIT-A-Austin-TX-78705/2055938294_zpid/
+1325,78705,UT Austin,0.41,"3115 Helms St, Austin, TX",1,1,,30.294998,-97.73618,zillow.com/b/3115-helms-st-austin-tx-5XjfM2/
+1295,78705,UT Austin,0.87,"2404 Longview St APT 206, Austin, TX 78705",1,1,573,30.288462,-97.75099,zillow.com/homedetails/2404-Longview-St-APT-206-Austin-TX-78705/29393698_zpid/
+1930,78702,UT Austin,1.38,"900 E 10th St #3401, Austin, TX 78702",1,1,675,30.269436,-97.732056,zillow.com/homedetails/900-E-10th-St-3401-Austin-TX-78702/2055477852_zpid/
+1250,78705,UT Austin,0.53,"2604 Salado St, Austin, TX",1,1,,30.290762,-97.7452,zillow.com/b/salado-condominiums-austin-tx-5XySFZ/
+1125,78705,UT Austin,0.61,"2815 Rio Grande St, Austin, TX",1,1,,30.29516,-97.74381,zillow.com/b/gazebo-condominiums-austin-tx-5XwT3b/
+1626,78721,UT Austin,3.28,"1115 Shady Ln #3108, Austin, TX 78721",1,1,643,30.26104,-97.69211,zillow.com/homedetails/1115-Shady-Ln-3108-Austin-TX-78721/2056323288_zpid/
+1695,78705,UT Austin,0.45,"2311 Nueces St APT 303, Austin, TX 78705",1,1,613,30.28673,-97.7436,zillow.com/homedetails/2311-Nueces-St-APT-303-Austin-TX-78705/29394205_zpid/
+1750,78705,UT Austin,0.57,"3110 Red River St APT 201, Austin, TX 78705",1,1,595,30.29043,-97.72702,zillow.com/homedetails/3110-Red-River-St-APT-201-Austin-TX-78705/145654188_zpid/
+3800,78703,UT Austin,1.63,"609 Blanco St APT 106, Austin, TX 78703",1,1,600,30.273138,-97.756645,zillow.com/homedetails/609-Blanco-St-APT-106-Austin-TX-78703/241931428_zpid/
+1755,78751,UT Austin,1.5,"4511 Speedway APT B, Austin, TX 78751",1,1,570,30.309315,-97.72759,zillow.com/homedetails/4511-Speedway-APT-B-Austin-TX-78751/2055494996_zpid/
+2000,78741,UT Austin,3.34,"1514 Parker Ln APT 209, Austin, TX 78741",1,1,776,30.240864,-97.731445,zillow.com/homedetails/1514-Parker-Ln-APT-209-Austin-TX-78741/29460722_zpid/
+2400,78746,UT Austin,2.96,"2507 Westlake Dr, Austin, TX 78746",1,1,485,30.30599,-97.7821,zillow.com/homedetails/2507-Westlake-Dr-Austin-TX-78746/2120134963_zpid/
+1785,78704,UT Austin,4.23,"1901 Glen Allen St APT 6, Austin, TX 78704",1,1,776,30.240824,-97.78022,zillow.com/homedetails/1901-Glen-Allen-St-APT-6-Austin-TX-78704/62607895_zpid/
+699,78722,UT Austin,0.87,"1203 E 31st St #A1, Austin, TX 78722",1,1,,30.287725,-97.722046,zillow.com/homedetails/1203-E-31st-St-A1-Austin-TX-78722/2055950569_zpid/
+1395,78752,UT Austin,2.87,"803-809 Tirado St #FE2FB97B1, Austin, TX 78752",1,1,566,30.323414,-97.709465,zillow.com/homedetails/803-809-Tirado-St-FE2FB97B1-Austin-TX-78752/2062349180_zpid/
+1500,78751,UT Austin,2.38,"700 Nelray Blvd APT 104, Austin, TX 78751",1,1,556,30.322449,-97.72677,zillow.com/homedetails/700-Nelray-Blvd-APT-104-Austin-TX-78751/2119620887_zpid/
+3750,78733,UT Austin,7.29,"1706 River Hills Rd, Austin, TX 78733",1,1,1100,30.318796,-97.85371,zillow.com/homedetails/1706-River-Hills-Rd-Austin-TX-78733/58298050_zpid/
+1075,78705,UT Austin,0.66,"3000 Guadalupe St, Austin, TX 78705",1,1,399,30.29714,-97.74248,zillow.com/homedetails/3000-Guadalupe-St-Austin-TX-78705/2146981789_zpid/
+2450,78701,UT Austin,1.12,"501 W 12th St UNIT B, Austin, TX 78701",1,1,900,30.274853,-97.74556,zillow.com/homedetails/501-W-12th-St-UNIT-B-Austin-TX-78701/2058926318_zpid/
+1450,78705,UT Austin,0.63,"2210 Pearl St APT 204, Austin, TX 78705",1,1,369,30.286318,-97.746574,zillow.com/homedetails/2210-Pearl-St-APT-204-Austin-TX-78705/62605485_zpid/
+1525,78705,UT Austin,0.35,"501 W 26th St APT 311, Austin, TX 78705",1,1,650,30.290495,-97.74213,zillow.com/homedetails/501-W-26th-St-APT-311-Austin-TX-78705/29394096_zpid/
+1375,78705,UT Austin,0.85,"1106 W 22nd St APT 5, Austin, TX 78705",1,1,434,30.285782,-97.75026,zillow.com/homedetails/1106-W-22nd-St-APT-5-Austin-TX-78705/121654942_zpid/
+1175,78705,UT Austin,0.78,"3316 Guadalupe St, Austin, TX 78705",1,1,455,30.299982,-97.73985,zillow.com/homedetails/3316-Guadalupe-St-Austin-TX-78705/2080529135_zpid/
+1650,78705,UT Austin,0.16,"2901 San Jacinto Blvd, Austin, TX 78705",1,1,655,30.29091,-97.73488,zillow.com/homedetails/2901-San-Jacinto-Blvd-Austin-TX-78705/2061974273_zpid/
+1450,78701,UT Austin,0.66,"1800 Lavaca St APT 203, Austin, TX 78701",1,1,608,30.280386,-97.74101,zillow.com/homedetails/1800-Lavaca-St-APT-203-Austin-TX-78701/2086490765_zpid/
+1275,78705,UT Austin,0.67,"904 W 21st St, Austin, TX",1,1,,30.284891,-97.74662,zillow.com/b/preservation-square-condominiums-austin-tx-5YD3gb/
+1295,78705,UT Austin,0.55,"304 E 33rd St, Austin, TX 78705",1,1,450,30.29676,-97.73401,zillow.com/homedetails/304-E-33rd-St-Austin-TX-78705/2055542392_zpid/
+2757,78704,UT Austin,3.86,"2525 S Lamar Blvd STE 14, Austin, TX 78704",1,1,735,30.246523,-97.778336,zillow.com/homedetails/2525-S-Lamar-Blvd-STE-14-Austin-TX-78704/2098053542_zpid/
+1500,78756,UT Austin,2.65,"5515 Woodrow Ave APT 108, Austin, TX 78756",1,1,613,30.327251,-97.733376,zillow.com/homedetails/5515-Woodrow-Ave-APT-108-Austin-TX-78756/2058384446_zpid/

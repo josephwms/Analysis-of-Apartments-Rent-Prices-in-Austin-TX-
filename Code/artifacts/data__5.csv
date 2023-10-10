@@ -1,0 +1,401 @@
+Price,Zip,My university,Distance to the university (in miles),Address,Bathrooms,Bedrooms,LivingArea,Latitude,Longitude,DetailURL
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3,"175 Call Dr, Austin, TX 78737",4,4,3574,30.16433,-98.00683,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,30.127373,-97.802055,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,30.501108,-97.75615,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,30.332489,-97.8006,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,30.384108,-97.90935,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,30.278828,-97.71808,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,30.290894,-97.76512,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,30.262423,-97.80621,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,30.332735,-97.76109,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+4850,78734,UT Austin,13.51,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,30.387383,-97.93241,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,30.160885,-97.9964,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+6500,78738,UT Austin,17.65,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,30.325378,-98.0293,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,30.29604,-97.767044,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,30.436052,-97.81189,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,30.328814,-98.039955,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59,"16308 Lake Loop, Austin, TX 78734",4,4,3300,30.38201,-97.956184,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,30.37422,-97.76875,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,30.326038,-97.8068,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,30.381939,-97.894844,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,30.194685,-97.894745,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/

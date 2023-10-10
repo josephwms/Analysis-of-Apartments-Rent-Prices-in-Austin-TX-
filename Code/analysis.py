@@ -12,29 +12,44 @@ sns.scatterplot(x='Bedrooms', y='Price', data=df)
 plt.xlabel('Number of Rooms')
 plt.ylabel('Rent Price ($)')
 plt.title('Impact of Number of # of Rooms on Rent')
+plt.xticks(range(1, 5)) 
 plt.show()
 
 correlation = df['Bedrooms'].corr(df['Price'])
 print(f"Correlation between Number of Rooms and Rent Price: {correlation}")
 
-#We see a moderate positive linear relationship between two variables: Price and # of bedrooms. As # of bedrooms increase so does price moderately.
+'''We see a moderate positive linear relationship between two variables: Price and # of bedrooms. As # of bedrooms increase so does price moderately.'''
 
-#Now lets check the impact on price from the distance to university
+'''Lets see what is the average rent for different number of rooms'''
+average_rent_by_rooms = df.groupby('Bedrooms')['Price'].mean()
 
+plt.figure(figsize=(8, 6))
+average_rent_by_rooms.plot(kind='bar', color='blue')
+plt.title('Average Rent by Number of Rooms')
+plt.xlabel('Number of Rooms')
+plt.ylabel('Average Rent ($)')
+plt.xticks(rotation=0)  
+plt.grid(axis='y')
+plt.show()
 
-plt.scatter(df['Distance to the university'], df['Price'])
-plt.xlabel('Distance from University')
+'''Now lets check the impact on price from the distance to university'''
+
+plt.scatter(df['Distance to the university (in miles)'], df['Price'])
+plt.xlabel('Distance to the university (in miles)')
 plt.ylabel('Rental Rate')
 plt.title('Scatterplot of Distance vs. Rental Rate')
 plt.show()
 
-#We want to see how much variance in the rental rates is explained by distance from the university
+'''There doesnt seem much of a pattern in distance vs rent'''
+
+'''Analyze how much variance in the rental rates is explained by distance from the university'''
 
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
 
-X = df['Distance to the university'].str.extract('(\d+\.\d+)').astype(float)
+X = df['Distance to the university (in miles)']
 y = df['Price']
+X = X.values.reshape(-1, 1)
 
 model = LinearRegression()
 model.fit(X,y)
@@ -53,14 +68,15 @@ plt.title('Linear Regression: Distance vs. Rental Rate')
 plt.legend()
 plt.show()
 
+
 r2 = r2_score(y, y_predict)
 print(f'R-squared for distance: {r2}')
 
-#The coefficient is positive but small and the intercept is a big value. The relationship is positive but very little variance in rent is explained by distance from the unversity which means there are other factors playing a role. 
+'''The coefficient is positive but small and the intercept is a big value. The relationship is positive but very little variance in rent is explained by distance from the unversity alone which means there are other factors playing a role. '''
 
-#Lets see the effect taking both distance from university and number of bedrooms into account. 
-df['Distance to the university'] = df['Distance to the university'].str.extract('(\d+\.\d+)').astype(float)
-X1 = df[['Distance to the university', 'Bedrooms']]
+'''Lets see the effect of taking both distance from university and number of bedrooms into account. '''
+
+X1 = df[['Distance to the university (in miles)', 'Bedrooms']]
 y1 = df['Price']
 
 model = LinearRegression()
@@ -76,17 +92,14 @@ r2_ = r2_score(y1, y_pred)
 
 print(f'R-squared for distance and bedrooms: {r2_}')
 
-#Now taking both the variables into account gives a relatively bigger r2 which means a lot more variance in rent is explained by these two factors/variables. The relationship is negative with distance and positive with number of bedrooms as expected.
+'''Now taking both the variables into account gives a relatively bigger r2 which means a lot more variance in rent is explained when these two factors/variables are accounted for together. The relationship is negative with distance and positive with number of bedrooms as expected.'''
 
-#Lets see which zipcodes have the highest rents
+'''Lets see which zipcodes have the highest rents'''
 
-'''Group data by zip code and calculate the average price for each zip code'''
 zipcode_rents = df.groupby('Zip')['Price'].mean().reset_index()
 
-'''Sort zip codes by average price in descending order'''
 zipcode_rents = zipcode_rents.sort_values(by='Price', ascending=False)
 
-'''Plot the top N most expensive zip codes (i.e. top 10)'''
 top_n = 10
 top_zipcodes = zipcode_rents['Zip'][:top_n].astype(str)
 top_rents = zipcode_rents['Price'][:top_n]
@@ -99,7 +112,7 @@ plt.title(f'Top {top_n} Most Expensive Zip Codes')
 plt.xticks(top_zipcodes, rotation=45)
 plt.show()
 
-#I think it would also be interesting to see the impact of living area on rents 
+'''I think it would also be interesting to see the impact of area on rents'''
 
 X2 = df['LivingArea'].values.reshape(-1, 1)
 y2 = df['Price'].values
@@ -133,4 +146,4 @@ correlation_coefficient = correlation_matrix.loc['LivingArea', 'Price']
 
 print(f"Correlation Coefficient: {correlation_coefficient}")
 
-#There is a moderately strong positive relationship between living area and rent which means as living area increases then so does rent. Also, about 50% variability in rent is explained by living area
+'''There is a moderately strong positive relationship between living area and rent which means as living area increases then so does rent. Also, about 50% variability in rent is explained by living area'''

@@ -28,4 +28,4 @@ print(f"R-squared (R2) Score: {r2}")
 # Predict on the entire dataset
 Y_pred = lr_regressor.predict(X)
 data['pred_rent'] = Y_pred
-data.to_csv(r'C:\Users\aahil\Documents\repos\eco395m-project1-midterm\artifacts\result_with_LR_predict.csv', index=False)
+data.to_csv(r'C:\Users\aahil\Documents\repos\creatingLinearRegression\artifacts\result_with_LR_predict.csv', index=False)

@@ -71,9 +71,19 @@
 
 ## C. Analysis
 
+
+* ***Dataset Overview***
+
+....................................
+
+
+
 * ***Relation between prices and other attributes***
 
-* We use Python to visualize the relationship, see the figures below.
+* We use Python to visualize the relationship, see the execution method and figures below.
+
+  
+>> python3 Code/draw_figures.py
 
 ![LA_P_scatter_plot](images/Price_Area.png)
 ![LA_P_scatter_plot](images/Price_Distance.png)
@@ -81,17 +91,19 @@
 ![LA_P_scatter_plot](images/Price_Bedrooms.png)
 ![LA_P_scatter_plot](images/Price_Zip.png)
 
-You can view the interactive Plotly plot for the following figures by downloading the .html file in the 'images' folder, for example, [here](images/LA_P_scatter_plot.html).
 
-  
-![LA_P_scatter_plot](images/LA_P_scatter_plot.png)
+You can also view the interactive Plotly scatter plot for the same figures by **downloading the .html file** in the 'images' folder, for example, [here](images/DISvsPRICE_scatter_plot.html).
+
+* ***A visualization Map***
+
+* We built a map for visualizing all the attributes of an apartment for rent, users can click on the blue house marker on the map to have a brief understanding of the house rent and other attributes. It can give users a more comprehensive view of the apartments for rent at Austin
 
   
 
 ## D. Results  
 
 
-## E. Limitations  
+## E. Reproducibility
 
 * ***Data:***
 
@@ -102,7 +114,11 @@ You can view the interactive Plotly plot for the following figures by downloadin
   
 
 
-## F. Further Improvement
+
+## F. Limitations
+
+  
+## G. Further Improvement
 
 
 

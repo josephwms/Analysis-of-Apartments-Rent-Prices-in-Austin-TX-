@@ -56,7 +56,7 @@ Also, there are some attributes that we computed and added to the dataset, which
 
 |  Model  |  R Squared  |  Adjusted R Squared  |  Mean Squared Error  |  AIC  |  BIC  |
 |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |
-| **Random Forest** | **0.95411** | 0.95370 | 179888.57504 | 6786.05203 | 6814.01965 |
+| ***Random Forest*** | ***0.95411*** | 0.95370 | 179888.57504 | 6786.05203 | 6814.01965 |
 | Decision Tree | 0.91308 | 0.91230 | 340709.73486 | 7143.72026 | 7171.68788 |
 | Support Vector Machines | 0.71980 | 0.71726 | 1098409.01001 | 7799.24907 | 7827.21669 |
 | Linear Regression | 0.65062 | 0.64746 | 1369569.77771 | 17762.41477 | 17790.38239 |

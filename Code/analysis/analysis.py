@@ -2,7 +2,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv('artifacts/result.csv')
+import os
+print(os.getcwd())
+
+df = pd.read_csv('../../artifacts/result.csv')
 
 print(df.head())
 print(df.info())
@@ -149,7 +152,7 @@ print(f"Correlation Coefficient: {correlation_coefficient}")
 '''There is a moderately strong positive relationship between living area and rent which means as living area increases then so does rent. Also, about 50% variability in rent is explained by living area'''
 
 # Please Set the base path for images. Here is mine as an example
-image_path = r"C:\users\rayna\downloads\repos\eco395m-project1-midterm\images"
+image_path = '../../images'
 
 # Extract the relevant columns
 price = df["Price"]
@@ -166,8 +169,8 @@ sns.set_context("talk")
 # Creating Box Plot for Price and Distance
 bins_distance = [0, 1, 2, 3, 6, 11, 20]
 labels_distance = ["0-1", "1-2", "2-3", "3-6", "6-11", "11-20"]
-data["Binned_Distance"] = pd.cut(
-    data["Distance to the university (in miles)"],
+df["Binned_Distance"] = pd.cut(
+    df["Distance to the university (in miles)"],
     bins=bins_distance,
     labels=labels_distance,
     right=False,
@@ -188,7 +191,7 @@ plt.figure(figsize=(12, 8))
 sns.boxplot(
     x="Binned_Distance",
     y="Price",
-    data=data,
+    data=df,
     boxprops=boxprops,
     flierprops=flierprops,
     color=default_color,
@@ -203,10 +206,10 @@ plt.savefig(f"{image_path}\\Price_Distance_Box.png")
 # Creting a box plot that only graphs specific zip codes
 
 min_listings = 50
-zip_counts = data["Zip"].value_counts()
+zip_counts = df["Zip"].value_counts()
 zip_to_include = zip_counts[zip_counts > min_listings].index
 
-filtered_data = data[data["Zip"].isin(zip_to_include)]
+filtered_data = df[df["Zip"].isin(zip_to_include)]
 
 # Box Plot for Price and Filtered Zip Codes
 

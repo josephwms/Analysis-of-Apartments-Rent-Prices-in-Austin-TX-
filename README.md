@@ -98,7 +98,7 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 * We use Python to visualize the relationship, try to use the execution method below and you will get the following figures in the 'images' folder.
 
   
->> python3 Code/draw_figures.py
+>> python3 Code/analysis/analysis.py
 
 ![Price_Area](images/Price_Area.png)
 ![Price_Bathrooms](images/Price_Bathrooms.png)
@@ -107,9 +107,8 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 ![Price_Zip_Box](images/Price_Zip_Box.png)
 
 
-You can also view the interactive Plotly scatter plot for the same figures by **downloading the .html file** in the 'images' folder, for example, [here](images/DISvsPRICE_scatter_plot.html).
 
-* ***A visualization Map***
+***A visualization Map***
 
 * We built a map for visualizing all the attributes of an apartment for rent.
 
@@ -122,7 +121,14 @@ You can also view the interactive Plotly scatter plot for the same figures by **
 
 
 ![screenshot_of_map](images/78746.PNG)
-![screenshot_of_map](images/78744.PNG)
+![screenshot_of_map](images/78744.PNG)  
+
+* If you want to run our codes to get this map for our or your own dataset, please follow the operations below:
+
+
+>> python3 Code/visualization/get_price_map.py
+
+
   
 
 ## D. Results  
@@ -145,7 +151,12 @@ You can also view the interactive Plotly scatter plot for the same figures by **
 
 
 ## F. Limitations
-Our project's primary data source was the Zillow API which is a comprehensive platform. However, it does not encapsulate the entirety of available rental listings. A significant portion of properties not listed on Zillow were omitted from our analysis.  Furthermore, we recognize that several influential factors went unaccounted for in our model. The furnishing status of a property, its age, available amenities such as swimming pools or gyms, security features, and specific landlord policies are all crucial determinants of rental pricing. Finally, the ever-changing nature of the rental market poses another limitation. The data we collected represents only a specific moment in time. As the rental landscape evolves, this snapshot might lose its relevance, making our model less reflective of future conditions. 
+
+* ***Data Collection:*** Our project's primary data source was the Zillow API which is a comprehensive platform. However, it does not encapsulate the entirety of available rental listings. A significant portion of properties not listed on Zillow were omitted from our analysis.  Furthermore, we recognize that several influential factors went unaccounted for in our model. The furnishing status of a property, its age, available amenities such as swimming pools or gyms, security features, and specific landlord policies are all crucial determinants of rental pricing. Finally, the ever-changing nature of the rental market poses another limitation. The data we collected represents only a specific moment in time. As the rental landscape evolves, this snapshot might lose its relevance, making our model less reflective of future conditions.
+
+* ***Modeling:*** We tried eight methods for modeling and picked out the best one with the highest R Square Score. However, we didn't do enough work on the feature selection and parameter setting part. One could get a more accurate estimation if he/she/they uses some metrics to delete some idle attributes or use grid search to find better parameters.
+
+
 
 
   

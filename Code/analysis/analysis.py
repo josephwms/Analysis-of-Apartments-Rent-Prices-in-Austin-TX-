@@ -2,15 +2,20 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-import os
-print(os.getcwd())
+import warnings
+warnings.simplefilter("ignore")
 
-df = pd.read_csv('../../artifacts/result.csv')
+df = pd.read_csv('artifacts/result.csv')
 
+print('Head')
 print(df.head())
+print('-------------------------------------------------------------')
+print('Info')
 print(df.info())
+print('-------------------------------------------------------------')
+print('Description')
 print(df.describe())
-
+print('-------------------------------------------------------------')
 sns.scatterplot(x='Bedrooms', y='Price', data=df)
 plt.xlabel('Number of Rooms')
 plt.ylabel('Rent Price ($)')
@@ -20,6 +25,7 @@ plt.show()
 
 correlation = df['Bedrooms'].corr(df['Price'])
 print(f"Correlation between Number of Rooms and Rent Price: {correlation}")
+print('-------------------------------------------------------------')
 
 '''We see a moderate positive linear relationship between two variables: Price and # of bedrooms. As # of bedrooms increase so does price moderately.'''
 
@@ -60,7 +66,7 @@ model.fit(X,y)
 
 print(f'Intercept: {model.intercept_}')
 print(f'Coefficient for Distance to the university: {model.coef_[0]}')
-
+print('-------------------------------------------------------------')
 y_predict = model.predict(X)
 
 plt.scatter(X, y, label='Data')
@@ -74,7 +80,7 @@ plt.show()
 
 r2 = r2_score(y, y_predict)
 print(f'R-squared for distance: {r2}')
-
+print('-------------------------------------------------------------')
 '''The coefficient is positive but small and the intercept is a big value. The relationship is positive but very little variance in rent is explained by distance from the unversity alone which means there are other factors playing a role. '''
 
 '''Lets see the effect of taking both distance from university and number of bedrooms into account. '''
@@ -88,13 +94,13 @@ model.fit(X1, y1)
 print(f'Intercept: {model.intercept_}')
 print(f'Coefficient for Distance to the university: {model.coef_[0]}')
 print(f'Coefficient for Bedrooms: {model.coef_[1]}')
-
+print('-------------------------------------------------------------')
 y_pred = model.predict(X1)
 
 r2_ = r2_score(y1, y_pred)
 
 print(f'R-squared for distance and bedrooms: {r2_}')
-
+print('-------------------------------------------------------------')
 '''Now taking both the variables into account gives a relatively bigger r2 which means a lot more variance in rent is explained when these two factors/variables are accounted for together. The relationship is negative with distance and positive with number of bedrooms as expected.'''
 
 '''Lets see which zipcodes have the highest rents'''
@@ -125,7 +131,7 @@ model.fit(X2,y2)
 
 print(f'Intercept: {model.intercept_}')
 print(f'Coefficient for living area: {model.coef_[0]}')
-
+print('-------------------------------------------------------------')
 y_predicted = model.predict(X2)
 
 plt.figure(figsize=(10, 6))
@@ -140,7 +146,7 @@ plt.show()
 
 r2__ = r2_score(y2, y_predicted)
 print(f'R-squared for living area: {r2__}')
-
+print('-------------------------------------------------------------')
 '''Calculate the correlation matrix'''
 correlation_matrix = df[['LivingArea', 'Price']].corr()
 
@@ -148,11 +154,11 @@ correlation_matrix = df[['LivingArea', 'Price']].corr()
 correlation_coefficient = correlation_matrix.loc['LivingArea', 'Price']
 
 print(f"Correlation Coefficient: {correlation_coefficient}")
-
+print('-------------------------------------------------------------')
 '''There is a moderately strong positive relationship between living area and rent which means as living area increases then so does rent. Also, about 50% variability in rent is explained by living area'''
 
 # Please Set the base path for images. Here is mine as an example
-image_path = '../../images'
+image_path = 'images/'
 
 # Extract the relevant columns
 price = df["Price"]
@@ -239,3 +245,5 @@ plt.ylabel("Price")
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig(f"{image_path}\\Price_Zip_Box.png")
+
+print('All figures are saved in the images folder')

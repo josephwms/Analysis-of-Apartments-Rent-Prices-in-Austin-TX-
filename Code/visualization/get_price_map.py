@@ -4,7 +4,8 @@ import folium
 # Load the CSV data into a DataFrame
 df = pd.read_csv('artifacts/result.csv') 
 
-# Create a map centered on a location (UT Austin)
+# Create a map centered on a location 
+# (We choose UT Austin for example, you can change it to your university using our get_lat_lon.py)
 map_center = [30.2849 , -97.7341]  
 
 

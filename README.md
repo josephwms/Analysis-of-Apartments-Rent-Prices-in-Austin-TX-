@@ -149,9 +149,8 @@ Our project's primary data source was the Zillow API which is a comprehensive pl
 
 
   
-## G. Further Improvement
-
-
+## G. Further Improvements
+It is crucial to continue researching the improvement of distance metrics. Our first statistics lead us to believe that the 'distance to university' has little bearing on rental rates. However, because the university is close to the city center, it's possible that these two measurements will have overlapping effects. It is crucial to distinguish between the specific effects of being close to the institution and the more general attractiveness of being located downtown. We can also further refine the distance metric to better fit our model by introducing variables such as public transportation commute times or walkability indices. Additionally, our model might also be improved by using APIs to incorporate further variables, some of which were noted in our limitations section. Finally, we acknowledge the dynamic nature of rental markets. So, integrating a time series analysis is crucial to maintaining the correctness of our model and enables us to quickly adjust to markets or economies that are experiencing sharp volatility.
 
 
 

@@ -23,7 +23,7 @@ Also, there are some attributes that we computed and added to the dataset, which
 
 >> pip install -r requirements.txt
 
->> python3 get_zillowData.py
+>> python3 data/get_zillowData.py
 
 ***Results you will get:***
 * 6 CSV files named 'data_0, ... , data_5' that contain data for the first/second/.../sixth home type respectively.
@@ -56,7 +56,7 @@ Also, there are some attributes that we computed and added to the dataset, which
 
 |  Model  |  R Squared  |  Adjusted R Squared  |  Mean Squared Error  |  AIC  |  BIC  |
 |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |
-| Random Forest | 0.95411 | 0.95370 | 179888.57504 | 6786.05203 | 6814.01965 |
+| **Random Forest** | **0.95411** | 0.95370 | 179888.57504 | 6786.05203 | 6814.01965 |
 | Decision Tree | 0.91308 | 0.91230 | 340709.73486 | 7143.72026 | 7171.68788 |
 | Support Vector Machines | 0.71980 | 0.71726 | 1098409.01001 | 7799.24907 | 7827.21669 |
 | Linear Regression | 0.65062 | 0.64746 | 1369569.77771 | 17762.41477 | 17790.38239 |
@@ -71,12 +71,12 @@ Also, there are some attributes that we computed and added to the dataset, which
 
 >> cd ..
 
->> python3 Code/RT_train.py
+>> python3 Code/model/Random_Forest_regression.py
 
 * After you run this code in your terminal, you will get a new CSV file named 'artifacts/result_with_predict.csv', which is added a column of our estimated price for the given data computed by our regression model. Also, you will see an R-Square Score of the test set we separated from the whole dataset printed in the terminal. The R-Square Score is around 0.954 for our Random Forest Model, which is really accurate.
 
 ***User Interactions:***
-Our codes have a section for user interactions, after you see the printed R-Square score, you will find that your expected values of the attributes we used are required by our code in the terminal, please follow the instructions given in the 'Code/RT_train.py' to input your expected Zip, Living Area, number of bathrooms, etc. If you follow the instructions correctly, you will get a printed result that contains the estimated rent of your expected apartment.  
+Our codes have a section for user interactions, after you see the printed R-Square score, you will find that your expected values of the attributes we used are required by our code in the terminal, please follow the instructions given in the 'Code/RT_train.py' to input your expected Zip, Living Area, number of bathrooms, etc. If you follow the instructions correctly, you will get a printed result that contains the estimated rent of your expected apartment. Below is an example result.
 
 ![RF_result](images/RF_result.png)
 

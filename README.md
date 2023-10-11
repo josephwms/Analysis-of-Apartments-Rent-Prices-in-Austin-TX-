@@ -71,7 +71,7 @@ Also, there are some attributes that we computed and added to the dataset, which
 
 >> cd ..
 
->> python3 Code/model/Random_Forest_regression.py
+>> python3 Code/models/Random_Forest_regression.py
 
 * After you run this code in your terminal, you will get a new CSV file named 'artifacts/result_with_predict.csv', which is added a column of our estimated price for the given data computed by our regression model. Also, you will see an R-Square Score of the test set we separated from the whole dataset printed in the terminal. The R-Square Score is around 0.954 for our Random Forest Model, which is really accurate.
 

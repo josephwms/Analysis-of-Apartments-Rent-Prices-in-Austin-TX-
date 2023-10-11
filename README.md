@@ -121,8 +121,8 @@ You can also view the interactive Plotly scatter plot for the same figures by **
 * Here are some screenshots from the map to illustrate some examples from our findings above:
 
 
-![screenshot_of_map](images/78746.png)
-![screenshot_of_map](images/78744.png)
+![screenshot_of_map](images/78746.PNG)
+![screenshot_of_map](images/78744.PNG)
   
 
 ## D. Results  

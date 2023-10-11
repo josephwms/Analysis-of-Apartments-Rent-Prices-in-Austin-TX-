@@ -118,10 +118,11 @@ You can also view the interactive Plotly scatter plot for the same figures by **
 * To view this map, please click [here](images/rent_price_map.html) and **downloading the .html file**. Then open it locally, and you can enjoy finding information in it.
 
 
-* Here is a screenshot of the map. You can have a look at it to understand my words above better.
+* Here are some screenshots from the map to illustrate some examples from our findings above:
 
 
-![screenshot_of_map](images/screenshot_of_map.png)
+![screenshot_of_map](images/78746.png)
+![screenshot_of_map](images/78744.png)
   
 
 ## D. Results  

@@ -19,11 +19,9 @@ Also, there are some attributes that we computed and added to the dataset, which
 
 >> cd eco395m-project1-midterm
 
->> cd Code  
-
 >> pip install -r requirements.txt
 
->> python3 data/get_zillowData.py
+>> python3 Code/data/get_zillowData.py
 
 ***Results you will get:***
 * 6 CSV files named 'data_0, ... , data_5' that contain data for the first/second/.../sixth home type respectively.
@@ -67,9 +65,8 @@ Also, there are some attributes that we computed and added to the dataset, which
 
     
   
-***Execution Method:***
+***Execution Method:***  
 
->> cd ..
 
 >> python3 Code/models/Random_Forest_regression.py
 

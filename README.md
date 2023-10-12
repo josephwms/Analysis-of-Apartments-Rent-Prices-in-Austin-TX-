@@ -43,50 +43,7 @@ python3 Code/data/get_zillowData.py
 * If you are wondering why an attribute such as LivingArea is missing for some rows, the reason is that not every house for rent provides such an attribute publicly. Therefore, we may not get some attributes and will receive a CSV file with some missing values. That's why we need to clean the data. In the case that Zip is missing, it may be a failure from the get_zipcode.py file. However, the success rate for that query is relatively high. We will get the final CSV file under several trials.
 
 
-## B. Price Regression Modelling
-
-***Goals:*** To build a regression model to predict a house rent for apartments in Austin, TX given several attributes such as 'Zip Code', 'Living Area', 'Bathrooms', etc.
-
-***Variables:*** We chose 'Zip', 'LivingArea', 'Bathrooms', 'Bedrooms', and 'Distance to the University' as X, and chose 'Price' as Y for our regression models.
-
-***Model Selection:*** We tried several models, including parametric and non-parametric approaches. For machine learning methods, we conduct Random Forest(RF), Decision Tree(DT), and Support Vector Machines(SVM) methods. For regression models, we conduct Linear Regression(LR), Ridge Regression(RR), Bayesian Ridge Regression(BRR), Logistic Regression(LOG), and Polynomial Regression(PR) models.
-
-***Model Comparison:*** We computed several model selection metrics to evaluate all eight models, including R Square, Adjusted R Squared, Mean Squared Error(MSE), Akaike Information Criterion(AIC), and Bayesian Information Criterion(BIC). After comparison, we found that the Random Forest model gives us the best result, and we will use it to conduct further prediction analysis.  
-
-|  Model  |  R Squared  |  Adjusted R Squared  |  Mean Squared Error  |  AIC  |  BIC  |
-|  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |
-| ***Random Forest*** | ***0.95411*** | **0.95370** | **179888.57504** | **6786.05203** | **6814.01965** |
-| Decision Tree | 0.91308 | 0.91230 | 340709.73486 | 7143.72026 | 7171.68788 |
-| Support Vector Machines | 0.71980 | 0.71726 | 1098409.01001 | 7799.24907 | 7827.21669 |
-| Linear Regression | 0.65062 | 0.64746 | 1369569.77771 | 17762.41477 | 17790.38239 |
-| Ridge Regression | 0.65056 | 0.64740 | 1369809.914018 | 7922.90222 | 7950.86984 |
-| Bayesian Ridge Regression | 0.65048 | 0.64733 | 1370095.52937 | 7923.01897 | 7950.98659 |
-| Logistic Regression | 0.75819 | 0.75601 | 947874.10893 | 7716.70711 | 7744.67473 |
-| Polynomial Regression | 0.78914 | 0.76566 | 826570.17528 | 7742.02246 | 7990.71485 |
-
-    
-  
-***Execution Method:***  
-
-
-```python
-python3 Code/models/Random_Forest_regression.py
-```
-
-* After you run this code in your terminal, you will get a new CSV file named 'artifacts/result_with_predict.csv', which is added a column of our estimated price for the given data computed by our regression model. Also, you will see an R-Square Score of the test set we separated from the whole dataset printed in the terminal. The R-Square Score is around 0.954 for our Random Forest Model, which is really accurate.
-
-* You can use similar command lines to get results of other regression methods listed in the chart above, remember to change the name of the Python file to the method you'd like to use.
-
-***User Interactions:***
-Our codes have a section for user interactions, after you see the printed R-Square score, you will find that your expected values of the attributes we used are required by our code in the terminal, please follow the instructions given in the 'Code/RT_train.py' to input your expected Zip, Living Area, number of bathrooms, etc. If you follow the instructions correctly, you will get a printed result that contains the estimated rent of your expected apartment. Below is an example result.
-
-![RF_result](images/RF_result.png)
-
-
-
-
-
-## C. Analysis  
+## B. Data overview
 
 * We use Python to visualize the data overview and relationship between prices and other attributes, you can use the execution method below to get the following figures in the 'images' folder.
 
@@ -95,7 +52,6 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 python3 Code/analysis/analysis.py
 
 ```
-
 
 * ***Dataset Overview***
 We start our analysis by seeing the distribution of rent. 
@@ -107,8 +63,6 @@ As shown in the plot above, rent varies from as low as around $800 to as high as
 Next, we try to see the impact of different factors on rent.
 
 * ***Relation between rent and other attributes***
-
-![Price_Area](images/Price_Area.png)
 
 The living area seems to have a positive relationship with rent i.e. as the living area increases so does the rent. We want to analyze how strong this relationship is so we try to fit a line to the plot as follows: 
 
@@ -171,7 +125,48 @@ python3 Code/visualization/get_price_map.py
 
 ```
 
+## C. Price Regression Modelling
+
+***Goals:*** To build a regression model to predict a house rent for apartments in Austin, TX given several attributes such as 'Zip Code', 'Living Area', 'Bathrooms', etc.
+
+***Variables:*** We chose 'Zip', 'LivingArea', 'Bathrooms', 'Bedrooms', and 'Distance to the University' as X, and chose 'Price' as Y for our regression models. The 'LivingArea' is measured in square feet. The Distance to the University is measured in miles. The 'Price' is measured in dollars. 
+
+***Model Selection:*** We tried several models, including parametric and non-parametric approaches. For machine learning methods, we conduct Random Forest(RF), Decision Tree(DT), and Support Vector Machines(SVM) methods. For regression models, we conduct Linear Regression(LR), Ridge Regression(RR), Bayesian Ridge Regression(BRR), Logistic Regression(LOG), and Polynomial Regression(PR) models.
+
+***Model Comparison:*** We computed several model selection metrics to evaluate all eight models, including R Square, Adjusted R Squared, Mean Squared Error(MSE), Akaike Information Criterion(AIC), and Bayesian Information Criterion(BIC). After comparison, we found that the Random Forest model gives us the best result, and we will use it to conduct further prediction analysis.  
+
+|  Model  |  R Squared  |  Adjusted R Squared  |  Mean Squared Error  |  AIC  |  BIC  |
+|  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |
+| ***Random Forest*** | ***0.95411*** | **0.95370** | **179888.57504** | **6786.05203** | **6814.01965** |
+| Decision Tree | 0.91308 | 0.91230 | 340709.73486 | 7143.72026 | 7171.68788 |
+| Support Vector Machines | 0.71980 | 0.71726 | 1098409.01001 | 7799.24907 | 7827.21669 |
+| Linear Regression | 0.65062 | 0.64746 | 1369569.77771 | 17762.41477 | 17790.38239 |
+| Ridge Regression | 0.65056 | 0.64740 | 1369809.914018 | 7922.90222 | 7950.86984 |
+| Bayesian Ridge Regression | 0.65048 | 0.64733 | 1370095.52937 | 7923.01897 | 7950.98659 |
+| Logistic Regression | 0.75819 | 0.75601 | 947874.10893 | 7716.70711 | 7744.67473 |
+| Polynomial Regression | 0.78914 | 0.76566 | 826570.17528 | 7742.02246 | 7990.71485 |
+
+    
   
+***Execution Method:***  
+
+
+```python
+python3 Code/models/Random_Forest_regression.py
+```
+
+* After you run this code in your terminal, you will get a new CSV file named 'artifacts/result_with_predict.csv', which is added a column of our estimated price for the given data computed by our regression model. Also, you will see an R-Square Score of the test set we separated from the whole dataset printed in the terminal. The R-Square Score is around 0.954 for our Random Forest Model, which is really accurate.
+
+* You can use similar command lines to get results of other regression methods listed in the chart above, remember to change the name of the Python file to the method you'd like to use.
+
+***User Interactions:***
+Our codes have a section for user interactions, after you see the printed R-Square score, you will find that your expected values of the attributes we used are required by our code in the terminal, please follow the instructions given in the 'Code/RT_train.py' to input your expected Zip, Living Area, number of bathrooms, etc. If you follow the instructions correctly, you will get a printed result that contains the estimated rent of your expected apartment. Below is an example result.
+
+![RF_result](images/RF_result.png)
+
+
+
+
 
 ## D. Results  
 ..........  

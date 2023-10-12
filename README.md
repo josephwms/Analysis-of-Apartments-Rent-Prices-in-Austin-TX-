@@ -43,6 +43,9 @@ python3 Code/data/get_zillowData.py
 * If you are wondering why an attribute such as LivingArea is missing for some rows, the reason is that not every house for rent provides such an attribute publicly. Therefore, we may not get some attributes and will receive a CSV file with some missing values. That's why we need to clean the data. In the case that Zip is missing, it may be a failure from the get_zipcode.py file. However, the success rate for that query is relatively high. We will get the final CSV file under several trials.
 
 
+
+
+
 ## B. Data overview
 
 * We use Python to visualize the data overview and relationship between prices and other attributes, you can use the execution method below to get the following figures in the 'images' folder.
@@ -71,7 +74,7 @@ The living area seems to have a positive relationship with rent i.e. as the livi
 This results in an intercept of 523.7376500423748 and a Coefficient for living area of 1.5875577468760047 which confirms the relationship to be positive. To see how much variation in rents is explained by living area we calculated its R-squared and found it to be around 50%. 
 The correlation between rent and living area turned out to be 0.71 which confirmed a strong positive relationship. 
 
-All these calculations were done using Python and are in analysis.py file.
+All these calculations were done using Python and are in the analysis.py file.
 
 Next, we analyze the relationship between rent and the number of bedrooms. 
 
@@ -120,7 +123,11 @@ python3 Code/visualization/get_price_map.py
 
 ```
 
-## C. Price Regression Modelling
+
+
+
+
+## C. Model and Result
 
 ***Goals:*** To build a regression model to predict a house rent for apartments in Austin, TX given several attributes such as 'Zip Code', 'Living Area', 'Bathrooms', etc.
 
@@ -159,23 +166,15 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 
 ![RF_result](images/RF_result.png)
 
+***Reproducibility:***
 
-
-
-
-## D. Results  
-..........  
-
-
-## E. Reproducibility
-
-* ***Data:*** The users can directly get their own data by executing the same command lines as mentioned in the data collection part above. Mention that you will need an APIKEY for both RapidAPI.com and Google leapis API. You can get your own Google leapis API by following some instructions online, but for RapidAPI.com, you need to sign up an account to have your own APIKEY or ask for help by sending an email to **joewlimms1221@gmail.com**.
+* ***Data:*** The users can directly get their own data by executing the same command lines as mentioned in the data collection part above. Mention that you will need an APIKEY for both RapidAPI.com and Google leapis API. You can get your own Google leapis API by following some instructions online, but for RapidAPI.com, you need to sign up for an account to have your own APIKEY or ask for help by sending an email to **joewlimms1221@gmail.com**.
 
   
 * ***Model:*** After you get your own result.csv file, you can use the command lines shown in the second part to get an estimated price result.
 
   
-* ***Analysis:*** You can get figures of the same format as ours by using the command lines shown in the third part, and all the figures and .html file will be kept in the folder called 'images'
+* ***Analysis:*** You can get figures of the same format as ours by using the command lines shown in the third part, and all the figures and .html files will be kept in the folder called 'images'
   
   
 
@@ -185,13 +184,13 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 
 * ***Data Collection:*** Our project's primary data source was the Zillow API which is a comprehensive platform. However, it does not encapsulate the entirety of available rental listings. A significant portion of properties not listed on Zillow were omitted from our analysis.  Furthermore, we recognize that several influential factors went unaccounted for in our model. The furnishing status of a property, its age, available amenities such as swimming pools or gyms, security features, and specific landlord policies are all crucial determinants of rental pricing. Finally, the ever-changing nature of the rental market poses another limitation. The data we collected represents only a specific moment in time. As the rental landscape evolves, this snapshot might lose its relevance, making our model less reflective of future conditions.
 
-* ***Modeling:*** We tried eight methods for modeling and picked out the best one with the highest R Square Score. However, we didn't do enough work on the feature selection and parameter setting part. One could get a more accurate estimation if he/she/they uses some metrics to delete some idle attributes or use grid search to find better parameters.
+* ***Modelling:*** We tried eight methods for modeling and picked out the best one with the highest R Square Score. However, we didn't do enough work on the feature selection and parameter setting part. One could get a more accurate estimation if he/she/they use some metrics to delete some idle attributes or use grid search to find better parameters.
 
 
 
 
   
-## G. Further Improvements
+## D. Further Improvements
 It is crucial to continue researching the improvement of distance metrics. Our first statistics lead us to believe that the 'distance to university' has little bearing on rental rates. However, because the university is close to the city center, it's possible that these two measurements will have overlapping effects. It is crucial to distinguish between the specific effects of being close to the institution and the more general attractiveness of being located downtown. We can also further refine the distance metric to better fit our model by introducing variables such as public transportation commute times or walkability indices. Additionally, our model might also be improved by using APIs to incorporate further variables, some of which were noted in our limitations section. Finally, we acknowledge the dynamic nature of rental markets. So, integrating a time series analysis is crucial to maintaining the correctness of our model and enables us to quickly adjust to markets or economies that are experiencing sharp volatility.
 
 

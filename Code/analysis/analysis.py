@@ -19,15 +19,16 @@ print('-------------------------------------------------------------')
 print('Description')
 print(df.describe())
 print('-------------------------------------------------------------')
-'''Histogram of rents'''
+
+plt.figure(figsize=(10, 6))
 plt.hist(df['Price'], bins=10, color='blue', edgecolor='black')
 plt.xlabel('Rent Amount')
 plt.ylabel('Frequency')
 plt.title('Rent Distribution Histogram')
-plt.grid(True)
 plt.savefig(f'{image_path}/Rent_Distribution.png')
 plt.show()
 
+plt.figure(figsize=(10, 6))
 sns.scatterplot(x='Bedrooms', y='Price', data=df)
 plt.xlabel('Number of Rooms')
 plt.ylabel('Rent Price ($)')
@@ -39,11 +40,10 @@ plt.show()
 correlation = df['Bedrooms'].corr(df['Price'])
 print(f'Correlation between Number of Rooms and Rent Price: {correlation}')
 print('-------------------------------------------------------------')
-'''We see a moderate positive linear relationship between two variables: Price and # of bedrooms. As # of bedrooms increase so does price moderately.'''
-'''Lets see what is the average rent for different number of rooms'''
+
 average_rent_by_rooms = df.groupby('Bedrooms')['Price'].mean()
 
-plt.figure(figsize=(8, 6))
+plt.figure(figsize=(10, 6))
 average_rent_by_rooms.plot(kind='bar', color='blue')
 plt.title('Average Rent by Number of Rooms')
 plt.xlabel('Number of Rooms')
@@ -52,8 +52,8 @@ plt.xticks(rotation=0)
 plt.grid(axis='y')
 plt.savefig(f'{image_path}/Average_Rent_by_Number_of_Rooms.png')
 plt.show()
-'''Now lets check the impact on price from the distance to university'''
 
+plt.figure(figsize=(10, 6))
 sns.scatterplot(data=df,
                 x='Distance to the university (in miles)',
                 y='Price',
@@ -65,8 +65,7 @@ plt.title('Scatterplot of Distance vs. Rental Rate')
 plt.legend(title=' # of Bedrooms')
 plt.savefig(f'{image_path}/Scatterplot_Distance_vs._Rental_Rates.png')
 plt.show()
-'''There doesnt seem much of a pattern in distance vs rent'''
-'''Analyze how much variance in the rental rates is explained by distance from the university'''
+
 
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
@@ -83,6 +82,7 @@ print(f'Coefficient for Distance to the university: {model.coef_[0]}')
 print('-------------------------------------------------------------')
 y_predict = model.predict(X)
 
+plt.figure(figsize=(10, 6))
 plt.scatter(X, y, label='Data')
 plt.plot(X, y_predict, color='red', label='Regression Line')
 plt.xlabel('Distance from University')
@@ -115,7 +115,7 @@ r2_ = r2_score(y1, y_pred)
 print(f'R-squared for distance and bedrooms: {r2_}')
 print('-------------------------------------------------------------')
 '''Now taking both the variables into account gives a relatively bigger r2 which means a lot more variance in rent is explained when these two factors/variables are accounted for together. The relationship is negative with distance and positive with number of bedrooms as expected.'''
-'''Lets see which zipcodes have the highest rents'''
+
 
 zipcode_rents = df.groupby('Zip')['Price'].mean().reset_index()
 
@@ -125,7 +125,7 @@ top_n = 10
 top_zipcodes = zipcode_rents['Zip'][:top_n].astype(str)
 top_rents = zipcode_rents['Price'][:top_n]
 
-plt.figure(figsize=(12, 6))
+plt.figure(figsize=(10, 6))
 plt.bar(top_zipcodes, top_rents)
 plt.xlabel('Zip Code')
 plt.ylabel('Average Price')
@@ -133,7 +133,7 @@ plt.title(f'Top {top_n} Most Expensive Zip Codes')
 plt.xticks(top_zipcodes, rotation=45)
 plt.savefig(f'{image_path}/Top_{top_n}_Most_Expensive_Zip_Codes.png')
 plt.show()
-'''I think it would also be interesting to see the impact of area on rents'''
+
 
 X2 = df['LivingArea'].values.reshape(-1, 1)
 y2 = df['Price'].values
@@ -153,23 +153,22 @@ plt.xlabel('Living Area (sq. ft)')
 plt.ylabel('Rent')
 plt.title('Impact of Living Area on Rent')
 plt.legend()
-plt.grid(True)
 plt.savefig(f'{image_path}/Impact_of_Living_Area_on_Rent.png')
 plt.show()
 
 r2__ = r2_score(y2, y_predicted)
 print(f'R-squared for living area: {r2__}')
 print('-------------------------------------------------------------')
-'''Calculate the correlation matrix'''
+
 correlation_matrix = df[['LivingArea', 'Price']].corr()
-'''Extract the correlation coefficient between LivingArea and Rent'''
+
 correlation_coefficient = correlation_matrix.loc['LivingArea', 'Price']
 
 print(f'Correlation Coefficient: {correlation_coefficient}')
 print('-------------------------------------------------------------')
-'''There is a moderately strong positive relationship between living area and rent which means as living area increases then so does rent. Also, about 50% variability in rent is explained by living area'''
 
-# Extract the relevant columns
+
+
 price = df['Price']
 living_area = df['LivingArea']
 distance = df['Distance to the university (in miles)']
@@ -177,11 +176,10 @@ bathroom = df['Bathrooms']
 bedroom = df['Bedrooms']
 zip_code = df['Zip']
 
-# Set the style and context for the plot
+
 sns.set(style='whitegrid')
 sns.set_context('talk')
 
-# Creating Box Plot for Price and Distance
 bins_distance = [0, 1, 2, 3, 6, 11, 20]
 labels_distance = ['0-1', '1-2', '2-3', '3-6', '6-11', '11-20']
 df['Binned_Distance'] = pd.cut(
@@ -191,10 +189,10 @@ df['Binned_Distance'] = pd.cut(
     right=False,
 )
 
-# Get default palette color
+
 default_color = sns.color_palette()[0]
 
-# Define properties for box and outlier
+
 boxprops = {'facecolor': default_color, 'color': default_color}
 flierprops = {
     'markerfacecolor': default_color,
@@ -202,7 +200,7 @@ flierprops = {
     'markersize': 5,
 }
 
-plt.figure(figsize=(12, 8))
+plt.figure(figsize=(10, 6))
 sns.boxplot(
     x='Binned_Distance',
     y='Price',
@@ -218,20 +216,14 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig(f'{image_path}/Price_Distance_Box.png')
 
-# Creating a box plot that only graphs specific zip codes
-
 min_listings = 50
 zip_counts = df['Zip'].value_counts()
 zip_to_include = zip_counts[zip_counts > min_listings].index
 
 filtered_data = df[df['Zip'].isin(zip_to_include)]
 
-# Box Plot for Price and Filtered Zip Codes
-
-# Get default palette color
 default_color = sns.color_palette()[0]
 
-# Define properties for box and outlier
 boxprops_zip = {'facecolor': default_color, 'color': default_color}
 flierprops_zip = {
     'markerfacecolor': default_color,
@@ -239,7 +231,7 @@ flierprops_zip = {
     'markersize': 5,
 }
 
-plt.figure(figsize=(15, 8))
+plt.figure(figsize=(10, 6))
 sns.boxplot(
     x='Zip',
     y='Price',
@@ -256,21 +248,14 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig(f'{image_path}/Price_Zip_Box.png')
 
-#extracting summary statistics
-
-# Group by Binned_Distance and compute the summary statistics
 summary_distance = df.groupby("Binned_Distance")["Price"].describe()
 
 print("Summary Statistics for Price based on Binned Distance to the University:")
 print(summary_distance)
 
-# Group by Zip and compute the summary statistics for the filtered data
 summary_zip = filtered_data.groupby("Zip")["Price"].describe()
 
 print("\nSummary Statistics for Price based on Zip Code (with at least {} listings):".format(min_listings))
 print(summary_zip)
-
-
-
 
 print('All figures are saved in the images folder')

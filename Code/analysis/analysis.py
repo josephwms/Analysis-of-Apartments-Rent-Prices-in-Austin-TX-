@@ -16,12 +16,23 @@ print('-------------------------------------------------------------')
 print('Description')
 print(df.describe())
 print('-------------------------------------------------------------')
+
+'''Histogram of rents'''
+plt.hist(df['Price'], bins=10, color='blue', edgecolor='black')
+plt.xlabel('Rent Amount')
+plt.ylabel('Frequency')
+plt.title('Rent Distribution Histogram')
+plt.grid(True)
+plt.show()
+
+
 sns.scatterplot(x='Bedrooms', y='Price', data=df)
 plt.xlabel('Number of Rooms')
 plt.ylabel('Rent Price ($)')
-plt.title('Impact of Number of # of Rooms on Rent')
+plt.title('Impact of # of Rooms on Rent')
 plt.xticks(range(1, 5)) 
 plt.show()
+
 
 correlation = df['Bedrooms'].corr(df['Price'])
 print(f"Correlation between Number of Rooms and Rent Price: {correlation}")
@@ -41,6 +52,7 @@ plt.xticks(rotation=0)
 plt.grid(axis='y')
 plt.show()
 
+
 '''Now lets check the impact on price from the distance to university'''
 
 plt.scatter(df['Distance to the university (in miles)'], df['Price'])
@@ -48,6 +60,7 @@ plt.xlabel('Distance to the university (in miles)')
 plt.ylabel('Rental Rate')
 plt.title('Scatterplot of Distance vs. Rental Rate')
 plt.show()
+
 
 '''There doesnt seem much of a pattern in distance vs rent'''
 
@@ -76,7 +89,6 @@ plt.ylabel('Rental Rate')
 plt.title('Linear Regression: Distance vs. Rental Rate')
 plt.legend()
 plt.show()
-
 
 r2 = r2_score(y, y_predict)
 print(f'R-squared for distance: {r2}')
@@ -121,6 +133,7 @@ plt.title(f'Top {top_n} Most Expensive Zip Codes')
 plt.xticks(top_zipcodes, rotation=45)
 plt.show()
 
+
 '''I think it would also be interesting to see the impact of area on rents'''
 
 X2 = df['LivingArea'].values.reshape(-1, 1)
@@ -143,6 +156,7 @@ plt.title('Impact of Living Area on Rent')
 plt.legend()
 plt.grid(True)
 plt.show()
+
 
 r2__ = r2_score(y2, y_predicted)
 print(f'R-squared for living area: {r2__}')

@@ -104,38 +104,38 @@ We start our analysis by seeing the distribution of rent.
 
 ![Rent_Distribution](images/Rent_Distribution.png)
 
-As shown in the plot above, rent varies from as low as around $800 till as high as around $13000. 
+As shown in the plot above, rent varies from as low as around $800 to as high as around $13000. 
 
-Next we try to see the impact of different factors on rent.
+Next, we try to see the impact of different factors on rent.
 
 * ***Relation between rent and other attributes***
 
 ![Price_Area](images/Price_Area.png)
 
-Living area seems to have positive relationship with rent i.e. as living area increases so does the rent. We want to analyse how strong is this relationship is and so we try to fit a line to the plot as follows: 
+The living area seems to have a positive relationship with rent i.e. as the living area increases so does the rent. We want to analyze how strong this relationship is so we try to fit a line to the plot as follows: 
 
 ![Impact_of_Living_Area_on_Rent](images/Impact_of_Living_Area_on_Rent.png)
 
 This results in an intercept of 523.7376500423748 and a Coefficient for living area of 1.5875577468760047 which confirms the relationship to be positive. To see how much variation in rents is explained by living area we calculated its R-squared and found it to be around 50%. 
 The correlation between rent and living area turned out to be 0.71 which confirmed a strong positive relationship. 
 
-All these calculations were done using python and are in analysis.py file.
+All these calculations were done using Python and are in analysis.py file.
 
-Next, we analyse the relationship between rent and number of bedrooms. 
+Next, we analyze the relationship between rent and the number of bedrooms. 
 
 ![Price_Bedrooms](images/Price_Bedrooms.png)
 
-This gives us an interesting insight that as the number of bedrooms increase so does the rent but only till bedroom # 3. For bedroom 4, rent actually goes down. 
+This gives us an interesting insight that as the number of bedrooms increases so does the rent but only till bedroom # 3. For bedroom 4, rent actually goes down. 
 
-For bathrooms, on the other hand, the relationship with rent is such that as the number of bathrooms increase, the rent keeps on increasing. 
+For bathrooms, on the other hand, the relationship with rent is such that as the number of bathrooms increases, the rent keeps on increasing. 
 
 ![Price_Bathrooms](images/Price_Bathrooms.png)
 
-Another important factor has been distance to the university. As UT Austin students, we thought, analyzing the relationship of distance from the university and rent would be helpful to many. Also, the location of the university is quite central and near downtown, so we wanted to see its impact on rents. 
+Another important factor has been the distance to the university. As UT Austin students, we thought, that analyzing the relationship between distance from the university and rent would be helpful to many. Also, the location of the university is quite central and near downtown, so we wanted to see its impact on rents. 
 
 ![Scatterplot_Distance_vs._Rental_Rates.png](images/Scatterplot_Distance_vs._Rental_Rates.png)
 
-The plot suprisingly does not show a strong relationship between distance from the university and the rents. However it does show that a lot of two bedrooms are clustered around the university and majority of them are priced around $1500 to $2000. Another key insight was that that 4 bedrooms on an average seemed to be priced higher closer to the university than away from the university (ignoring some outliers) and this is well-explained by the fact that roommates share apartments closer to the university, driving rents up while away from the university 4 bedrooms are maybe not much in demand due to smaller families, in general, in the US and therefore in Austin. 
+The plot surprisingly does not show a strong relationship between distance from the university and the rents. However, it does show that a lot of two bedrooms are clustered around the university and the majority of them are priced around $1500 to $2000. Another key insight was that 4 bedrooms on average seemed to be priced higher closer to the university than away from the university (ignoring some outliers) and this is well-explained by the fact that roommates share apartments closer to the university, driving rents up while away from the university 4 bedrooms are maybe not much in demand due to smaller families, in general, in the US and therefore in Austin. 
 
 
 [Ahil's plots]
@@ -176,14 +176,13 @@ python3 Code/visualization/get_price_map.py
 
 ## E. Reproducibility
 
-* ***Data:***
-............
+* ***Data:*** The users can directly get their own data by executing the same command lines as mentioned in the data collection part above. Mention that you will need an APIKEY for both RapidAPI.com and Google leapis API. You can get your own Google leapis API by following some instructions online, but for RapidAPI.com, you need to sign up an account to have your own APIKEY or ask for help by sending an email to **joewlimms1221@gmail.com**.
+
   
-* ***Model:***
-..............
+* ***Model:*** After you get your own result.csv file, you can use the command lines shown in the second part to get an estimated price result.
+
   
-* ***Analysis:***
-.................
+* ***Analysis:*** You can get figures of the same format as ours by using the command lines shown in the third part, and all the figures and .html file will be kept in the folder called 'images'
   
   
 

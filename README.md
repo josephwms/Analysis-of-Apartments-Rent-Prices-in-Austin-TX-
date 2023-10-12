@@ -57,6 +57,7 @@ python3 Code/analysis/analysis.py
 
 ```
 * ***Documentation***
+
 ***Price***: The present monthly rental price of the apartments, measured in dollars;  
 ***Zip***: The Zipcode of the rental apartment;  
 ***My university: University of Texas***, at Austin  

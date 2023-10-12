@@ -1,0 +1,421 @@
+Price,Zip,My university,Distance to the university,Address,Bathrooms,Bedrooms,LivingArea,Rent_estimate,DetailURL
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/
+7000,78737,UT Austin,18.3 miles,"175 Call Dr, Austin, TX 78737",4,4,3574,8118,zillow.com/homedetails/175-Call-Dr-Austin-TX-78737/303840359_zpid/
+2530,78747,UT Austin,11.84 miles,"12000 Interstate Highway 35 Frontage Rd, Austin, TX",4,4,,,zillow.com/b/reveal-at-onion-creek-austin-tx-BpVRfn/
+3500,78717,UT Austin,14.7 miles,"10021 Double Eagle Pass, Austin, TX 78717",4,4,3350,4447,zillow.com/homedetails/10021-Double-Eagle-Pass-Austin-TX-78717/111967931_zpid/
+4750,78746,UT Austin,4.86 miles,"3601 Fawn Creek Path, Austin, TX 78746",4,4,2376,4570,zillow.com/homedetails/3601-Fawn-Creek-Path-Austin-TX-78746/29343323_zpid/
+9000,78732,UT Austin,12.22 miles,"3105 Fritz Hughes Park Rd #B, Austin, TX 78732",4,4,3021,6647,zillow.com/homedetails/3105-Fritz-Hughes-Park-Rd-B-Austin-TX-78732/331627565_zpid/
+3200,78702,UT Austin,1.31 miles,"2201 E 18th St #A, Austin, TX 78702",4,4,1722,3392,zillow.com/homedetails/2201-E-18th-St-A-Austin-TX-78702/2107882952_zpid/
+9900,78703,UT Austin,1.71 miles,"2203 Griswold Ln, Austin, TX 78703",4,4,3126,11497,zillow.com/homedetails/2203-Griswold-Ln-Austin-TX-78703/29333356_zpid/
+10500,78746,UT Austin,4.55 miles,"2007 Wychwood Dr, Austin, TX 78746",4,4,3362,8111,zillow.com/homedetails/2007-Wychwood-Dr-Austin-TX-78746/29326232_zpid/
+7500,78731,UT Austin,3.36 miles,"5004 Balcones Dr, Austin, TX 78731",4,4,3498,6894,zillow.com/homedetails/5004-Balcones-Dr-Austin-TX-78731/29343087_zpid/
+3850,78734,UT Austin,13.51 miles,"15206 Lariat Trl, Austin, TX 78734",4,4,3108,4058,zillow.com/homedetails/15206-Lariat-Trl-Austin-TX-78734/70324936_zpid/
+3000,78737,UT Austin,17.87 miles,"192 Whispering Wind Way, Austin, TX 78737",4,4,3290,4920,zillow.com/homedetails/192-Whispering-Wind-Way-Austin-TX-78737/96619261_zpid/
+4200,78727,UT Austin,9.61 miles,"12404 Deer Trak, Austin, TX 78727",4,4,3388,3750,zillow.com/homedetails/12404-Deer-Trak-Austin-TX-78727/29443970_zpid/
+6500,78738,UT Austin,17.65 miles,"5801 Davenport Divide Rd SW, Austin, TX 78738",4,4,5000,6161,zillow.com/homedetails/5801-Davenport-Divide-Rd-SW-Austin-TX-78738/2066674512_zpid/
+5200,78703,UT Austin,1.89 miles,"3022 Windsor Rd #B, Austin, TX 78703",4,4,2300,,zillow.com/homedetails/3022-Windsor-Rd-B-Austin-TX-78703/2055272074_zpid/
+5000,78750,UT Austin,11.11 miles,"10700 Hastings Ln, Austin, TX 78750",4,4,3966,3785,zillow.com/homedetails/10700-Hastings-Ln-Austin-TX-78750/29374677_zpid/
+3995,78738,UT Austin,18.31 miles,"19303 Fernando Trl, Austin, TX 78738",4,4,2749,3380,zillow.com/homedetails/19303-Fernando-Trl-Austin-TX-78738/2061093001_zpid/
+4000,78734,UT Austin,14.59 miles,"16308 Lake Loop, Austin, TX 78734",4,4,3300,5391,zillow.com/homedetails/16308-Lake-Loop-Austin-TX-78734/64481587_zpid/
+9500,78731,UT Austin,6.19 miles,"4903 N Rim Dr, Austin, TX 78731",4,4,3986,7616,zillow.com/homedetails/4903-N-Rim-Dr-Austin-TX-78731/58298659_zpid/
+5500,78746,UT Austin,4.91 miles,"5901 Round Table Cv, Austin, TX 78746",4,4,2993,5744,zillow.com/homedetails/5901-Round-Table-Cv-Austin-TX-78746/29342198_zpid/
+4250,78732,UT Austin,11.42 miles,"12912 Schleicher Trl, Austin, TX 78732",4,4,3894,4222,zillow.com/homedetails/12912-Schleicher-Trl-Austin-TX-78732/29361608_zpid/
+3300,78739,UT Austin,11.48 miles,"10608 Melcher Ct, Austin, TX 78739",4,4,3121,3499,zillow.com/homedetails/10608-Melcher-Ct-Austin-TX-78739/58315822_zpid/

@@ -1,0 +1,792 @@
+Price,Zip,My university,Distance to the university,Address,Bathrooms,Bedrooms,LivingArea,Rent_estimate,DetailURL
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+4000,78759,UT Austin,8.79 miles,"11039 Galleria Cv, Austin, TX 78759",2,4,2189,3266,zillow.com/homedetails/11039-Galleria-Cv-Austin-TX-78759/29366102_zpid/
+2595,78747,UT Austin,10.65 miles,"5700 Bell Tower Ln, Austin, TX 78747",2,4,2348,2694,zillow.com/homedetails/5700-Bell-Tower-Ln-Austin-TX-78747/251032876_zpid/
+4000,78751,UT Austin,1.04 miles,"3905 Becker Ave, Austin, TX 78751",2,4,1800,3750,zillow.com/homedetails/3905-Becker-Ave-Austin-TX-78751/29398460_zpid/
+2850,78749,UT Austin,10.42 miles,"6802 Auckland Ct, Austin, TX 78749",2,4,1929,2981,zillow.com/homedetails/6802-Auckland-Ct-Austin-TX-78749/29491994_zpid/
+5400,78705,UT Austin,0.84 miles,"312 W 37th St, Austin, TX 78705",2,4,,4216,zillow.com/homedetails/312-W-37th-St-Austin-TX-78705/29399032_zpid/
+4600,78705,UT Austin,0.6 miles,"801 W 28th St, Austin, TX",2,4,,,zillow.com/b/801-w-28th-st-austin-tx-5ZkmL2/
+4400,78705,UT Austin,0.46 miles,"2915 Hampton Rd, Austin, TX 78705",2,4,,3214,zillow.com/homedetails/2915-Hampton-Rd-Austin-TX-78705/29396020_zpid/
+3700,78751,UT Austin,2.35 miles,"205 W 55th St, Austin, TX 78751",2,4,,3173,zillow.com/homedetails/205-W-55th-St-Austin-TX-78751/29409353_zpid/
+4200,78705,UT Austin,0.96 miles,"910 E 38th St, Austin, TX 78705",2,4,,3679,zillow.com/homedetails/910-E-38th-St-Austin-TX-78705/29398399_zpid/
+5000,78705,UT Austin,0.44 miles,"3104 Helms St, Austin, TX 78705",2,4,,3878,zillow.com/homedetails/3104-Helms-St-Austin-TX-78705/29397340_zpid/
+3800,78705,UT Austin,0.79 miles,"407 W 35th St, Austin, TX",2,4,,,zillow.com/b/407-west-35th-street-austin-tx-5ZsTmL/
+6000,78753,UT Austin,9.48 miles,"13104 Bennington Ln, Austin, TX 78753",2,4,2200,2244,zillow.com/homedetails/13104-Bennington-Ln-Austin-TX-78753/29438859_zpid/
+1750,78753,UT Austin,9.76 miles,"Bridge at Harris Ridge, 1501 E Howard Ln, Austin, TX 78753",2,4,1446,2173,zillow.com/apartments/austin-tx/bridge-at-harris-ridge/BKhm4Q/
+1741,78724,UT Austin,6.39 miles,"The Terrace at Walnut Creek, 8712 Old Manor Rd, Austin, TX 78724",2,4,1485,2250,zillow.com/apartments/austin-tx/the-terrace-at-walnut-creek/BCMLcN/
+2100,78724,UT Austin,6.7 miles,"9412 Southwick Dr, Austin, TX 78724",2,4,1652,2050,zillow.com/homedetails/9412-Southwick-Dr-Austin-TX-78724/111371286_zpid/
+6000,78704,UT Austin,4.01 miles,"2801 Cedarview Dr, Austin, TX 78704",2,4,2147,8441,zillow.com/homedetails/2801-Cedarview-Dr-Austin-TX-78704/29472400_zpid/
+2695,78751,UT Austin,2.12 miles,"5117 N Lamar Blvd #207, Austin, TX 78751",2,4,1400,2793,zillow.com/homedetails/5117-N-Lamar-Blvd-207-Austin-TX-78751/2057260551_zpid/
+3000,78749,UT Austin,8.25 miles,"4007 Kandy Dr, Austin, TX 78749",2,4,1678,2605,zillow.com/homedetails/4007-Kandy-Dr-Austin-TX-78749/29486302_zpid/
+2900,78702,UT Austin,1.37 miles,"1811MAPLE, 1811 Maple Ave #A, Austin, TX 78702",2,4,1408,3309,zillow.com/b/1811maple-austin-tx-9LRPGc/
+2800,78748,UT Austin,9.92 miles,"413 Kissing Oak Dr, Austin, TX 78748",2,4,2477,2843,zillow.com/homedetails/413-Kissing-Oak-Dr-Austin-TX-78748/80088704_zpid/
+1895,78721,UT Austin,2.99 miles,"1125 Map St #A, Austin, TX 78721",2,4,2213,2786,zillow.com/homedetails/1125-Map-St-A-Austin-TX-78721/2135730109_zpid/
+3950,78759,UT Austin,6.04 miles,"8616 Willowick Dr, Austin, TX 78759",2,4,2052,3848,zillow.com/homedetails/8616-Willowick-Dr-Austin-TX-78759/29432089_zpid/
+2195,78754,UT Austin,7.18 miles,"10620 Speedwagon Run, Austin, TX 78754",2,4,2042,2275,zillow.com/homedetails/10620-Speedwagon-Run-Austin-TX-78754/249890963_zpid/
+2900,78758,UT Austin,6.26 miles,"10004 Parkfield Dr, Austin, TX 78758",2,4,1923,2582,zillow.com/homedetails/10004-Parkfield-Dr-Austin-TX-78758/29431392_zpid/
+3150,78723,UT Austin,3.63 miles,"4808 Carsonhill Dr, Austin, TX 78723",2,4,1828,2800,zillow.com/homedetails/4808-Carsonhill-Dr-Austin-TX-78723/29396670_zpid/
+2400,78759,UT Austin,8.48 miles,"11503 Elk Park Cir, Austin, TX 78759",2,4,1509,2984,zillow.com/homedetails/11503-Elk-Park-Cir-Austin-TX-78759/29439238_zpid/
+2445,78728,UT Austin,11.19 miles,"14807 Bescott Dr, Austin, TX 78728",2,4,2115,2299,zillow.com/homedetails/14807-Bescott-Dr-Austin-TX-78728/29449855_zpid/
+2500,78741,UT Austin,5.32 miles,"1612 Coriander Dr, Austin, TX 78741",2,4,1586,2529,zillow.com/homedetails/1612-Coriander-Dr-Austin-TX-78741/80098270_zpid/
+2450,78724,UT Austin,6.72 miles,"8204 City Top Blvd, Austin, TX 78724",2,4,1861,2469,zillow.com/homedetails/8204-City-Top-Blvd-Austin-TX-78724/331623172_zpid/
+2175,78753,UT Austin,9.71 miles,"1201 Weatherford Dr, Austin, TX 78753",2,4,1973,2320,zillow.com/homedetails/1201-Weatherford-Dr-Austin-TX-78753/29438748_zpid/
+2650,78705,UT Austin,0.72 miles,"Avon@22nd, 911 W 22nd St #404, Austin, TX 78705",2,4,1450,2299,zillow.com/b/avon%4022nd-austin-tx-5XjfKz/
+2300,78727,UT Austin,9.23 miles,"4617 Hawkhaven Ln, Austin, TX 78727",2,4,1989,2749,zillow.com/homedetails/4617-Hawkhaven-Ln-Austin-TX-78727/29442258_zpid/
+2995,78705,UT Austin,0.55 miles,"713 Graham Pl, Austin, TX 78705",2,4,1942,4294,zillow.com/homedetails/713-Graham-Pl-Austin-TX-78705/29393840_zpid/
+2900,78702,UT Austin,1.99 miles,"115 Waller St #B, Austin, TX 78702",2,4,1350,3403,zillow.com/homedetails/115-Waller-St-B-Austin-TX-78702/2057663987_zpid/
+4500,78754,UT Austin,6.73 miles,"2301 Tucker Ln, Austin, TX 78754",2,4,1855,,zillow.com/homedetails/2301-Tucker-Ln-Austin-TX-78754/2055067894_zpid/
+3100,78751,UT Austin,2.19 miles,"5212 Guadalupe St #2, Austin, TX 78751",2,4,1500,3364,zillow.com/homedetails/5212-Guadalupe-St-2-Austin-TX-78751/2082244373_zpid/
+3600,78705,UT Austin,0.75 miles,"1023 W 24th St APT 902, Austin, TX 78705",2,4,1425,2895,zillow.com/homedetails/1023-W-24th-St-APT-902-Austin-TX-78705/2096812697_zpid/
+3195,78751,UT Austin,2.26 miles,"706 W North Loop Blvd #B, Austin, TX 78751",2,4,1400,2214,zillow.com/homedetails/706-W-North-Loop-Blvd-B-Austin-TX-78751/2098181968_zpid/
+2195,78741,UT Austin,4.23 miles,"6301 Crumley Ln, Austin, TX 78741",2,4,1408,2477,zillow.com/homedetails/6301-Crumley-Ln-Austin-TX-78741/29460852_zpid/
+3995,78758,UT Austin,7.3 miles,"11500 Sterlinghill Dr, Austin, TX 78758",2,4,1730,2500,zillow.com/homedetails/11500-Sterlinghill-Dr-Austin-TX-78758/58304018_zpid/
+3400,78756,UT Austin,2.52 miles,"5414 Grover Ave, Austin, TX 78756",2,4,1571,2516,zillow.com/homedetails/5414-Grover-Ave-Austin-TX-78756/2117967148_zpid/
+2600,78727,UT Austin,8.77 miles,"11903 Misty Brook Dr, Austin, TX 78727",2,4,1923,2592,zillow.com/homedetails/11903-Misty-Brook-Dr-Austin-TX-78727/58305616_zpid/
+2750,78724,UT Austin,5.52 miles,"6704 Sandshof Cir, Austin, TX 78724",2,4,,1434,zillow.com/homedetails/6704-Sandshof-Cir-Austin-TX-78724/29401072_zpid/
+3950,78748,UT Austin,10.71 miles,"611 Kingfisher Creek Dr, Austin, TX 78748",2,4,2378,2189,zillow.com/homedetails/611-Kingfisher-Creek-Dr-Austin-TX-78748/29515206_zpid/
+3100,78756,UT Austin,2.28 miles,"1506A North St, Austin, TX 78756",2,4,1550,2666,zillow.com/homedetails/1506A-North-St-Austin-TX-78756/2060572242_zpid/
+3400,78751,UT Austin,1.92 miles,"5101B Guadalupe St W, Austin, TX 78751",2,4,1728,2825,zillow.com/homedetails/5101B-Guadalupe-St-W-Austin-TX-78751/2060572604_zpid/
+2345,78727,UT Austin,10.16 miles,"2409 Lou John St, Austin, TX 78727",2,4,2152,2535,zillow.com/homedetails/2409-Lou-John-St-Austin-TX-78727/64773988_zpid/
+2895,78733,UT Austin,8.51 miles,"2209 Bahama Rd, Austin, TX 78733",2,4,1665,3410,zillow.com/homedetails/2209-Bahama-Rd-Austin-TX-78733/29346731_zpid/
+2350,78744,UT Austin,7.73 miles,"4708 Blue Meadow Dr, Austin, TX 78744",2,4,1250,2034,zillow.com/homedetails/4708-Blue-Meadow-Dr-Austin-TX-78744/64746530_zpid/
+4995,78759,UT Austin,9.11 miles,"10304 D K Ranch Rd, Austin, TX 78759",2,4,2166,3795,zillow.com/homedetails/10304-D-K-Ranch-Rd-Austin-TX-78759/2127624541_zpid/
+2995,78717,UT Austin,14.7 miles,"14501 Templemore Cv, Austin, TX 78717",2,4,2222,2450,zillow.com/homedetails/14501-Templemore-Cv-Austin-TX-78717/58267801_zpid/
+2850,78724,UT Austin,6.52 miles,"7416 Sagira Path, Austin, TX 78724",2,4,1859,1779,zillow.com/homedetails/7416-Sagira-Path-Austin-TX-78724/2067410795_zpid/
+5400,78705,UT Austin,0.21 miles,"607 Elmwood Pl, Austin, TX 78705",2,4,1645,7698,zillow.com/homedetails/607-Elmwood-Pl-Austin-TX-78705/29395819_zpid/
+3995,78702,UT Austin,1.88 miles,"2919 E 16th St, Austin, TX 78702",2,4,1396,2862,zillow.com/homedetails/2919-E-16th-St-Austin-TX-78702/29389848_zpid/
+3200,78723,UT Austin,4.43 miles,"5106 Loyola Ln, Austin, TX 78723",2,4,1690,2529,zillow.com/homedetails/5106-Loyola-Ln-Austin-TX-78723/29402687_zpid/
+3990,78745,UT Austin,7.74 miles,"7401 Whispering Oaks Dr, Austin, TX 78745",2,4,1706,2594,zillow.com/homedetails/7401-Whispering-Oaks-Dr-Austin-TX-78745/29493740_zpid/
+2650,78745,UT Austin,6.58 miles,"6101 Glen Meadow Dr, Austin, TX 78745",2,4,1400,2500,zillow.com/homedetails/6101-Glen-Meadow-Dr-Austin-TX-78745/29492667_zpid/
+2800,78757,UT Austin,4.66 miles,"7905 Brockman St, Austin, TX 78757",2,4,1541,2997,zillow.com/homedetails/7905-Brockman-St-Austin-TX-78757/29423046_zpid/
+2195,78725,UT Austin,9.45 miles,"3407 Barksdale Dr, Austin, TX 78725",2,4,2093,2124,zillow.com/homedetails/3407-Barksdale-Dr-Austin-TX-78725/70345688_zpid/
+2395,78741,UT Austin,4.18 miles,"2003 Kirksey Dr #B, Austin, TX 78741",2,4,1350,1463,zillow.com/homedetails/2003-Kirksey-Dr-B-Austin-TX-78741/2101887053_zpid/
+2200,78729,UT Austin,12.58 miles,"13406 Effingham St, Austin, TX 78729",2,4,1724,2350,zillow.com/homedetails/13406-Effingham-St-Austin-TX-78729/29555531_zpid/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2 St #1, Austin, TX 78705",2,4,1635,3929,zillow.com/homedetails/1205-W-22nd-1-2-St-1-Austin-TX-78705/2104364091_zpid/
+3000,78749,UT Austin,8.86 miles,"7717 Ponoma Trl, Austin, TX 78749",2,4,2077,2997,zillow.com/homedetails/7717-Ponoma-Trl-Austin-TX-78749/29486699_zpid/
+2995,78749,UT Austin,9.83 miles,"6405 Dunsmere Ct, Austin, TX 78749",2,4,2109,2955,zillow.com/homedetails/6405-Dunsmere-Ct-Austin-TX-78749/29487281_zpid/
+3300,78739,UT Austin,12.37 miles,"5213 Cornflower Dr, Austin, TX 78739",2,4,2066,3095,zillow.com/homedetails/5213-Cornflower-Dr-Austin-TX-78739/125804894_zpid/
+2800,78749,UT Austin,8.67 miles,"3809 Leafield Dr, Austin, TX 78749",2,4,1590,2475,zillow.com/homedetails/3809-Leafield-Dr-Austin-TX-78749/29494042_zpid/
+2245,78754,UT Austin,7.63 miles,"1436 Biscuit Dr, Austin, TX 78754",2,4,1685,2294,zillow.com/homedetails/1436-Biscuit-Dr-Austin-TX-78754/119622767_zpid/
+2185,78723,UT Austin,3.63 miles,"2100 Fordham Cv, Austin, TX 78723",2,4,1476,2600,zillow.com/homedetails/2100-Fordham-Cv-Austin-TX-78723/29410049_zpid/
+3995,78702,UT Austin,1.87 miles,"2917 E 16th St, Austin, TX 78702",2,4,2214,3869,zillow.com/homedetails/2917-E-16th-St-Austin-TX-78702/64654557_zpid/
+4795,78705,UT Austin,0.35 miles,"209 E 31st St, Austin, TX 78705",2,4,1402,3176,zillow.com/homedetails/209-E-31st-St-Austin-TX-78705/29397456_zpid/
+2500,78747,UT Austin,9.01 miles,"8004 Running Water Dr, Austin, TX 78747",2,4,2780,2500,zillow.com/homedetails/8004-Running-Water-Dr-Austin-TX-78747/70334771_zpid/
+3100,78751,UT Austin,1.92 miles,"5212A Guadalupe St W, Austin, TX 78751",2,4,1550,,zillow.com/homedetails/5212A-Guadalupe-St-W-Austin-TX-78751/2055278363_zpid/
+3100,78756,UT Austin,2.53 miles,"5413 Roosevelt Ave #A, Austin, TX 78756",2,4,1571,3200,zillow.com/homedetails/5413-Roosevelt-Ave-A-Austin-TX-78756/2112664798_zpid/
+4295,78705,UT Austin,0.85 miles,"305 W 38th St, Austin, TX 78705",2,4,1894,3948,zillow.com/homedetails/305-W-38th-St-Austin-TX-78705/29399023_zpid/
+4700,78705,UT Austin,0.77 miles,"1006 W 22nd St #1, Austin, TX 78705",2,4,1400,3005,zillow.com/homedetails/1006-W-22nd-St-1-Austin-TX-78705/2082512574_zpid/
+4400,78705,UT Austin,0.76 miles,"311 E 38th St, Austin, TX 78705",2,4,1662,3549,zillow.com/homedetails/311-E-38th-St-Austin-TX-78705/29398197_zpid/
+2600,78741,UT Austin,5.19 miles,"1404 Poppy Seed Ln, Austin, TX 78741",2,4,1448,2291,zillow.com/homedetails/1404-Poppy-Seed-Ln-Austin-TX-78741/70345772_zpid/
+2200,78753,UT Austin,9.16 miles,"12724 Serafy Ct, Austin, TX 78753",2,4,2101,2234,zillow.com/homedetails/12724-Serafy-Ct-Austin-TX-78753/29438013_zpid/
+3495,78705,UT Austin,0.7 miles,"3410 Speedway #A, Austin, TX 78705",2,4,1650,3716,zillow.com/homedetails/3410-Speedway-A-Austin-TX-78705/2102359215_zpid/
+3700,78704,UT Austin,3.96 miles,"300 El Paso St, Austin, TX 78704",2,4,1570,3723,zillow.com/homedetails/300-El-Paso-St-Austin-TX-78704/63838277_zpid/
+3400,78756,UT Austin,2.52 miles,"5414 Grover Ave #A, Austin, TX 78756",2,4,1571,2668,zillow.com/homedetails/5414-Grover-Ave-A-Austin-TX-78756/2112667024_zpid/
+3195,78749,UT Austin,9.47 miles,"6003 Brown Rock Trl, Austin, TX 78749",2,4,2551,3300,zillow.com/homedetails/6003-Brown-Rock-Trl-Austin-TX-78749/29486856_zpid/
+3200,78737,UT Austin,17.69 miles,"13065 Fieldstone Loop, Austin, TX 78737",2,4,1780,3255,zillow.com/homedetails/13065-Fieldstone-Loop-Austin-TX-78737/202147499_zpid/
+4000,78723,UT Austin,3.65 miles,"4816 Carsonhill Dr, Austin, TX 78723",2,4,1647,2600,zillow.com/homedetails/4816-Carsonhill-Dr-Austin-TX-78723/29396666_zpid/
+2400,78745,UT Austin,7.25 miles,"1007 Stoneoak Ln, Austin, TX 78745",2,4,1167,2234,zillow.com/homedetails/1007-Stoneoak-Ln-Austin-TX-78745/29497315_zpid/
+4500,78705,UT Austin,0.61 miles,"203 E 34th St, Austin, TX 78705",2,4,1600,3543,zillow.com/homedetails/203-E-34th-St-Austin-TX-78705/29399241_zpid/
+3500,78705,UT Austin,0.59 miles,"713 Harris Ave, Austin, TX 78705",2,4,1300,2999,zillow.com/homedetails/713-Harris-Ave-Austin-TX-78705/29397493_zpid/
+2490,78727,UT Austin,9.74 miles,"13205 Rampart St, Austin, TX 78727",2,4,1800,2475,zillow.com/homedetails/13205-Rampart-St-Austin-TX-78727/29443305_zpid/
+3050,78759,UT Austin,8.39 miles,"4700 Wind River Rd, Austin, TX 78759",2,4,1621,2995,zillow.com/homedetails/4700-Wind-River-Rd-Austin-TX-78759/29438281_zpid/
+4400,78705,UT Austin,0.81 miles,"1101 W 22nd 1/2 St, Austin, TX 78705",2,4,1774,5643,zillow.com/homedetails/1101-W-22nd-1-2-St-Austin-TX-78705/29331812_zpid/
+4700,78705,UT Austin,0.77 miles,"1006 W 22nd St, Austin, TX 78705",2,4,2200,5890,zillow.com/homedetails/1006-W-22nd-St-Austin-TX-78705/29331825_zpid/
+2950,78736,UT Austin,16.16 miles,"11010 Little Thicket Rd, Austin, TX 78736",2,4,1570,2850,zillow.com/homedetails/11010-Little-Thicket-Rd-Austin-TX-78736/29478256_zpid/
+5500,78704,UT Austin,3.53 miles,"2211 Rebel Rd, Austin, TX 78704",2,4,2625,6447,zillow.com/homedetails/2211-Rebel-Rd-Austin-TX-78704/29460313_zpid/
+3900,78751,UT Austin,0.81 miles,"3800 Avenue F, Austin, TX 78751",2,4,1995,6157,zillow.com/homedetails/3800-Avenue-F-Austin-TX-78751/29400547_zpid/
+4100,78705,UT Austin,0.95 miles,"810 W 32nd St APT A, Austin, TX 78705",2,4,2945,4320,zillow.com/homedetails/810-W-32nd-St-APT-A-Austin-TX-78705/2105606108_zpid/
+3450,78751,UT Austin,1.53 miles,"4521 Avenue F #B, Austin, TX 78751",2,4,1350,2550,zillow.com/homedetails/4521-Avenue-F-B-Austin-TX-78751/2131623988_zpid/
+3200,78739,UT Austin,12.49 miles,"5201 Globe Mallow Dr, Austin, TX 78739",2,4,2066,2997,zillow.com/homedetails/5201-Globe-Mallow-Dr-Austin-TX-78739/251031717_zpid/
+2395,78727,UT Austin,9.73 miles,"2407 N Shields Dr, Austin, TX 78727",2,4,1671,2450,zillow.com/homedetails/2407-N-Shields-Dr-Austin-TX-78727/29444988_zpid/
+2800,78752,UT Austin,3.93 miles,"7500 Paxton St, Austin, TX 78752",2,4,1874,3214,zillow.com/homedetails/7500-Paxton-St-Austin-TX-78752/29418413_zpid/
+2450,78737,UT Austin,,"(undisclosed Address), Austin, TX 78737",2,4,1800,2850,zillow.com/homedetails/Austin-TX-78737/29481855_zpid/
+2250,78724,UT Austin,9.24 miles,"5817 Roderick Dr, Austin, TX 78724",2,4,2040,2199,zillow.com/homedetails/5817-Roderick-Dr-Austin-TX-78724/251032512_zpid/
+2995,78702,UT Austin,1.99 miles,"1311 E 3rd St, Austin, TX 78702",2,4,1235,2949,zillow.com/homedetails/1311-E-3rd-St-Austin-TX-78702/29384318_zpid/
+2199,78759,UT Austin,9.86 miles,"11805 Charing Cross Rd, Austin, TX 78759",2,4,1637,2600,zillow.com/homedetails/11805-Charing-Cross-Rd-Austin-TX-78759/29371833_zpid/
+2650,78745,UT Austin,5.9 miles,"5002 Tahoe Trl, Austin, TX 78745",2,4,1468,2800,zillow.com/homedetails/5002-Tahoe-Trl-Austin-TX-78745/58313292_zpid/
+2500,78744,UT Austin,6.36 miles,"4614 Peach Grove Rd, Austin, TX 78744",2,4,1752,2695,zillow.com/homedetails/4614-Peach-Grove-Rd-Austin-TX-78744/70327425_zpid/
+2495,78753,UT Austin,7.65 miles,"11800 Oak Haven Rd, Austin, TX 78753",2,4,1982,2628,zillow.com/homedetails/11800-Oak-Haven-Rd-Austin-TX-78753/58303385_zpid/
+2995,78723,UT Austin,4.38 miles,"3500 Loyola Ln, Austin, TX 78723",2,4,2336,3136,zillow.com/homedetails/3500-Loyola-Ln-Austin-TX-78723/29404484_zpid/
+2200,78725,UT Austin,9.86 miles,"3506 Batson Dr, Austin, TX 78725",2,4,1683,2195,zillow.com/homedetails/3506-Batson-Dr-Austin-TX-78725/331624125_zpid/
+3995,78705,UT Austin,0.34 miles,"2719 Whitis Ave, Austin, TX 78705",2,4,1740,2555,zillow.com/homedetails/2719-Whitis-Ave-Austin-TX-78705/2058214328_zpid/
+3750,78748,UT Austin,10.23 miles,"10605 Lord Derby Dr, Austin, TX 78748",2,4,2399,2650,zillow.com/homedetails/10605-Lord-Derby-Dr-Austin-TX-78748/64656358_zpid/
+2250,78725,UT Austin,10.0 miles,"15225 Harkness Pass, Austin, TX 78725",2,4,2029,2265,zillow.com/homedetails/15225-Harkness-Pass-Austin-TX-78725/331621797_zpid/
+2950,78749,UT Austin,9.91 miles,"6516 Clairmont Dr, Austin, TX 78749",2,4,1904,2850,zillow.com/homedetails/6516-Clairmont-Dr-Austin-TX-78749/29487177_zpid/
+2850,78732,UT Austin,11.34 miles,"13020 Appaloosa Chase Dr, Austin, TX 78732",2,4,2087,2807,zillow.com/homedetails/13020-Appaloosa-Chase-Dr-Austin-TX-78732/70337529_zpid/
+2995,78756,UT Austin,2.43 miles,"5212 Joe Sayers Ave, Austin, TX 78756",2,4,2158,3266,zillow.com/homedetails/5212-Joe-Sayers-Ave-Austin-TX-78756/29410600_zpid/
+2095,78725,UT Austin,10.06 miles,"4608 Cleto St, Austin, TX 78725",2,4,1887,2199,zillow.com/homedetails/4608-Cleto-St-Austin-TX-78725/145654943_zpid/
+3600,78705,UT Austin,0.83 miles,"3105 Kings Ln, Austin, TX 78705",2,4,1317,3134,zillow.com/homedetails/3105-Kings-Ln-Austin-TX-78705/29397905_zpid/
+2725,78749,UT Austin,10.37 miles,"9113 Edwardson Ln, Austin, TX 78749",2,4,2015,2981,zillow.com/homedetails/9113-Edwardson-Ln-Austin-TX-78749/29491892_zpid/
+5600,78705,UT Austin,0.91 miles,"1902 David St, Austin, TX 78705",2,4,1700,4500,zillow.com/homedetails/1902-David-St-Austin-TX-78705/29331863_zpid/
+2500,78744,UT Austin,8.87 miles,"7013 Lickeen Ct, Austin, TX 78744",2,4,1678,2600,zillow.com/homedetails/7013-Lickeen-Ct-Austin-TX-78744/241938278_zpid/
+2495,78750,UT Austin,12.79 miles,"11514 Quarter Horse Trl, Austin, TX 78750",2,4,2081,2400,zillow.com/homedetails/11514-Quarter-Horse-Trl-Austin-TX-78750/29567176_zpid/
+2032,78728,UT Austin,12.58 miles,"15701 Fm 1325 Rd, Austin, TX 78728",2,4,,2522,zillow.com/homedetails/15701-Fm-1325-Rd-Austin-TX-78728/2055885601_zpid/
+2200,78758,UT Austin,6.53 miles,"1503 Quail Crest Dr, Austin, TX 78758",2,4,1464,2435,zillow.com/homedetails/1503-Quail-Crest-Dr-Austin-TX-78758/29432362_zpid/
+2150,78759,UT Austin,5.53 miles,"8139 Ceberry Dr #A, Austin, TX 78759",2,4,1775,2264,zillow.com/homedetails/8139-Ceberry-Dr-A-Austin-TX-78759/2088567853_zpid/
+4300,78727,UT Austin,9.16 miles,"4206 Dauphine Dr, Austin, TX 78727",2,4,2121,2885,zillow.com/homedetails/4206-Dauphine-Dr-Austin-TX-78727/29442652_zpid/
+2550,78754,UT Austin,8.81 miles,"6812 Tulloch Way, Austin, TX 78754",2,4,2425,2500,zillow.com/homedetails/6812-Tulloch-Way-Austin-TX-78754/70338732_zpid/
+2500,78748,UT Austin,9.52 miles,"9808 Woodshire Dr, Austin, TX 78748",2,4,1766,2487,zillow.com/homedetails/9808-Woodshire-Dr-Austin-TX-78748/29509886_zpid/
+2475,78727,UT Austin,9.53 miles,"13013 Withers Way, Austin, TX 78727",2,4,1866,2414,zillow.com/homedetails/13013-Withers-Way-Austin-TX-78727/29443509_zpid/
+3200,78722,UT Austin,1.15 miles,"3 Kern Ramble St, Austin, TX 78722",2,4,2038,3393,zillow.com/homedetails/3-Kern-Ramble-St-Austin-TX-78722/29394633_zpid/
+2900,78757,UT Austin,3.74 miles,"6712 Modesto St, Austin, TX 78757",2,4,1298,2614,zillow.com/homedetails/6712-Modesto-St-Austin-TX-78757/29416912_zpid/
+2900,78751,UT Austin,1.98 miles,"5010 Eilers Ave, Austin, TX 78751",2,4,1500,3249,zillow.com/homedetails/5010-Eilers-Ave-Austin-TX-78751/29405237_zpid/
+4500,78734,UT Austin,13.19 miles,"3935 Lago Vista Dr, Austin, TX 78734",2,4,2430,3499,zillow.com/homedetails/3935-Lago-Vista-Dr-Austin-TX-78734/29363606_zpid/
+1950,78745,UT Austin,6.52 miles,"6004 Idlewood Cv, Austin, TX 78745",2,4,1114,2227,zillow.com/homedetails/6004-Idlewood-Cv-Austin-TX-78745/29492677_zpid/
+4695,78705,UT Austin,0.7 miles,"302-2606 Salado St #302, Austin, TX 78705",2,4,1460,2311,zillow.com/homedetails/302-2606-Salado-St-302-Austin-TX-78705/2062277534_zpid/
+4250,78758,UT Austin,5.5 miles,"9002 Lodge Ct, Austin, TX 78758",2,4,1494,2450,zillow.com/homedetails/9002-Lodge-Ct-Austin-TX-78758/29427462_zpid/
+4795,78705,UT Austin,0.57 miles,"2606 Salado St APT 301, Austin, TX 78705",2,4,1460,2303,zillow.com/homedetails/2606-Salado-St-APT-301-Austin-TX-78705/2109480727_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/
+2395,78745,UT Austin,7.78 miles,"2601 Redleaf Ln, Austin, TX 78745",2,4,1737,2929,zillow.com/homedetails/2601-Redleaf-Ln-Austin-TX-78745/29493731_zpid/
+2995,78721,UT Austin,3.54 miles,"1134 Eleanor St, Austin, TX 78721",2,4,1224,2521,zillow.com/homedetails/1134-Eleanor-St-Austin-TX-78721/29388184_zpid/
+1879,78728,UT Austin,12.53 miles,"The James on Grand Avenue, 15701 Farm To Market Rd, Austin, TX 78728",2,4,1304,1878,zillow.com/b/the-james-on-grand-avenue-austin-tx-C4dxFT/
+2199,78724,UT Austin,7.64 miles,"Residences at Decker, 9000 Decker Ln, Austin, TX 78724",2,4,1423,2033,zillow.com/apartments/austin-tx/residences-at-decker/5Yw5FW/
+2900,78731,UT Austin,4.4 miles,"6109 Shadow Valley Dr #A, Austin, TX 78731",2,4,2200,3377,zillow.com/homedetails/6109-Shadow-Valley-Dr-A-Austin-TX-78731/2113326411_zpid/
+3800,78753,UT Austin,8.96 miles,"12600 Lucida Ln, Austin, TX 78753",2,4,2150,2334,zillow.com/homedetails/12600-Lucida-Ln-Austin-TX-78753/124839555_zpid/
+2500,78729,UT Austin,11.4 miles,"8912 Bubbling Springs Trl, Austin, TX 78729",2,4,2026,2384,zillow.com/homedetails/8912-Bubbling-Springs-Trl-Austin-TX-78729/29564796_zpid/
+2550,78727,UT Austin,10.22 miles,"13005 Odie Ln, Austin, TX 78727",2,4,1444,2149,zillow.com/homedetails/13005-Odie-Ln-Austin-TX-78727/29446117_zpid/
+1878,78653,UT Austin,9.79 miles,"The Element, 5724 E Howard Ln, Manor, TX 78653",2,4,1304,2094,zillow.com/b/the-element-manor-tx-C4YPvk/
+1887,78724,UT Austin,9.39 miles,"The Beckett, 14011 Fm 969 Rd, Austin, TX 78724",2,4,1486,,zillow.com/b/the-beckett-austin-tx-CbXnGZ/
+2800,78705,UT Austin,0.84 miles,"2844 San Gabriel St #A, Austin, TX 78705",2,4,1584,3800,zillow.com/homedetails/2844-San-Gabriel-St-A-Austin-TX-78705/2102782540_zpid/
+2400,78754,UT Austin,6.76 miles,"2404 Tucker Ln, Austin, TX 78754",2,4,1698,1887,zillow.com/homedetails/2404-Tucker-Ln-Austin-TX-78754/2058405683_zpid/
+3000,78722,UT Austin,1.37 miles,"3304 Larry Ln, Austin, TX 78722",2,4,1550,3200,zillow.com/homedetails/3304-Larry-Ln-Austin-TX-78722/29394753_zpid/
+2411,78704,UT Austin,2.41 miles,"Timbercreek Apartments, 614 S 1st St APT 324, Austin, TX 78704",2,4,1220,2257,zillow.com/apartments/austin-tx/timbercreek-apartments/5Xht9f/
+3050,78702,UT Austin,2.24 miles,"3111 E. 31st St., 3111 E 13th St #B, Austin, TX 78702",2,4,1200,2476,zillow.com/b/3111-e.-31st-st.-austin-tx-5YN8Wc/
+3325,78744,UT Austin,8.69 miles,"7013 Brick Slope Path, Austin, TX 78744",2,4,1662,2600,zillow.com/homedetails/7013-Brick-Slope-Path-Austin-TX-78744/241933027_zpid/
+3800,78751,UT Austin,1.5 miles,"1020 Ellingson, 1020 Ellingson Ln #A, Austin, TX 78751",2,4,1388,3549,zillow.com/b/1020-ellingson-austin-tx-5ZZYWn/
+2400,78704,UT Austin,4.06 miles,"3000 Ray Wood Dr, Austin, TX 78704",2,4,1696,4407,zillow.com/homedetails/3000-Ray-Wood-Dr-Austin-TX-78704/29476792_zpid/
+2250,78725,UT Austin,9.87 miles,"14909 Custis Ln, Austin, TX 78725",2,4,1858,2199,zillow.com/homedetails/14909-Custis-Ln-Austin-TX-78725/305433035_zpid/
+2345,78747,UT Austin,10.53 miles,"10721 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10721-Steinbeck-Dr-Austin-TX-78747/331622282_zpid/
+2050,78748,UT Austin,10.67 miles,"2020 Coats Cir, Austin, TX 78748",2,4,1427,1700,zillow.com/homedetails/2020-Coats-Cir-Austin-TX-78748/29513143_zpid/
+2695,78741,UT Austin,5.2 miles,"1613 Anise Dr, Austin, TX 78741",2,4,1586,2635,zillow.com/homedetails/1613-Anise-Dr-Austin-TX-78741/70345784_zpid/
+2150,78754,UT Austin,7.2 miles,"11809 Monterosso Dr, Austin, TX 78754",2,4,2031,1572,zillow.com/homedetails/11809-Monterosso-Dr-Austin-TX-78754/2084294997_zpid/
+4500,78705,UT Austin,0.48 miles,"3102 Cedar St, Austin, TX",2,4,,,zillow.com/b/3102-cedar-3102-cedar-b-austin-tx-5vbYhW/
+2900,78705,UT Austin,0.67 miles,"1003 W 26th St APT 303, Austin, TX 78705",2,4,1043,1705,zillow.com/homedetails/1003-W-26th-St-APT-303-Austin-TX-78705/2086853772_zpid/
+3600,78704,UT Austin,4.31 miles,"202 Lightsey Rd, Austin, TX 78704",2,4,1588,3409,zillow.com/homedetails/202-Lightsey-Rd-Austin-TX-78704/29478385_zpid/
+2344,78747,UT Austin,10.53 miles,"10513 Steinbeck Dr, Austin, TX 78747",2,4,1622,2299,zillow.com/homedetails/10513-Steinbeck-Dr-Austin-TX-78747/331622296_zpid/
+4400,78702,UT Austin,2.67 miles,"2105 Holly St, Austin, TX 78702",2,4,2635,5500,zillow.com/homedetails/2105-Holly-St-Austin-TX-78702/29381495_zpid/
+2850,78736,UT Austin,10.37 miles,"7500 Black Mountain Dr, Austin, TX 78736",2,4,2105,2921,zillow.com/homedetails/7500-Black-Mountain-Dr-Austin-TX-78736/70327902_zpid/
+2495,78726,UT Austin,11.99 miles,"11616 Sweet Basil Ct, Austin, TX 78726",2,4,2063,2594,zillow.com/homedetails/11616-Sweet-Basil-Ct-Austin-TX-78726/29376633_zpid/
+3989,78759,UT Austin,6.06 miles,"8618 Willowick Dr, Austin, TX 78759",2,4,2010,3701,zillow.com/homedetails/8618-Willowick-Dr-Austin-TX-78759/29432088_zpid/
+2500,78729,UT Austin,10.64 miles,"13008 Amarillo Ave, Austin, TX 78729",2,4,2036,2804,zillow.com/homedetails/13008-Amarillo-Ave-Austin-TX-78729/29375611_zpid/
+2076,78744,UT Austin,7.19 miles,"Hillside on Cannon, 2302 E William Cannon Dr APT 1226, Austin, TX 78744",2,4,1193,2039,zillow.com/apartments/austin-tx/hillside-on-cannon/5XhtCP/
+2995,78748,UT Austin,9.41 miles,"2515 Monarch Dr, Austin, TX 78748",2,4,1768,2500,zillow.com/homedetails/2515-Monarch-Dr-Austin-TX-78748/29509961_zpid/
+2350,78758,UT Austin,4.84 miles,"8402 Leesburg Cir, Austin, TX 78758",2,4,1400,2400,zillow.com/homedetails/8402-Leesburg-Cir-Austin-TX-78758/29422666_zpid/
+1960,78704,UT Austin,3.58 miles,"Cascade Apartments, 1221 Algarita Ave APT 258, Austin, TX 78704",2,4,1188,2425,zillow.com/apartments/austin-tx/cascade-apartments/5XhsxS/
+4500,78705,UT Austin,0.92 miles,"1205 W 22nd 1/2, 1205 W 22nd 1/2 St, Austin, TX 78705",2,4,1635,4470,zillow.com/homedetails/1205-W-22nd-1-2-St-Austin-TX-78705/29331750_zpid/
+2125,78728,UT Austin,12.34 miles,"3924 Mocha Trl, Austin, TX 78728",2,4,2000,2395,zillow.com/homedetails/3924-Mocha-Trl-Austin-TX-78728/29454212_zpid/
+3000,78702,UT Austin,1.82 miles,"1138 Northwestern Ave, Austin, TX 78702",2,4,1394,3183,zillow.com/homedetails/1138-Northwestern-Ave-Austin-TX-78702/29386061_zpid/
+3050,78705,UT Austin,0.66 miles,"915 Keith Ln, Austin, TX",2,4,,,zillow.com/b/915-keith-ln-austin-tx-9LRZ9P/
+2750,78734,UT Austin,13.57 miles,"15107 N Flamingo Dr, Austin, TX 78734",2,4,1943,2997,zillow.com/homedetails/15107-N-Flamingo-Dr-Austin-TX-78734/29351970_zpid/

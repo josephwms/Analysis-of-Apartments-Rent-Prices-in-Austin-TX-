@@ -55,11 +55,15 @@ plt.show()
 
 '''Now lets check the impact on price from the distance to university'''
 
-plt.scatter(df['Distance to the university (in miles)'], df['Price'])
+sns.scatterplot(data=df, x='Distance to the university (in miles)', y='Price', hue='Bedrooms', palette='viridis')
 plt.xlabel('Distance to the university (in miles)')
 plt.ylabel('Rental Rate')
 plt.title('Scatterplot of Distance vs. Rental Rate')
+plt.legend(title=' # of Bedrooms')
 plt.show()
+
+
+
 
 
 '''There doesnt seem much of a pattern in distance vs rent'''

@@ -135,12 +135,14 @@ Another important factor has been the distance to the university. As UT Austin s
 
 The plot surprisingly does not show a strong relationship between distance from the university and the rents. However, it does show that a lot of two bedrooms are clustered around the university and the majority of them are priced around $1500 to $2000. Another key insight was that 4 bedrooms on average seemed to be priced higher closer to the university than away from the university (ignoring some outliers) and this is well-explained by the fact that roommates share apartments closer to the university, driving rents up while away from the university 4 bedrooms are maybe not much in demand due to smaller families, in general, in the US and therefore in Austin. 
 
-
-[Ahil's plots]
-
 ![Price_Distance_Box](images/Price_Distance_Box.png)
+
+Here is an alternative visualization to the scatterplot above that divides the distance into categorical variables. Though there may not be a strong relationship between distance from the university and rent, determining which distances tend to be the most expensive (or inexpensive) may help students determine whether they live close to or far from the university. The boxplot illustrates something interesting. The highest ($4014) and lowest rent ($2520) on average were the distances 0-1 miles and 0-2 miles respectively.   
+
+
 ![Price_Zip_Box](images/Price_Zip_Box.png)
 
+Here we gave each zipcode(with at least 50 listings) a boxplot. The most expensive rent on average was in the zipcode 78641 ($6443) which is the Westlake Hills suburb of Austin that has extremely high property value on average. On the other hand, 78744 had the lowest average rent ($2257). This can be attributed to the lower median property value of the area. Depending on the area in which the rental property is located can significantly impact the rent.  
 
 
 ***A visualization Map***
@@ -157,6 +159,9 @@ The plot surprisingly does not show a strong relationship between distance from 
 
 ![screenshot_of_map](images/78746.PNG)
 ![screenshot_of_map](images/78744.PNG)  
+
+
+
 
 * If you want to run our codes to get this map for our or your own dataset, please follow the command line below:
 

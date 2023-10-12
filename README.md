@@ -88,7 +88,7 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 
 ## C. Analysis  
 
-* We use Python to visualize the relationship, try to use the execution method below and you will get the following figures in the 'images' folder.
+* We use Python to visualize the data overview and relationship between prices and other attributes, you can use the execution method below to get the following figures in the 'images' folder.
 
 ```python
 

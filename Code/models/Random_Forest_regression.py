@@ -39,10 +39,11 @@ just pick out those metrics that can clearly show the performance and easy to be
 
 # evaluate the model
 # calculate the middle products
-n = X_test_scaled.shape[0]  # number of observations
-p = X_test_scaled.shape[1]  # number of coefficients except intercept
-residuals = y_test - rf_regressor.predict(X_test_scaled)
+n = X_test.shape[0]  # number of observations
+p = X_test.shape[1]  # number of coefficients except intercept
+residuals = y_test - rf_regressor.predict(X_test)
 rss = np.sum(residuals**2)
+sum_percentage_error = 0
 
 # calculate the final results
 mse = mean_squared_error(y_test, y_pred)
@@ -52,6 +53,12 @@ mae = mean_absolute_error(y_test, y_pred)
 adjusted_r_squared = 1 - (1 - r2) * ((n - 1) / (n - p - 1))
 aic = 2 * p + n * np.log(rss / n)
 bic = n * np.log(rss / n) + (p + 1) * np.log(n)
+rmse = mse**(1/2)
+for i in range(n):
+    if y_test.iloc[i] != 0:  # Avoid division by zero
+        percentage_error = ((y_test.iloc[i] - y_pred[i]) / y_test.iloc[i]) * 100
+        sum_percentage_error += percentage_error
+mpe = sum_percentage_error / n
 
 # show the result
 print(f'R-squared (R2) Score: {r2}')
@@ -60,6 +67,9 @@ print(f'Mean Squared Error: {mse}')
 print(f'Mean Absolute Error: {mae}')
 print(f'AIC: {aic}')
 print(f'BIC: {bic}')
+print(f'Rooted Mean Squared Error: {rmse}')
+print(f'Mean Percentage Error: {mpe}')
+
 '''Interaction with users'''
 
 zip_code = str(

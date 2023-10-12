@@ -36,7 +36,7 @@ python3 Code/data/get_zillowData.py
    
 ***Things to Mention:***
  
-* A successful execution of the code will last about **5-6 minutes** since we set up a sleep function for each loop to avoid reaching the request limit of the API. 
+* A successful execution of the code will last about **6-7 minutes** since we set up a sleep function for each loop to avoid reaching the request limit of the API. 
 
 
 * There is a hidden .env file in the root directory and the /code directory with API keys for both the Google Maps and Zillow API. If you are receiving errors please reach out to me at **joewlimms1221@gmail.com** and I will share the API keys with you as they are under a paywall.

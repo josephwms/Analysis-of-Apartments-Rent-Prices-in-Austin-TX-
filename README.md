@@ -149,18 +149,18 @@ python3 Code/visualization/get_price_map.py
 
 ***Model Selection:*** We tried several models, including parametric and non-parametric approaches. For machine learning methods, we conduct Random Forest(RF), Decision Tree(DT), and Support Vector Machines(SVM) methods. For regression models, we conduct Linear Regression(LR), Ridge Regression(RR), Bayesian Ridge Regression(BRR), Logistic Regression(LOG), and Polynomial Regression(PR) models.
 
-***Model Comparison:*** We computed several model selection metrics to evaluate all eight models, including R Square, Adjusted R Squared, Mean Squared Error(MSE), Akaike Information Criterion(AIC), and Bayesian Information Criterion(BIC). After comparison, we found that the Random Forest model gives us the best result, and we will use it to conduct further prediction analysis.  
+***Model Comparison:*** We computed several model selection metrics to evaluate all eight models, including R Square, Mean Percentage Error(MPE), Rooted Mean Squared Error(RMSE), Akaike Information Criterion(AIC), and Bayesian Information Criterion(BIC). After comparison, we found that the Random Forest model gives us the best result, and we will use it to conduct further prediction analysis.  
 
-|  Model  |  R Squared  |  Adjusted R Squared  |  Mean Squared Error  |  AIC  |  BIC  |
+|  Model  |  R Squared  |  Mean Percentage Error  |  Rooted Mean Squared Error  |  AIC  |  BIC  |
 |  ----  |  ----  |  ----  |  ----  |  ----  |  ----  |
-| ***Random Forest*** | ***0.95411*** | **0.95370** | **179888.57504** | **6786.05203** | **6814.01965** |
-| Decision Tree | 0.91308 | 0.91230 | 340709.73486 | 7143.72026 | 7171.68788 |
-| Support Vector Machines | 0.71980 | 0.71726 | 1098409.01001 | 7799.24907 | 7827.21669 |
-| Linear Regression | 0.65062 | 0.64746 | 1369569.77771 | 17762.41477 | 17790.38239 |
-| Ridge Regression | 0.65056 | 0.64740 | 1369809.914018 | 7922.90222 | 7950.86984 |
-| Bayesian Ridge Regression | 0.65048 | 0.64733 | 1370095.52937 | 7923.01897 | 7950.98659 |
-| Logistic Regression | 0.75819 | 0.75601 | 947874.10893 | 7716.70711 | 7744.67473 |
-| Polynomial Regression | 0.78914 | 0.76566 | 826570.17528 | 7742.02246 | 7990.71485 |
+| ***Random Forest*** | ***0.95411*** | **-2.78266** | **424.13273** | **6786.05203** | **6814.01965** |
+| Decision Tree | 0.91308 | -3.31613 | 583.70346 | 7143.72026 | 7171.68788 |
+| Support Vector Machines | 0.71980 | 0.67318 | 1048.05010 | 7799.24907 | 7827.21669 |
+| Linear Regression | 0.65062 | -5.73652 | 1170.28619 | 17762.41477 | 17790.38239 |
+| Ridge Regression | 0.65056 | -5.74445 | 1170.38879 | 7922.90222 | 7950.86984 |
+| Bayesian Ridge Regression | 0.65048 | -5.75373 | 1170.51080 | 7923.01897 | 7950.98659 |
+| Logistic Regression | 0.75819 | -7.89685 | 973.58826 | 7716.70711 | 7744.67473 |
+| Polynomial Regression | 0.78914 | -5.23490 | 909.15905 | 7742.02246 | 7990.71485 |
 
     
   
@@ -171,7 +171,7 @@ python3 Code/visualization/get_price_map.py
 python3 Code/models/Random_Forest_regression.py
 ```
 
-* After you run this code in your terminal, you will see 6 model evaluation metrics of the model printed in the terminal. The R-Square Score is around 0.954 for our Random Forest Model, which is really accurate.
+* After you run this code in your terminal, you will see 8 model evaluation metrics of the model printed in the terminal. The R-Square Score is around 0.954 for our Random Forest Model, which is really accurate.
 
 * You can use similar command lines to get results of other regression methods listed in the chart above, remember to change the name of the Python file to the method you'd like to use.
 

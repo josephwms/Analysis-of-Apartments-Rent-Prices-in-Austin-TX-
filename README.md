@@ -15,7 +15,8 @@ Also, there are some attributes that we computed and added to the dataset, which
 
 ***Execution method:*** To execute the code and get the cleaned result.csv file (the data file that you can use for further analysis), you should run the following codes from the terminal in order: 
 
-'''py
+'''py  
+
 git clone [github SSH]  
 
 cd eco395m-project1-midterm

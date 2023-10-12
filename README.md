@@ -13,7 +13,8 @@ We chose 'Price', 'Latitude', 'Longitude', 'Address', 'Bathrooms', and 'Bedrooms
 Also, there are some attributes that we computed and added to the dataset, which are 'Distance to University' and 'zip_code', for instances where the address provided in the query did not yield a zip code. These were both added using the Google leapis API and the code can be referenced in the get_lat_lon.py and get_zipcode.py files.
 
 
-***Execution method:*** To execute the code and get the cleaned result.csv file (the data file that you can use for further analysis), you should run the following codes from the terminal in order: 
+***Execution method:*** To execute the code and get the cleaned result.csv file (the data file that you can use for further analysis), you should run the following codes from the terminal in order, remember to update the pip to the latest version to avoid errors, also you could change pip to pip3 in the third line, and python3 to python in the fourth line if you have trouble running the commands below. This is due to the difference between our environment.  
+
 
 ```python  
 
@@ -168,13 +169,13 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 
 ***Reproducibility:***
 
-* ***Data:*** The users can directly get their data by executing the same command lines as mentioned in the data collection part above. Mention that you will need an APIKEY for both RapidAPI.com and Google leapis API. You can get your own Google leapis API by following some instructions online, but for RapidAPI.com, you need to sign up for an account to have your own APIKEY or ask for help by sending an email to **joewlimms1221@gmail.com**.
+* ***Data:*** The users can directly get their data by executing the same command lines as mentioned in the data collection part above. Mention that you will need an APIKEY for both RapidAPI.com and Google leapis API. You can get your own Google Leapis API by following some instructions online, but for RapidAPI.com, you need to sign up for an account to have your own APIKEY or ask for help by sending an email to **joewlimms1221@gmail.com**.
 
   
 * ***Model:*** After you get your result.csv file, you can use the command lines shown in the second part to get an estimated price result.
 
   
-* ***Analysis:*** You can get figures of the same format as ours by using the command lines shown in the third part, and all the figures and .html files will be kept in the folder called 'images'. Using the interaction function, you are able to estimate the rent of your desired apartment and compare it to the prices listed on the renting websites. In this way, you are able to make price comparisons among several ways and pick the most efficient one.
+* ***Analysis:*** You can get figures of the same format as ours by using the command lines shown in the third part, and all the figures and .html files will be kept in the folder called 'images'. Using the interaction function, you are able to estimate the rent of your desired apartment and compare it to the prices listed on the renting websites. In this way, you are able to make price comparisons in several ways and pick the most efficient one.
   
   
 
@@ -193,7 +194,7 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 We tried eight methods for modeling and picked out the best one with the highest R Square Score. However, we didn't do enough work on the feature selection and parameter setting part. One could get a more accurate estimation if one used some metrics to delete some idle attributes or used grid search to find better parameters.
 
 * ***Availablity:***  
-Our research is only restricted to Austin and the university refers to the University of Texas, at Austin. If you want to research other cites, you can change the parameters in API, and if you want to change the colleges, you should edit the code in the file called get_lat_lon.py and get_zipcode.py. In this way, you are able to investigate the renting market around universities in the US.
+Our research is only restricted to Austin and the university refers to the University of Texas, at Austin. If you want to research other cities, you can change the parameters in API, and if you want to change the colleges, you should edit the code in the file called get_lat_lon.py and get_zipcode.py. In this way, you are able to investigate the renting market around universities in the US.
 
 
 

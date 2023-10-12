@@ -160,7 +160,7 @@ The plot suprisingly does not show a strong relationship between distance from t
 ![screenshot_of_map](images/78746.PNG)
 ![screenshot_of_map](images/78744.PNG)  
 
-* If you want to run our codes to get this map for our or your own dataset, please follow the operations below:
+* If you want to run our codes to get this map for our or your own dataset, please follow the command line below:
 
 ```python
 

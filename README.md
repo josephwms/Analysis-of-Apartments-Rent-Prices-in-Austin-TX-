@@ -57,17 +57,17 @@ python3 Code/analysis/analysis.py
 
 ```
 * ***Documentation***
-Price: The present monthly rental price of the apartments, measured in dollars;
-Zip: The Zipcode of the rental apartment;  
-My university: University of Texas, at Austin
-Distance to University: The distance from the apartment to UT, measured in miles;
-Address: The location of the apartment;
-Bathrooms: Number of bathrooms in the apartment;
-Bedrooms: Number of bedrooms in the apartment;
-LivingArea: The Area of the apartment, measured in square feet;
-Latitude: The latitude of the apartment;
-Longitude: The longitude of the apartment;
-DetailURL: The URL of the apartment shown in Zillow.
+***Price***: The present monthly rental price of the apartments, measured in dollars;  
+***Zip***: The Zipcode of the rental apartment;  
+***My university: University of Texas***, at Austin  
+***Distance to University***: The distance from the apartment to UT, measured in miles;  
+***Address***: The location of the apartment;  
+***Bathrooms***: Number of bathrooms in the apartment;  
+***Bedrooms***: Number of bedrooms in the apartment;  
+***LivingArea***: The Area of the apartment, measured in square feet;  
+***Latitude***: The latitude of the apartment;  
+***Longitude***: The longitude of the apartment;  
+***DetailURL***: The URL of the apartment is shown on Zillow.  
 
 * ***Dataset Overview***
 We start our analysis by seeing the distribution of rent. 

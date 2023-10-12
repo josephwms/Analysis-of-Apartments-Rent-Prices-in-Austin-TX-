@@ -122,7 +122,7 @@ For bathrooms, on the other hand, the relationship with rent is such that as the
 
 Another important factor has been distance to the university. As UT Austin students, we thought, analyzing the relationship of distance from the university and rent would be helpful to many. Also, the location of the university is quite central and near downtown, so we wanted to see its impact on rents. 
 
-![Scatterplot_Dsitance_vs._Rental_Rates](images/Scatterplot_Dsitance_vs._Rental_Rates.png)
+![Scatterplot_Distance_vs._Rental_Rates.png](images/Scatterplot_Distance_vs._Rental_Rates.png)
 
 The plot suprisingly does not show a strong relationship between distance from the university and the rents. However it does show that a lot of two bedrooms are clustered around the university and majority of them are priced around $1500 to $2000. Another key insight was that that 4 bedrooms on an average seemed to be priced higher closer to the university than away from the university (ignoring some outliers) and this is well-explained by the fact that roommates share apartments closer to the university, driving rents up while away from the university 4 bedrooms are maybe not much in demand due to smaller families, in general, in the US and therefore in Austin. 
 

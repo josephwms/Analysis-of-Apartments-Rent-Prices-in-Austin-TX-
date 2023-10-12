@@ -10,6 +10,8 @@ df = pd.read_csv('artifacts/result.csv')
 
 image_path = 'images/'
 
+'''Description of data'''
+
 print('Head')
 print(df.head())
 print('-------------------------------------------------------------')
@@ -20,6 +22,7 @@ print('Description')
 print(df.describe())
 print('-------------------------------------------------------------')
 
+'''Histogram of rent'''
 plt.figure(figsize=(10, 6))
 plt.hist(df['Price'], bins=10, color='blue', edgecolor='black')
 plt.xlabel('Rent Amount')
@@ -27,7 +30,7 @@ plt.ylabel('Frequency')
 plt.title('Rent Distribution Histogram')
 plt.savefig(f'{image_path}/Rent_Distribution.png')
 
-
+'''Impact of number of bedrooms on rent'''
 plt.figure(figsize=(10, 6))
 sns.scatterplot(x='Bedrooms', y='Price', data=df)
 plt.xlabel('Number of Rooms')
@@ -41,6 +44,7 @@ correlation = df['Bedrooms'].corr(df['Price'])
 print(f'Correlation between Number of Rooms and Rent Price: {correlation}')
 print('-------------------------------------------------------------')
 
+'''Average rent based on number of bedrooms'''
 average_rent_by_rooms = df.groupby('Bedrooms')['Price'].mean()
 
 plt.figure(figsize=(10, 6))
@@ -52,7 +56,7 @@ plt.xticks(rotation=0)
 plt.grid(axis='y')
 plt.savefig(f'{image_path}/Average_Rent_by_Number_of_Rooms.png')
 
-
+'''Impact of distance from university on rent'''
 plt.figure(figsize=(10, 6))
 sns.scatterplot(data=df,
                 x='Distance to the university (in miles)',
@@ -65,6 +69,7 @@ plt.title('Scatterplot of Distance vs. Rental Rate')
 plt.legend(title=' # of Bedrooms')
 plt.savefig(f'{image_path}/Scatterplot_Distance_vs._Rental_Rates.png')
 
+'''There doesnt seem much of a pattern in distance vs rent'''
 
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import r2_score
@@ -115,7 +120,7 @@ print(f'R-squared for distance and bedrooms: {r2_}')
 print('-------------------------------------------------------------')
 '''Now taking both the variables into account gives a relatively bigger r2 which means a lot more variance in rent is explained when these two factors/variables are accounted for together. The relationship is negative with distance and positive with number of bedrooms as expected.'''
 
-
+'''Top most expensive zipcodes'''
 zipcode_rents = df.groupby('Zip')['Price'].mean().reset_index()
 
 zipcode_rents = zipcode_rents.sort_values(by='Price', ascending=False)
@@ -132,7 +137,7 @@ plt.title(f'Top {top_n} Most Expensive Zip Codes')
 plt.xticks(top_zipcodes, rotation=45)
 plt.savefig(f'{image_path}/Top_{top_n}_Most_Expensive_Zip_Codes.png')
 
-
+'''Impact of living area on rent'''
 X2 = df['LivingArea'].values.reshape(-1, 1)
 y2 = df['Price'].values
 
@@ -165,7 +170,7 @@ correlation_coefficient = correlation_matrix.loc['LivingArea', 'Price']
 print(f'Correlation Coefficient: {correlation_coefficient}')
 print('-------------------------------------------------------------')
 
-
+'''Graphing box plots'''
 price = df['Price']
 living_area = df['LivingArea']
 distance = df['Distance to the university (in miles)']
@@ -244,17 +249,18 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig(f'{image_path}/Price_Zip_Box.png')
 
-summary_distance = df.groupby("Binned_Distance")["Price"].describe()
+'''Summary statistics'''
+summary_distance = df.groupby('Binned_Distance')['Price'].describe()
 
-print("Summary Statistics for Price based on Binned Distance to the University:")
+print('Summary Statistics for Price based on Binned Distance to the University:')
 print(summary_distance)
 
-summary_zip = filtered_data.groupby("Zip")["Price"].describe()
+summary_zip = filtered_data.groupby('Zip')['Price'].describe()
 
-print("\nSummary Statistics for Price based on Zip Code (with at least {} listings):".format(min_listings))
+print('\nSummary Statistics for Price based on Zip Code (with at least {} listings):'.format(min_listings))
 print(summary_zip)
 
-
+'''Trend lines'''
 df.iloc[:, 3] = sorted(df.iloc[:, 3])
 
 sns.set(style='whitegrid')
@@ -283,7 +289,6 @@ plt.xticks(range(1, 5))
 plt.xlabel('Bedrooms')
 plt.ylabel('Price')
 plt.savefig('images/Price_Bedrooms.png')
-
 
 plt.figure(figsize=(10, 6))
 sns.lineplot(x=zip_code, y=price, marker='o', color='b', linewidth=2)

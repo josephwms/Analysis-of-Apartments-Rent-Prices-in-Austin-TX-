@@ -7,6 +7,8 @@ warnings.simplefilter("ignore")
 
 df = pd.read_csv('artifacts/result.csv')
 
+image_path = 'images/'
+
 print('Head')
 print(df.head())
 print('-------------------------------------------------------------')
@@ -23,6 +25,7 @@ plt.xlabel('Rent Amount')
 plt.ylabel('Frequency')
 plt.title('Rent Distribution Histogram')
 plt.grid(True)
+plt.savefig(f"{image_path}/Rent_Distribution.png")
 plt.show()
 
 
@@ -31,6 +34,7 @@ plt.xlabel('Number of Rooms')
 plt.ylabel('Rent Price ($)')
 plt.title('Impact of # of Rooms on Rent')
 plt.xticks(range(1, 5)) 
+plt.savefig(f"{image_path}/Impact_of_Rooms_numbers_on_Rent.png")
 plt.show()
 
 
@@ -50,8 +54,8 @@ plt.xlabel('Number of Rooms')
 plt.ylabel('Average Rent ($)')
 plt.xticks(rotation=0)  
 plt.grid(axis='y')
+plt.savefig(f"{image_path}/Average_Rent_by_Number_of_Rooms.png")
 plt.show()
-
 
 '''Now lets check the impact on price from the distance to university'''
 
@@ -60,11 +64,8 @@ plt.xlabel('Distance to the university (in miles)')
 plt.ylabel('Rental Rate')
 plt.title('Scatterplot of Distance vs. Rental Rate')
 plt.legend(title=' # of Bedrooms')
+plt.savefig(f"{image_path}/Scatterplot_Distance_vs._Rental_Rates.png")
 plt.show()
-
-
-
-
 
 '''There doesnt seem much of a pattern in distance vs rent'''
 
@@ -80,7 +81,6 @@ X = X.values.reshape(-1, 1)
 model = LinearRegression()
 model.fit(X,y)
 
-
 print(f'Intercept: {model.intercept_}')
 print(f'Coefficient for Distance to the university: {model.coef_[0]}')
 print('-------------------------------------------------------------')
@@ -92,6 +92,7 @@ plt.xlabel('Distance from University')
 plt.ylabel('Rental Rate')
 plt.title('Linear Regression: Distance vs. Rental Rate')
 plt.legend()
+plt.savefig(f"{image_path}/Linear_Regression_Distance_vs._Rental_Rate.png")
 plt.show()
 
 r2 = r2_score(y, y_predict)
@@ -135,6 +136,7 @@ plt.xlabel('Zip Code')
 plt.ylabel('Average Price')
 plt.title(f'Top {top_n} Most Expensive Zip Codes')
 plt.xticks(top_zipcodes, rotation=45)
+plt.savefig(f"{image_path}/Top_{top_n}_Most_Expensive_Zip_Codes.png")
 plt.show()
 
 
@@ -159,6 +161,7 @@ plt.ylabel('Rent')
 plt.title('Impact of Living Area on Rent')
 plt.legend()
 plt.grid(True)
+plt.savefig(f"{image_path}/Impact_of_Living_Area_on_Rent.png")
 plt.show()
 
 
@@ -174,9 +177,6 @@ correlation_coefficient = correlation_matrix.loc['LivingArea', 'Price']
 print(f"Correlation Coefficient: {correlation_coefficient}")
 print('-------------------------------------------------------------')
 '''There is a moderately strong positive relationship between living area and rent which means as living area increases then so does rent. Also, about 50% variability in rent is explained by living area'''
-
-# Please Set the base path for images. Here is mine as an example
-image_path = 'images/'
 
 # Extract the relevant columns
 price = df["Price"]
@@ -225,9 +225,9 @@ plt.xlabel("Binned Distance to UT Austin (miles)")
 plt.ylabel("Price")
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig(f"{image_path}\\Price_Distance_Box.png")
+plt.savefig(f"{image_path}/Price_Distance_Box.png")
 
-# Creting a box plot that only graphs specific zip codes
+# Creating a box plot that only graphs specific zip codes
 
 min_listings = 50
 zip_counts = df["Zip"].value_counts()
@@ -262,6 +262,6 @@ plt.xlabel("Zip Code")
 plt.ylabel("Price")
 plt.xticks(rotation=45)
 plt.tight_layout()
-plt.savefig(f"{image_path}\\Price_Zip_Box.png")
+plt.savefig(f"{image_path}/Price_Zip_Box.png")
 
 print('All figures are saved in the images folder')

@@ -2,13 +2,11 @@ import pandas as pd
 import folium
 
 # Load the CSV data into a DataFrame
-df = pd.read_csv('artifacts/result.csv') 
+df = pd.read_csv('artifacts/result.csv')
 
-# Create a map centered on a location 
+# Create a map centered on a location
 # (We choose UT Austin for example, you can change it to your university using our get_lat_lon.py)
-map_center = [30.2849 , -97.7341]  
-
-
+map_center = [30.2849, -97.7341]
 
 # Create a Folium map
 m = folium.Map(location=map_center, zoom_start=12)
@@ -25,19 +23,17 @@ for index, row in df.iterrows():
     distance = row['Distance to the university (in miles)']
     URL = row['DetailURL']
 
-  # Replace latitude and longitude with actual coordinates for the zip code
-    popup_text = f"Zip Code: {zip_code}<br>Price:${price}\
+    # Replace latitude and longitude with actual coordinates for the zip code
+    popup_text = f'Zip Code: {zip_code}<br>Price:${price}\
                 <br>Area: {living_area} sqft.<br>Bathrooms: {bathroom}\
                 <br>Bedrooms: {bedroom}<br>Dis.to Uni.: {distance} miles\
-                <br>DetailURL: {URL}"
-    
+                <br>DetailURL: {URL}'
 
     # Create a marker for each data point
-    folium.Marker(
-        location=location,
-        popup=popup_text,
-        icon=folium.Icon(icon='home')
-    ).add_to(m)
+    folium.Marker(location=location,
+                  popup=popup_text,
+                  icon=folium.Icon(icon='home')).add_to(m)
 
 # Save the map to an HTML file
 m.save('images/rent_price_map.html')
+print('The map has been saved')

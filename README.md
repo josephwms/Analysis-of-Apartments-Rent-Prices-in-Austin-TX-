@@ -15,7 +15,7 @@ Also, there are some attributes that we computed and added to the dataset, which
 
 ***Execution method:*** To execute the code and get the cleaned result.csv file (the data file that you can use for further analysis), you should run the following codes from the terminal in order: 
 
-'''py  
+```python  
 
 git clone [github SSH]  
 
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 python3 Code/data/get_zillowData.py  
 
-''' 
+``` 
 ***Results you will get:***
 * 6 CSV files named 'data_0, ... , data_5' that contain data for the first/second/.../sixth home type respectively.
 * A CSV file named 'pre_result.csv', which combines the 6 CSV files above but contains some empty values in it.

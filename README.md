@@ -157,7 +157,7 @@ python3 Code/visualization/get_price_map.py
 python3 Code/models/Random_Forest_regression.py
 ```
 
-* After you run this code in your terminal, you will get a new CSV file named 'artifacts/result_with_predict.csv', which is added a column of our estimated price for the given data computed by our regression model. Also, you will see an R-Square Score of the test set we separated from the whole dataset printed in the terminal. The R-Square Score is around 0.954 for our Random Forest Model, which is really accurate.
+* After you run this code in your terminal, you will see 6 model evaluation metrics of the model printed in the terminal. The R-Square Score is around 0.954 for our Random Forest Model, which is really accurate.
 
 * You can use similar command lines to get results of other regression methods listed in the chart above, remember to change the name of the Python file to the method you'd like to use.
 
@@ -182,9 +182,14 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 
 ## F. Limitations
 
-* ***Data Collection:*** Our project's primary data source was the Zillow API which is a comprehensive platform. However, it does not encapsulate the entirety of available rental listings. A significant portion of properties not listed on Zillow were omitted from our analysis.  We also omitted a significant number of listings that did not include a value for 'Living Area,'- a potential sampling bias.  Furthermore, we recognize that several influential factors went unaccounted for in our model. The furnishing status of a property, its age, available amenities such as swimming pools or gyms, security features, and specific landlord policies are all crucial determinants of rental pricing. Finally, the ever-changing nature of the rental market poses another limitation. The data we collected represents only a specific moment in time. As the rental landscape evolves, this snapshot might lose its relevance, making our model less reflective of future conditions.
+* ***Data Collection:*** Our project's primary data source was the Zillow API which is a comprehensive platform. However, it does not encapsulate the entirety of available rental listings. A significant portion of properties not listed on Zillow were omitted from our analysis.  We also omitted a significant number of listings that did not include a value for 'Living Area,'- a potential sampling bias.  
+* Furthermore, we recognize that several influential factors went unaccounted for in our model. The furnishing status of a property, its age, available amenities such as swimming pools or gyms, security features, and specific landlord policies are all crucial determinants of rental pricing.  
+* Finally, the ever-changing nature of the rental market poses another limitation. The data we collected represents only a specific moment in time. As the rental landscape evolves, this snapshot might lose its relevance, making our model less reflective of future conditions.
 
 * ***Modelling:*** We tried eight methods for modeling and picked out the best one with the highest R Square Score. However, we didn't do enough work on the feature selection and parameter setting part. One could get a more accurate estimation if one used some metrics to delete some idle attributes or used grid search to find better parameters.
+
+* ***Availablity:***
+* Our research is only restricted to Austin and the university refers to the University of Texas, at Austin. If you want to research other cites, you can change the parameters in API, and if you want to change the colleges, you should edit the code in the file called get_lat_lon.py and get_zipcode.py. In this way, you are able to investigate the renting market around universities in the US.
 
 
 

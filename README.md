@@ -56,6 +56,18 @@ python3 Code/data/get_zillowData.py
 python3 Code/analysis/analysis.py
 
 ```
+* ***Documentation***
+Price: The present monthly rental price of the apartments, measured in dollars;
+Zip: The Zipcode of the rental apartment;  
+My university: University of Texas, at Austin
+Distance to University: The distance from the apartment to UT, measured in miles;
+Address: The location of the apartment;
+Bathrooms: Number of bathrooms in the apartment;
+Bedrooms: Number of bedrooms in the apartment;
+LivingArea: The Area of the apartment, measured in square feet;
+Latitude: The latitude of the apartment;
+Longitude: The longitude of the apartment;
+DetailURL: The URL of the apartment shown in Zillow.
 
 * ***Dataset Overview***
 We start our analysis by seeing the distribution of rent. 
@@ -132,7 +144,7 @@ python3 Code/visualization/get_price_map.py
 
 ***Goals:*** To build a regression model to predict a house rent for apartments in Austin, TX given several attributes such as 'Zip Code', 'Living Area', 'Bathrooms', etc.
 
-***Variables:*** We chose 'Zip', 'LivingArea', 'Bathrooms', 'Bedrooms', and 'Distance to the University' as X, and chose 'Price' as Y for our regression models. The 'LivingArea' is measured in square feet. The Distance to the University is measured in miles. The 'Price' is measured in dollars. 
+***Variables:*** We chose 'Zip', 'LivingArea', 'Bathrooms', 'Bedrooms', and 'Distance to the University' as X, and chose 'Price' as Y for our regression models. 
 
 ***Model Selection:*** We tried several models, including parametric and non-parametric approaches. For machine learning methods, we conduct Random Forest(RF), Decision Tree(DT), and Support Vector Machines(SVM) methods. For regression models, we conduct Linear Regression(LR), Ridge Regression(RR), Bayesian Ridge Regression(BRR), Logistic Regression(LOG), and Polynomial Regression(PR) models.
 
@@ -167,7 +179,7 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 
 ![RF_result](images/RF_result.png)
 
-***Reproducibility:***
+## F. Reproducibility
 
 * ***Data:*** The users can directly get their data by executing the same command lines as mentioned in the data collection part above. Mention that you will need an APIKEY for both RapidAPI.com and Google leapis API. You can get your own Google Leapis API by following some instructions online, but for RapidAPI.com, you need to sign up for an account to have your own APIKEY or ask for help by sending an email to **joewlimms1221@gmail.com**.
 
@@ -175,13 +187,13 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 * ***Model:*** After you get your result.csv file, you can use the command lines shown in the second part to get an estimated price result.
 
   
-* ***Analysis:*** You can get figures of the same format as ours by using the command lines shown in the third part, and all the figures and .html files will be kept in the folder called 'images'. Using the interaction function, you are able to estimate the rent of your desired apartment and compare it to the prices listed on the renting websites. In this way, you are able to make price comparisons in several ways and pick the most efficient one.
+* ***Analysis:*** You can get figures of the same format as ours by using the command lines shown in the third part, and all the figures and .html files will be kept in the folder called 'images'. 
   
   
 
 
 
-## F. Limitations
+## G. Limitations
 
 * ***Data Collection:***  
  Our project's primary data source was the Zillow API which is a comprehensive platform. However, it does not encapsulate the entirety of available rental listings. A significant portion of properties not listed on Zillow were omitted from our analysis.  We also omitted a significant number of listings that did not include a value for 'Living Area,'- a potential sampling bias.
@@ -200,8 +212,11 @@ Our research is only restricted to Austin and the university refers to the Unive
 
 
   
-## D. Further Improvements
-It is crucial to continue researching the improvement of distance metrics. Our first statistics lead us to believe that the 'distance to university' has little bearing on rental rates. However, because the university is close to the city center, these two measurements may have overlapping effects. It is crucial to distinguish between the specific effects of being close to the institution and the more general attractiveness of being located downtown. We can also further refine the distance metric to better fit our model by introducing variables such as public transportation commute times or walkability indices. Additionally, our model might also be improved by using APIs to incorporate further variables, some of which were noted in our limitations section. Finally, we acknowledge the dynamic nature of rental markets. So, integrating a time series analysis is crucial to maintaining the correctness of our model and enables us to quickly adjust to markets or economies that are experiencing sharp volatility.
+## H. Further Improvements
+It is crucial to continue researching the improvement of distance metrics. Using the interaction function, you are able to estimate the rent of your desired apartment and compare it to the prices listed on the renting websites. In this way, you are able to make price comparisons in several ways and pick the most efficient one.  
+Our first statistics lead us to believe that the 'distance to university' has little bearing on rental rates. However, because the university is close to the city center, these two measurements may have overlapping effects. It is crucial to distinguish between the specific effects of being close to the institution and the more general attractiveness of being located downtown.  
+We can also further refine the distance metric to better fit our model by introducing variables such as public transportation commute times or walkability indices. Additionally, our model might also be improved by using APIs to incorporate further variables, some of which were noted in our limitations section.  
+Finally, we acknowledge the dynamic nature of rental markets. So, integrating a time series analysis is crucial to maintaining the correctness of our model and enables us to quickly adjust to markets or economies that are experiencing sharp volatility.
 
 
 

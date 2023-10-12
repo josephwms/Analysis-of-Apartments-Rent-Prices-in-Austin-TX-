@@ -26,7 +26,7 @@ plt.xlabel('Rent Amount')
 plt.ylabel('Frequency')
 plt.title('Rent Distribution Histogram')
 plt.savefig(f'{image_path}/Rent_Distribution.png')
-plt.show()
+
 
 plt.figure(figsize=(10, 6))
 sns.scatterplot(x='Bedrooms', y='Price', data=df)
@@ -35,7 +35,7 @@ plt.ylabel('Rent Price ($)')
 plt.title('Impact of # of Rooms on Rent')
 plt.xticks(range(1, 5))
 plt.savefig(f'{image_path}/Impact_of_Rooms_numbers_on_Rent.png')
-plt.show()
+
 
 correlation = df['Bedrooms'].corr(df['Price'])
 print(f'Correlation between Number of Rooms and Rent Price: {correlation}')
@@ -51,7 +51,7 @@ plt.ylabel('Average Rent ($)')
 plt.xticks(rotation=0)
 plt.grid(axis='y')
 plt.savefig(f'{image_path}/Average_Rent_by_Number_of_Rooms.png')
-plt.show()
+
 
 plt.figure(figsize=(10, 6))
 sns.scatterplot(data=df,
@@ -64,7 +64,6 @@ plt.ylabel('Rental Rate')
 plt.title('Scatterplot of Distance vs. Rental Rate')
 plt.legend(title=' # of Bedrooms')
 plt.savefig(f'{image_path}/Scatterplot_Distance_vs._Rental_Rates.png')
-plt.show()
 
 
 from sklearn.linear_model import LinearRegression
@@ -90,7 +89,7 @@ plt.ylabel('Rental Rate')
 plt.title('Linear Regression: Distance vs. Rental Rate')
 plt.legend()
 plt.savefig(f'{image_path}/Linear_Regression_Distance_vs._Rental_Rate.png')
-plt.show()
+
 
 r2 = r2_score(y, y_predict)
 print(f'R-squared for distance: {r2}')
@@ -132,7 +131,6 @@ plt.ylabel('Average Price')
 plt.title(f'Top {top_n} Most Expensive Zip Codes')
 plt.xticks(top_zipcodes, rotation=45)
 plt.savefig(f'{image_path}/Top_{top_n}_Most_Expensive_Zip_Codes.png')
-plt.show()
 
 
 X2 = df['LivingArea'].values.reshape(-1, 1)
@@ -154,7 +152,7 @@ plt.ylabel('Rent')
 plt.title('Impact of Living Area on Rent')
 plt.legend()
 plt.savefig(f'{image_path}/Impact_of_Living_Area_on_Rent.png')
-plt.show()
+
 
 r2__ = r2_score(y2, y_predicted)
 print(f'R-squared for living area: {r2__}')
@@ -168,14 +166,12 @@ print(f'Correlation Coefficient: {correlation_coefficient}')
 print('-------------------------------------------------------------')
 
 
-
 price = df['Price']
 living_area = df['LivingArea']
 distance = df['Distance to the university (in miles)']
 bathroom = df['Bathrooms']
 bedroom = df['Bedrooms']
 zip_code = df['Zip']
-
 
 sns.set(style='whitegrid')
 sns.set_context('talk')
@@ -257,5 +253,43 @@ summary_zip = filtered_data.groupby("Zip")["Price"].describe()
 
 print("\nSummary Statistics for Price based on Zip Code (with at least {} listings):".format(min_listings))
 print(summary_zip)
+
+
+df.iloc[:, 3] = sorted(df.iloc[:, 3])
+
+sns.set(style='whitegrid')
+sns.set_context('talk')
+
+plt.figure(figsize=(10, 6))
+sns.lineplot(x=living_area, y=price, marker='o', color='b', linewidth=2)
+plt.title('Living Area vs. Price')
+plt.xlabel('Living Area')
+plt.ylabel('Price')
+
+plt.savefig('images/Price_Area.png')
+
+plt.figure(figsize=(10, 6))
+sns.lineplot(x=bathroom, y=price, marker='o', color='b', linewidth=2)
+plt.title('Bathroom vs. Price')
+plt.xticks(range(1, 5))
+plt.xlabel('Bathrooms')
+plt.ylabel('Price')
+plt.savefig('images/Price_Bathrooms.png')
+
+plt.figure(figsize=(10, 6))
+sns.lineplot(x=bedroom, y=price, marker='o', color='b', linewidth=2)
+plt.title('Bedroom vs. Price')
+plt.xticks(range(1, 5))
+plt.xlabel('Bedrooms')
+plt.ylabel('Price')
+plt.savefig('images/Price_Bedrooms.png')
+
+
+plt.figure(figsize=(10, 6))
+sns.lineplot(x=zip_code, y=price, marker='o', color='b', linewidth=2)
+plt.title('Zip_Code vs. Price')
+plt.xlabel('Zip Code')
+plt.ylabel('Price')
+plt.savefig('images/Price_Zip.png')
 
 print('All figures are saved in the images folder')

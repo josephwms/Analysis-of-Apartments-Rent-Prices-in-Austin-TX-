@@ -1,4 +1,4 @@
-# Analysis of Apartments' Rent Prices in Austin, TX! (Especially for UT Students)
+# Analysis of Apartments' Rent Prices in Austin, TX! (Support for User Interaction, Especially for UT Students)
 
 
 ## A. Data Collection and Cleaning

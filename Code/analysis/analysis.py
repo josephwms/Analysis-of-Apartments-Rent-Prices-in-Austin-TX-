@@ -256,4 +256,21 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.savefig(f'{image_path}/Price_Zip_Box.png')
 
+#extracting summary statistics
+
+# Group by Binned_Distance and compute the summary statistics
+summary_distance = df.groupby("Binned_Distance")["Price"].describe()
+
+print("Summary Statistics for Price based on Binned Distance to the University:")
+print(summary_distance)
+
+# Group by Zip and compute the summary statistics for the filtered data
+summary_zip = filtered_data.groupby("Zip")["Price"].describe()
+
+print("\nSummary Statistics for Price based on Zip Code (with at least {} listings):".format(min_listings))
+print(summary_zip)
+
+
+
+
 print('All figures are saved in the images folder')

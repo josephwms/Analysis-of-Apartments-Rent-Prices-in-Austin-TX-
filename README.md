@@ -71,7 +71,9 @@ python3 Code/data/get_zillowData.py
 ***Execution Method:***  
 
 
->> python3 Code/models/Random_Forest_regression.py
+```python
+python3 Code/models/Random_Forest_regression.py
+```
 
 * After you run this code in your terminal, you will get a new CSV file named 'artifacts/result_with_predict.csv', which is added a column of our estimated price for the given data computed by our regression model. Also, you will see an R-Square Score of the test set we separated from the whole dataset printed in the terminal. The R-Square Score is around 0.954 for our Random Forest Model, which is really accurate.
 
@@ -100,7 +102,11 @@ Next we try to see the impact of different factors on rent.
 
 * We use Python to visualize the relationship, try to use the execution method below and you will get the following figures in the 'images' folder.
 
->> python3 Code/analysis/analysis.py
+```python
+
+python3 Code/analysis/analysis.py
+
+```
 
 ![Price_Area](images/Price_Area.png)
 
@@ -154,9 +160,11 @@ The plot suprisingly does not show a strong relationship between distance from t
 
 * If you want to run our codes to get this map for our or your own dataset, please follow the operations below:
 
+```python
 
->> python3 Code/visualization/get_price_map.py
+python3 Code/visualization/get_price_map.py
 
+```
 
   
 

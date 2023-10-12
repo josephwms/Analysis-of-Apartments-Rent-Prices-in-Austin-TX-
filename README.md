@@ -182,12 +182,9 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 
 ## F. Limitations
 
-* ***Data Collection:***  
-*Our project's primary data source was the Zillow API which is a comprehensive platform. However, it does not encapsulate the entirety of available rental listings. A significant portion of properties not listed on Zillow were omitted from our analysis.  We also omitted a significant number of listings that did not include a value for 'Living Area,'- a potential sampling bias.
-  
-*Furthermore, we recognize that several influential factors went unaccounted for in our model. The furnishing status of a property, its age, available amenities such as swimming pools or gyms, security features, and specific landlord policies are all crucial determinants of rental pricing.  
-  
-*Finally, the ever-changing nature of the rental market poses another limitation. The data we collected represents only a specific moment in time. As the rental landscape evolves, this snapshot might lose its relevance, making our model less reflective of future conditions.
+* ***Data Collection:***  Our project's primary data source was the Zillow API which is a comprehensive platform. However, it does not encapsulate the entirety of available rental listings. A significant portion of properties not listed on Zillow were omitted from our analysis.  We also omitted a significant number of listings that did not include a value for 'Living Area,'- a potential sampling bias.  
+  Furthermore, we recognize that several influential factors went unaccounted for in our model. The furnishing status of a property, its age, available amenities such as swimming pools or gyms, security features, and specific landlord policies are all crucial determinants of rental pricing.  
+  Finally, the ever-changing nature of the rental market poses another limitation. The data we collected represents only a specific moment in time. As the rental landscape evolves, this snapshot might lose its relevance, making our model less reflective of future conditions.
 
 * ***Modelling:***  
 We tried eight methods for modeling and picked out the best one with the highest R Square Score. However, we didn't do enough work on the feature selection and parameter setting part. One could get a more accurate estimation if one used some metrics to delete some idle attributes or used grid search to find better parameters.

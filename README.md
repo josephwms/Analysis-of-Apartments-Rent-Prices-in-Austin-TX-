@@ -86,7 +86,15 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 
 
 
-## C. Analysis
+## C. Analysis  
+
+* We use Python to visualize the relationship, try to use the execution method below and you will get the following figures in the 'images' folder.
+
+```python
+
+python3 Code/analysis/analysis.py
+
+```
 
 
 * ***Dataset Overview***
@@ -99,14 +107,6 @@ As shown in the plot above, rent varies from as low as around $800 till as high 
 Next we try to see the impact of different factors on rent.
 
 * ***Relation between rent and other attributes***
-
-* We use Python to visualize the relationship, try to use the execution method below and you will get the following figures in the 'images' folder.
-
-```python
-
-python3 Code/analysis/analysis.py
-
-```
 
 ![Price_Area](images/Price_Area.png)
 

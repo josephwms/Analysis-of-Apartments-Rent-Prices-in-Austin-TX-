@@ -182,7 +182,8 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 
 ## F. Limitations
 
-* ***Data Collection:***  Our project's primary data source was the Zillow API which is a comprehensive platform. However, it does not encapsulate the entirety of available rental listings. A significant portion of properties not listed on Zillow were omitted from our analysis.  We also omitted a significant number of listings that did not include a value for 'Living Area,'- a potential sampling bias.
+* ***Data Collection:***  
+ Our project's primary data source was the Zillow API which is a comprehensive platform. However, it does not encapsulate the entirety of available rental listings. A significant portion of properties not listed on Zillow were omitted from our analysis.  We also omitted a significant number of listings that did not include a value for 'Living Area,'- a potential sampling bias.
    
   Furthermore, we recognize that several influential factors went unaccounted for in our model. The furnishing status of a property, its age, available amenities such as swimming pools or gyms, security features, and specific landlord policies are all crucial determinants of rental pricing.
   

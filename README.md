@@ -17,7 +17,7 @@ Also, there are some attributes that we computed and added to the dataset, which
 
 ```python  
 
-git clone [github SSH]  
+git clone git@github.com:josephwms/eco395m-project1-midterm.git 
 
 cd eco395m-project1-midterm
 

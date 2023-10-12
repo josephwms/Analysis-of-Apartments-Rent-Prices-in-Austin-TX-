@@ -85,21 +85,50 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 
 
 * ***Dataset Overview***
+We start our analysis by seeing the distribution of rent. 
 
-....................................
+![Rent_Distribution](images/Rent_Distribution.png)
 
+As shown in the plot above, rent varies from as low as around $800 till as high as around $13000. 
 
+Next we try to see the impact of different factors on rent.
 
-* ***Relation between prices and other attributes***
+* ***Relation between rent and other attributes***
 
 * We use Python to visualize the relationship, try to use the execution method below and you will get the following figures in the 'images' folder.
 
-  
 >> python3 Code/analysis/analysis.py
 
 ![Price_Area](images/Price_Area.png)
-![Price_Bathrooms](images/Price_Bathrooms.png)
+
+Living area seems to have positive relationship with rent i.e. as living area increases so does the rent. We want to analyse how strong is this relationship is and so we try to fit a line to the plot as follows: 
+
+![Impact_of_Living_Area_on_Rent](images/Impact_of_Living_Area_on_Rent.png)
+
+This results in an intercept of 523.7376500423748 and a Coefficient for living area of 1.5875577468760047 which confirms the relationship to be positive. To see how much variation in rents is explained by living area we calculated its R-squared and found it to be around 50%. 
+The correlation between rent and living area turned out to be 0.71 which confirmed a strong positive relationship. 
+
+All these calculations were done using python and are in analysis.py file.
+
+Next, we analyse the relationship between rent and number of bedrooms. 
+
 ![Price_Bedrooms](images/Price_Bedrooms.png)
+
+This gives us an interesting insight that as the number of bedrooms increase so does the rent but only till bedroom # 3. For bedroom 4, rent actually goes down. 
+
+For bathrooms, on the other hand, the relationship with rent is such that as the number of bathrooms increase, the rent keeps on increasing. 
+
+![Price_Bathrooms](images/Price_Bathrooms.png)
+
+Another important factor has been distance to the university. As UT Austin students, we thought, analyzing the relationship of distance from the university and rent would be helpful to many. Also, the location of the university is quite central and near downtown, so we wanted to see its impact on rents. 
+
+![Scatterplot_Dsitance_vs._Rental_Rates](images/Scatterplot_Dsitance_vs._Rental_Rates.png)
+
+The plot suprisingly does not show a strong relationship between distance from the university and the rents. However it does show that a lot of two bedrooms are clustered around the university and majority of them are priced around $1500 to $2000. Another key insight was that that 4 bedrooms on an average seemed to be priced higher closer to the university than away from the university (ignoring some outliers) and this is well-explained by the fact that roommates share apartments closer to the university, driving rents up while away from the university 4 bedrooms are maybe not much in demand due to smaller families, in general, in the US and therefore in Austin. 
+
+
+[Ahil's plots]
+
 ![Price_Distance_Box](images/Price_Distance_Box.png)
 ![Price_Zip_Box](images/Price_Zip_Box.png)
 

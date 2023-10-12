@@ -30,13 +30,11 @@ python3 Code/data/get_zillowData.py
 * 6 CSV files named 'data_0, ... , data_5' that contain data for the first/second/.../sixth home type respectively.
 * A CSV file named 'pre_result.csv', which combines the 6 CSV files above but contains some empty values in it.
 * A CSV file named **'result.csv'**,[here](artifacts/result.csv) which is the **final result** of our data collection and cleaning.  
-
-**Caution!** An error called 'KeyError: 'props'' may happen when you execute 'get_zillowData.py'. This is because of the unstableness of the API. You can run the code again until you can find a 'result.csv' file in your artifacts folder. We are really sorry for this, but sometimes the unstableness may occur for some API, hope you can understand, thanks!
  
    
 ***Things to Mention:***
  
-* A successful execution of the code will last about **6-7 minutes** since we set up a sleep function for each loop to avoid reaching the request limit of the API. 
+* A successful execution of the code will last about **6-7 minutes** since we set up a sleep function for each loop to avoid reaching the request limit of the API, please wait for the execution a little bit patiently. 
 
 
 * There is a hidden .env file in the root directory and the /code directory with API keys for both the Google Maps and Zillow API. If you are receiving errors please reach out to me at **joewlimms1221@gmail.com** and I will share the API keys with you as they are under a paywall.

@@ -181,7 +181,7 @@ Our codes have a section for user interactions, after you see the printed R-Squa
 
 ## F. Reproducibility
 
-* ***Data:*** The users can directly get their data by executing the same command lines as mentioned in the data collection part above. Mention that you will need an APIKEY for both RapidAPI.com and Google leapis API. You can get your own Google Leapis API by following some instructions online, but for RapidAPI.com, you need to sign up for an account to have your own APIKEY or ask for help by sending an email to **joewlimms1221@gmail.com**.
+* ***Data:*** The users can directly get their data by executing the same command lines as mentioned in the data collection part above. Mention that you will need an APIKEY for both RapidAPI.com and Google API. You can get your own Google API by following some instructions online, but for RapidAPI.com, you need to sign up for an account to have your own APIKEY or ask for help by sending an email to **joewlimms1221@gmail.com**.
 
   
 * ***Model:*** After you get your result.csv file, you can use the command lines shown in the second part to get an estimated price result.

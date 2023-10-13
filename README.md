@@ -10,7 +10,9 @@ For a query conducted around 18:20 Mon Oct 9, 2023, this yielded approximately 2
 ***Data Attributes' Selection:***
 We chose 'Price', 'Latitude', 'Longitude', 'Address', 'Bathrooms', and 'Bedrooms' as our features. They can be retrieved by setting parameters in the 'initial_pull' function of 'get_zillowData.py', which means we can get those attributes directly from the API.
 
-Also, there are some attributes that we computed and added to the dataset, which are 'Distance to University' and 'zip_code', for instances where the address provided in the query did not yield a zip code. These were both added using the Google leapis API and the code can be referenced in the get_lat_lon.py and get_zipcode.py files.
+Also, there are some attributes that we computed and added to the dataset, which are 'Distance to University' and 'zip_code', for instances where the address provided in the query did not yield a zip code. The attribute 'zip_code" is added using the Google Geocoding API, and the attribute 'Distance to University" is added using the Google Place API. The code can be referenced in the get_lat_lon.py and get_zipcode.py files. ***Please do not use our APIKEY in the .env file directly without our permission because we almost reached the request limit, and we may be charged if you run our code with our Google APIKEY.***
+
+***If you really want to generate a dataset by yourself, you can sign up for the Google Cloud Platform, and activate Google Place API and Google Geocoding API on their website. You will easily get an APIKEY for executing our codes. Google API has a 200-dollar grant for new users, which is enough to run our code several times. After you get the Google APIKEY, you can make a .env file yourself in your directory and put the APIKEY in it. For getting data from Rapidapi, please reach out to our team at **joewlimms1221@gmail.com** and we will share the API keys with you as they are under a paywall.***
 
 
 ***Execution method:*** To execute the code and get the cleaned result.csv file (the data file that you can use for further analysis), you should run the following codes from the terminal in order, remember to update the pip to the latest version to avoid errors, also you could change pip to pip3 in the third line, and python3 to python in the fourth line if you have trouble running the commands below. This is due to the difference between our environment.  
@@ -36,9 +38,6 @@ python3 Code/data/get_zillowData.py
 ***Things to Mention:***
  
 * A successful execution of the code will last about **6-7 minutes** since we set up a sleep function for each loop to avoid reaching the request limit of the API, please wait for the execution a little bit patiently. 
-
-
-* There is a hidden .env file in the root directory and the /code directory with API keys for both the Google Maps and Zillow API. If you are receiving errors please reach out to me at **joewlimms1221@gmail.com** and I will share the API keys with you as they are under a paywall.
 
 
 * If you are wondering why an attribute such as LivingArea is missing for some rows, the reason is that not every house for rent provides such an attribute publicly. Therefore, we may not get some attributes and will receive a CSV file with some missing values. That's why we need to clean the data. In the case that Zip is missing, it may be a failure from the get_zipcode.py file. However, the success rate for that query is relatively high. We will get the final CSV file under several trials.

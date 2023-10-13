@@ -99,8 +99,13 @@ plt.savefig(f'{image_path}/Linear_Regression_Distance_vs._Rental_Rate.png')
 r2 = r2_score(y, y_predict)
 print(f'R-squared for distance: {r2}')
 print('-------------------------------------------------------------')
-'''The coefficient is positive but small and the intercept is a big value. The relationship is positive but very little variance in rent is explained by distance from the unversity alone which means there are other factors playing a role. '''
-'''Lets see the effect of taking both distance from university and number of bedrooms into account. '''
+
+'''The coefficient is positive but small and the intercept is a big value. 
+The relationship is positive but very little variance in rent is explained by distance 
+from the university alone which means there are other factors playing a role. '''
+
+''' Let's see the effect of taking both distance from the university 
+and number of bedrooms into account. '''
 
 X1 = df[['Distance to the university (in miles)', 'Bedrooms']]
 y1 = df['Price']
@@ -118,7 +123,10 @@ r2_ = r2_score(y1, y_pred)
 
 print(f'R-squared for distance and bedrooms: {r2_}')
 print('-------------------------------------------------------------')
-'''Now taking both the variables into account gives a relatively bigger r2 which means a lot more variance in rent is explained when these two factors/variables are accounted for together. The relationship is negative with distance and positive with number of bedrooms as expected.'''
+
+''' Now taking both the variables into account gives a relatively bigger R^2 
+which means a lot more variance in rent is explained when these two factors/variables are accounted for together. 
+The relationship is negative with distance and positive with number of bedrooms as expected.'''
 
 '''Top most expensive zipcodes'''
 zipcode_rents = df.groupby('Zip')['Price'].mean().reset_index()
